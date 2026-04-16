@@ -1,0 +1,16 @@
+Metric,Value
+Counties with lead mining,740.0
+Counties without lead mining,1943.0
+Mean suicide rate (exposed),60.93
+Mean suicide rate (unexposed),51.43
+Rate ratio (unadjusted),1.185
+Excess percentage (unadjusted),18.5
+Adjusted coefficient (per lead site),0.00564
+Mean lead sites (exposed),42.8
+Adjusted excess rate,0.24
+Adjusted excess percentage,0.5
+Male population in lead counties,74304468.0
+Raw excess deaths,7063.0
+Adjusted excess deaths,179.0
+Population Attributable Fraction,0.0485
+Estimated attributable deaths (US),1843.0

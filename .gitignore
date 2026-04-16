@@ -1,0 +1,78 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.local
+.envrc
+*.pem
+*.key
+credentials*.json
+secrets*.json
+
+# macOS / editor noise
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Large raw data (see DATA_SOURCES.md for re-download instructions)
+# Keep: small curated CSVs actually used by analysis scripts
+epa_lcr_samples_county.csv
+epa_lcr_lead_samples_raw.csv
+epa_lead_violations_raw.csv
+epa_lead_hotspots_supplement.zip
+epa_lead_hotspots_figures.zip
+cdc_places_county_2025.csv
+socrata_health_Childhood_Blood_Lead_Testing_and_El.csv
+usgs_soil_lead_concentrations.csv
+usgs_soil_lead_points.csv
+VA_2025_Annual_Report_Part2_Findings.pdf
+"Supplement B/"
+tri_pb_facility.csv
+tri_release_sample.csv
+tri_pb_releases.csv
+item.json
+
+# NHANES raw (large SAS transport files)
+nhanes_data/
+
+# Private / internal planning
+internal/
+HANDS_OFF_PLAN.md
+FUNDING_OPPORTUNITIES_GUIDE.md
+NIH_R21_GRANT_PROPOSAL.md
+EXECUTIVE_SUMMARY_STAKEHOLDERS.md
+collaboration_email_draft.md
+outreach/
+
+# Superseded/archived work (kept locally, not in public repo)
+archive/
+archive_old/
+PRESENTATION_DECK.md
+PAPER2_LEAD_SUICIDE.md
+MANUSCRIPT_COMPLETE.md
+REAL_DATA_FINDINGS.md
+NOVEL_FINDINGS_SYNTHESIS.md
+RESEARCH_SYNTHESIS.md
+WHY_LEAD_SUICIDE_WAS_MISSED.md
+PROJECT_README.md
+strengthen_results.json
+strengthen_results.txt

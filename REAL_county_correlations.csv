@@ -1,0 +1,30 @@
+variable,label,r,p,n,sig
+elevation_feet,Elevation (feet),0.4161323097444607,3.0354821981311415e-41,954,***
+male_female_ratio,Male:Female Ratio,0.19147677224471216,2.0862017333511067e-21,2419,***
+working_age_sex_ratio,Working-Age Sex Ratio (25-64),0.11118461102606665,4.190982719465729e-08,2419,***
+veteran_pct,Veteran %,0.26712590172766015,8.451276069299161e-41,2419,***
+rural_urban_code,Rural-Urban Code (RUCC),0.398224755756204,9.668144599610405e-93,2419,***
+extraction_employment_pct,Extraction Employment %,0.2168602763898953,3.878400846758305e-27,2419,***
+male_divorced_separated_pct,Male Divorced/Separated %,0.058850462088780656,0.0037858478021626798,2419,**
+pop_density_sqmi,Population Density,-0.16024568587940707,2.2157590408366506e-15,2419,***
+bars_per_10k,Bars per 10K Pop,0.05754994277335151,0.004634738924335023,2419,**
+unemployment_rate,Unemployment Rate,0.16671697862906018,1.5410395370917779e-16,2419,***
+poverty_rate,Poverty Rate,0.1730376769570896,1.0267966742324682e-17,2419,***
+median_household_income,Median Household Income,-0.27675202076033806,8.798615083250033e-44,2419,***
+pct_bachelors_or_higher,% Bachelors Degree+,-0.29953919544571433,2.4708052986587012e-51,2419,***
+pct_no_internet,% No Internet Access,0.24802093718492013,3.1034884326114157e-35,2419,***
+housing_vacancy_rate,Housing Vacancy Rate,0.33379190777061596,4.862636479653536e-64,2419,***
+homeownership_rate,Homeownership Rate,0.18122951654691327,2.626487301975965e-19,2419,***
+pct_moved_diff_state,% Moved from Different State,-0.02230249911517295,0.27286850774997184,2419,n.s.
+alcohol_strictness,Alcohol Strictness (state),0.008210707242832339,0.6864862884881694,2419,n.s.
+chr_excessive_drinking_pct,Excessive Drinking %,-0.11675751351071703,8.448219225273972e-09,2419,***
+chr_firearm_fatality_rate,Firearm Fatality Rate,0.5972533176622975,6.877877387118589e-214,2211,***
+chr_overdose_rate,Drug Overdose Rate,0.12686672974725066,3.8227609618439025e-08,1866,***
+chr_pop_per_mh_provider,Pop per MH Provider,0.08749201459606315,1.7406857390402764e-05,2404,***
+chr_freq_mental_distress,Frequent Mental Distress,0.2763052229451408,1.217695556263688e-43,2419,***
+chr_social_associations,Social Associations,-0.03616933799583877,0.07530684427947809,2419,n.s.
+chr_income_inequality,Income Inequality,-0.009927174370528237,0.6266168291664532,2404,n.s.
+chr_pct_rural,% Rural (CHR),0.37180246987887894,3.589176377014278e-80,2419,***
+chr_smoking_pct,Adult Smoking %,0.3067037934861955,7.452675838004463e-54,2419,***
+chr_physical_inactivity,Physical Inactivity %,0.09737857440156727,1.599905839651756e-06,2419,***
+chr_food_insecurity,Food Insecurity %,0.2579707372538093,4.4860841547023826e-38,2419,***

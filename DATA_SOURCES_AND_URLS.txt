@@ -1,0 +1,169 @@
+VA VETERAN SUICIDE DATA - SOURCE REFERENCE
+============================================
+Generated: 2026-04-06
+Data Year: 2023 (most recent available)
+
+PRIMARY DATA SOURCE: VA 2025 National Veteran Suicide Prevention Annual Report
+=================================================================================
+
+Main Data Page:
+  https://www.mentalhealth.va.gov/suicide_prevention/data.asp
+
+2025 Annual Report Part 1 (PDF):
+  https://www.mentalhealth.va.gov/MENTALHEALTH/docs/data-sheets/2025/2025_Annual_Report_Part_1_508.pdf
+
+2025 Annual Report Part 2 - Report Findings (PDF, 5.5MB):
+  https://www.mentalhealth.va.gov/MENTALHEALTH/docs/data-sheets/2025/2025_Annual_Report_Part_2_508.pdf
+  ** Contains Table 3: Suicide rates by state ranked highest to lowest (2023)
+  ** Contains Figure 3: Map of veteran suicide deaths by state (2023)
+  ** Contains Table 1: Top 10 states by number of veteran suicides (2023)
+  ** Contains Table 2: National suicide rates by year 2001-2023
+
+State Data Appendix (Excel, 780KB) - DETAILED STATE-LEVEL DATA 2021-2023:
+  https://www.mentalhealth.va.gov/MENTALHEALTH/docs/data-sheets/2025/State_Data_Appendix_2021-2023_508.xlsx
+  ** This is the most comprehensive state-level dataset
+  ** Downloaded locally as: VA_State_Data_Appendix_2021-2023.xlsx
+
+National Suicide Data Appendix (Excel, 90KB):
+  https://www.mentalhealth.va.gov/MENTALHEALTH/docs/data-sheets/2025/National_Suicide_Data_Appendix_2021-2023_508.xlsx
+  ** Downloaded locally as: VA_National_Suicide_Data_Appendix_2021-2023.xlsx
+
+All-Cause Mortality Data Appendix (Excel):
+  https://www.mentalhealth.va.gov/MENTALHEALTH/docs/data-sheets/2025/All-Cause_Mortality_Data_Appendix_2018-2023_508.xlsx
+
+Individual State Data Sheets (PDFs) - URL Pattern:
+  https://www.mentalhealth.va.gov/MENTALHEALTH/docs/data-sheets/2025/State_Data_Sheets_2025_[StateName]_508.pdf
+  Example: State_Data_Sheets_2025_Texas_508.pdf
+
+VETERAN POPULATION DATA (VetPop2023)
+======================================
+
+Main Page:
+  https://www.va.gov/vetdata/veteran_population.asp
+
+State-Level Population by Age/Sex (Excel):
+  https://www.va.gov/VETDATA/docs/Demographics/New_Vetpop_Model/6L_VetPop2023_State_NCVAS.xlsx
+  ** Downloaded locally as: VetPop2023_State_AgeSex.xlsx
+
+State-Level Population by Period of Service (Excel):
+  https://www.va.gov/VETDATA/docs/Demographics/New_Vetpop_Model/7L_VetPop2023_POS_State_NCVAS.xlsx
+
+State-Level Population by Race/Ethnicity (Excel):
+  https://www.va.gov/VETDATA/docs/Demographics/New_Vetpop_Model/8L_VetPop2023_Race_Ethnicity_State_NCVAS.xlsx
+
+County-Level Population (Excel, very large):
+  https://www.va.gov/VETDATA/docs/Demographics/New_Vetpop_Model/9L_VetPop2023_County_NCVAS.xlsx
+
+CDC NVDRS (National Violent Death Reporting System)
+=====================================================
+
+WISQARS Query Tool:
+  https://wisqars.cdc.gov
+
+NVDRS Help/Documentation:
+  https://wisqars.cdc.gov/help/national-violent-death-reporting-system/
+
+** The NVDRS query tool DOES allow filtering by military/veteran status
+** You can query suicide deaths by state with military status filter
+** Available filters: Year, State, Race, Ethnicity, Sex, Age, Military Status
+** Data available from 2003 to present
+** Access is free; restricted database access available by application
+
+NVDRS Data Access Information:
+  https://www.cdc.gov/nvdrs/about/nvdrs-data-access.html
+
+CDC Suicide Data Sources:
+  https://www.cdc.gov/suicide/resources/data-sources.html
+
+OTHER RESOURCES
+=================
+
+VA Open Data Portal:
+  https://data.va.gov/
+
+VA State Summaries:
+  https://www.va.gov/vetdata/stateSummaries.asp
+
+Suicide Prevention Resource Center - State Data Sheets:
+  https://sprc.org/resources/state-veteran-suicide-data-sheets/
+
+FILES IN THIS DIRECTORY
+========================
+
+--- PDF Report ---
+VA_2025_Annual_Report_Part2_Findings.pdf
+  - Full 66-page 2025 report with all charts, tables, and analysis
+
+--- Summary CSVs (extracted from PDF tables) ---
+VA_State_Veteran_Suicide_Rates_2023.csv
+  - Table 3 from the 2025 report: all 49 states ranked by veteran suicide rate per 100,000 (2023)
+  - Includes rate and death count
+  - Vermont and DC suppressed (fewer than 10 deaths)
+
+VA_State_Veteran_Suicide_Deaths_2023_Map.csv
+  - Figure 3 from the 2025 report: veteran suicide death counts by state (2023)
+  - All 50 states plus DC
+
+VA_Top10_States_Veteran_Suicides_2023.csv
+  - Table 1: Top 10 states by number of veteran suicides with veteran population
+
+VA_National_Suicide_Rates_by_Year_2001-2023.csv
+  - Table 2: National suicide rates per 100,000 by year, veteran status, and sex
+
+--- Full State-Level Data CSVs (extracted from Excel appendix) ---
+VA_Veteran_Suicides_by_State_2001-2023_FULL.csv
+  - COMPREHENSIVE: All states, all years 2001-2023
+  - Columns: Year, Region, State, Veteran_Suicides, Population_Estimate, Suicide_Rate_per_100000
+  - ~1,196 rows (52 states/territories x 23 years)
+
+VA_Veteran_Suicides_by_State_Sex_2001-2023.csv
+  - Veteran suicides by state, year, and sex (Male/Female/All), 2001-2023
+  - ~3,588 rows
+
+VA_Suicides_by_State_Age_2001-2023.csv
+  - Veteran and general population suicides by state, year, and age group, 2001-2023
+  - Columns: Year, Region, State, Age_Group, Veteran_Suicides, Veteran_Rate, GenPop_Suicides, GenPop_Rate
+  - ~6,440 rows
+
+VA_Suicides_by_State_Method_2001-2023.csv
+  - Suicides by state, year, and method (Firearms, Suffocation, Poisoning, Other), 2001-2023
+  - ~8,480 rows
+
+--- National-Level Data CSVs (extracted from Excel appendix) ---
+VA_National_Veteran_Suicide_Rates_2001-2023.csv
+  - National veteran suicide rates with age-adjusted rates by sex, plus age breakdowns
+
+VA_National_Recent_Veteran_VHA_User_Suicide_Rates_2001-2023.csv
+  - Suicide rates for veterans who recently used VHA care
+
+VA_National_Other_Veteran_Suicide_Rates_2001-2023.csv
+  - Suicide rates for veterans NOT recently using VHA care
+
+VA_National_Non_Veteran_Suicide_Rates_2001-2023.csv
+  - Non-veteran adult suicide rates for comparison
+
+VA_National_U.S._Adult_Population_Suicide_Rates_2001-2023.csv
+  - Total U.S. adult population suicide rates
+
+--- Veteran Population Data ---
+VetPop2023_State_Population.csv
+  - Veteran population by state and age group (2023 estimates, rounded to nearest 1)
+  - 52 rows (50 states + DC + Puerto Rico)
+
+--- Original Excel/PDF Source Files ---
+VA_State_Data_Appendix_2021-2023.xlsx  (780KB)
+  - Original VA Excel workbook with 6 sheets of state-level data
+
+VA_National_Suicide_Data_Appendix_2021-2023.xlsx  (90KB)
+  - Original VA Excel workbook with 6 sheets of national-level data
+
+VetPop2023_State_AgeSex.xlsx  (690KB)
+  - Original VA veteran population projection model data
+
+NOTES
+======
+- Data marked with * indicates rates are unreliable (based on small counts)
+- Values of "<10" or "--" indicate suppressed data (fewer than 10 deaths)
+- Rates are unadjusted suicide rates per 100,000 person-years unless noted
+- VetPop population numbers should be reported to nearest 1,000 per VA guidance
+- The Excel files contain multi-sheet workbooks with additional detail beyond what was extracted

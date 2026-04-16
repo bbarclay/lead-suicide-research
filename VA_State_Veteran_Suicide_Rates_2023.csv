@@ -1,0 +1,52 @@
+Rank,State,Veteran_Suicide_Rate_per_100000,Veteran_Suicide_Deaths_2023
+1,Nevada,61.2,128
+2,Utah,59.5,78
+3,Oklahoma,56.9,161
+4,West Virginia,55.6,69
+5,Montana,53.9,48
+6,Idaho,52.1,63
+7,Arkansas,51.5,105
+8,Colorado,48.4,178
+9,Tennessee,48.2,210
+10,Arizona,46.7,223
+11,Wyoming,45.7,21
+12,Kansas,43.4,79
+13,Oregon,42.9,114
+14,North Dakota,40.0,20
+15,Indiana,39.9,149
+16,Wisconsin,39.4,130
+17,Kentucky,39.3,103
+18,South Dakota,39.1,25
+19,Florida,38.6,550
+20,Pennsylvania,38.6,268
+21,Maine,38.0,41
+22,Ohio,37.6,254
+23,Texas,37.6,581
+24,Missouri,37.5,147
+25,Iowa,36.8,67
+26,Washington,36.4,186
+27,Alabama,35.7,122
+28,Michigan,35.6,180
+29,Alaska,35.2,25
+30,Mississippi,34.4,63
+31,New Hampshire,34.0,32
+32,New Mexico,33.5,52
+33,South Carolina,33.2,131
+34,North Carolina,32.9,228
+35,Louisiana,32.0,83
+36,Nebraska,31.7,38
+37,Delaware,30.2,19
+38,Georgia,30.0,200
+39,Connecticut,27.0,41
+40,Minnesota,26.8,80
+41,California,26.3,389
+42,Illinois,25.6,160
+43,Rhode Island,25.5,13
+44,Virginia,25.0,172
+45,New York,24.9,167
+46,Hawaii,23.9,26
+47,Massachusetts,22.5,62
+48,Maryland,17.6,64
+49,New Jersey,13.5,42
+,Vermont,suppressed,*
+,District of Columbia,suppressed,*

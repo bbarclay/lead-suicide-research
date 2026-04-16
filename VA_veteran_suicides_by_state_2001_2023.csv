@@ -1,0 +1,1197 @@
+Year,Region,State,Veteran_Suicides,Veteran_Pop,Veteran_Suicide_Rate
+2001,Northeastern,Connecticut,46,298000,15.4
+2001,Northeastern,Maine,38,151000,25.2
+2001,Northeastern,Massachusetts,83,531000,15.6
+2001,Northeastern,New Hampshire,29,137000,21.2
+2001,Northeastern,New Jersey,93,631000,14.7
+2001,Northeastern,New York,169,1295000,13.1
+2001,Northeastern,Pennsylvania,271,1228000,22.1
+2001,Northeastern,Rhode Island,17,95000,17.9*
+2001,Northeastern,Vermont,21,58000,36.2
+2001,Midwestern,Illinois,206,970000,21.2
+2001,Midwestern,Indiana,141,579000,24.4
+2001,Midwestern,Iowa,73,282000,25.9
+2001,Midwestern,Kansas,63,262000,24
+2001,Midwestern,Michigan,182,884000,20.6
+2001,Midwestern,Minnesota,97,453000,21.4
+2001,Midwestern,Missouri,146,580000,25.2
+2001,Midwestern,Nebraska,36,166000,21.7
+2001,Midwestern,North Dakota,23,61000,37.7
+2001,Midwestern,Ohio,286,1109000,25.8
+2001,Midwestern,South Dakota,27,79000,34.2
+2001,Midwestern,Wisconsin,115,502000,22.9
+2001,Southern,Alabama,104,443000,23.5
+2001,Southern,Arkansas,74,281000,26.3
+2001,Southern,Delaware,22,81000,27.2
+2001,Southern,District of Columbia,<10,40000,--
+2001,Southern,Florida,521,1853000,28.1
+2001,Southern,Georgia,154,782000,19.7
+2001,Southern,Kentucky,74,378000,19.6
+2001,Southern,Louisiana,102,383000,26.6
+2001,Southern,Maryland,80,520000,15.4
+2001,Southern,Mississippi,64,246000,26
+2001,Southern,North Carolina,185,799000,23.2
+2001,Southern,Oklahoma,107,368000,29.1
+2001,Southern,South Carolina,94,422000,22.3
+2001,Southern,Tennessee,151,552000,27.4
+2001,Southern,Texas,421,1763000,23.9
+2001,Southern,Virginia,159,804000,19.8
+2001,Southern,West Virginia,68,194000,35.1
+2001,Western,Alaska,15,72000,20.8*
+2001,Western,Arizona,169,567000,29.8
+2001,Western,California,476,2491000,19.1
+2001,Western,Colorado,143,448000,31.9
+2001,Western,Hawaii,31,119000,26.1
+2001,Western,Idaho,36,137000,26.3
+2001,Western,Montana,43,105000,41
+2001,Western,Nevada,115,242000,47.5
+2001,Western,New Mexico,78,190000,41.1
+2001,Western,Oregon,129,383000,33.7
+2001,Western,Utah,57,160000,35.6
+2001,Western,Washington,162,673000,24.1
+2001,Western,Wyoming,19,56000,33.9*
+2001,All,U.S. Total,6021,25903000,23.2
+2002,Northeastern,Connecticut,45,288000,15.6
+2002,Northeastern,Maine,38,151000,25.2
+2002,Northeastern,Massachusetts,84,516000,16.3
+2002,Northeastern,New Hampshire,29,136000,21.3
+2002,Northeastern,New Jersey,87,606000,14.4
+2002,Northeastern,New York,139,1253000,11.1
+2002,Northeastern,Pennsylvania,265,1196000,22.2
+2002,Northeastern,Rhode Island,14,91000,15.4*
+2002,Northeastern,Vermont,15,57000,26.3*
+2002,Midwestern,Illinois,217,948000,22.9
+2002,Midwestern,Indiana,150,568000,26.4
+2002,Midwestern,Iowa,57,277000,20.6
+2002,Midwestern,Kansas,77,259000,29.7
+2002,Midwestern,Michigan,198,862000,23
+2002,Midwestern,Minnesota,99,446000,22.2
+2002,Midwestern,Missouri,170,572000,29.7
+2002,Midwestern,Nebraska,38,163000,23.3
+2002,Midwestern,North Dakota,21,61000,34.4
+2002,Midwestern,Ohio,272,1084000,25.1
+2002,Midwestern,South Dakota,25,79000,31.6
+2002,Midwestern,Wisconsin,120,490000,24.5
+2002,Southern,Alabama,99,441000,22.4
+2002,Southern,Arkansas,75,277000,27.1
+2002,Southern,Delaware,12,82000,14.6*
+2002,Southern,District of Columbia,<10,39000,--
+2002,Southern,Florida,497,1839000,27
+2002,Southern,Georgia,182,777000,23.4
+2002,Southern,Kentucky,99,372000,26.6
+2002,Southern,Louisiana,101,371000,27.2
+2002,Southern,Maryland,89,514000,17.3
+2002,Southern,Mississippi,78,241000,32.4
+2002,Southern,North Carolina,186,794000,23.4
+2002,Southern,Oklahoma,97,365000,26.6
+2002,Southern,South Carolina,90,420000,21.4
+2002,Southern,Tennessee,161,542000,29.7
+2002,Southern,Texas,430,1756000,24.5
+2002,Southern,Virginia,183,804000,22.8
+2002,Southern,West Virginia,59,191000,30.9
+2002,Western,Alaska,24,73000,32.9
+2002,Western,Arizona,203,570000,35.6
+2002,Western,California,516,2430000,21.2
+2002,Western,Colorado,160,442000,36.2
+2002,Western,Hawaii,21,122000,17.2
+2002,Western,Idaho,44,137000,32.1
+2002,Western,Montana,36,109000,33
+2002,Western,Nevada,108,245000,44.1
+2002,Western,New Mexico,78,188000,41.5
+2002,Western,Oregon,132,378000,34.9
+2002,Western,Utah,51,160000,31.9
+2002,Western,Washington,165,669000,24.7
+2002,Western,Wyoming,23,53000,43.4
+2002,All,U.S. Total,6163,25504000,24.2
+2003,Northeastern,Connecticut,50,283000,17.7
+2003,Northeastern,Maine,33,152000,21.7
+2003,Northeastern,Massachusetts,73,500000,14.6
+2003,Northeastern,New Hampshire,40,135000,29.6
+2003,Northeastern,New Jersey,80,588000,13.6
+2003,Northeastern,New York,189,1213000,15.6
+2003,Northeastern,Pennsylvania,275,1168000,23.5
+2003,Northeastern,Rhode Island,19,89000,21.3*
+2003,Northeastern,Vermont,15,55000,27.3*
+2003,Midwestern,Illinois,171,929000,18.4
+2003,Midwestern,Indiana,137,560000,24.5
+2003,Midwestern,Iowa,76,272000,27.9
+2003,Midwestern,Kansas,67,256000,26.2
+2003,Midwestern,Michigan,180,840000,21.4
+2003,Midwestern,Minnesota,93,437000,21.3
+2003,Midwestern,Missouri,152,566000,26.9
+2003,Midwestern,Nebraska,29,161000,18
+2003,Midwestern,North Dakota,18,58000,31.0*
+2003,Midwestern,Ohio,218,1055000,20.7
+2003,Midwestern,South Dakota,22,77000,28.6
+2003,Midwestern,Wisconsin,136,482000,28.2
+2003,Southern,Alabama,114,437000,26.1
+2003,Southern,Arkansas,88,273000,32.2
+2003,Southern,Delaware,20,80000,25
+2003,Southern,District of Columbia,<10,39000,--
+2003,Southern,Florida,494,1826000,27.1
+2003,Southern,Georgia,189,778000,24.3
+2003,Southern,Kentucky,102,369000,27.6
+2003,Southern,Louisiana,77,360000,21.4
+2003,Southern,Maryland,89,509000,17.5
+2003,Southern,Mississippi,78,237000,32.9
+2003,Southern,North Carolina,177,791000,22.4
+2003,Southern,Oklahoma,95,362000,26.2
+2003,Southern,South Carolina,110,418000,26.3
+2003,Southern,Tennessee,139,536000,25.9
+2003,Southern,Texas,445,1750000,25.4
+2003,Southern,Virginia,146,810000,18
+2003,Southern,West Virginia,64,190000,33.7
+2003,Western,Alaska,26,75000,34.7
+2003,Western,Arizona,156,570000,27.4
+2003,Western,California,520,2372000,21.9
+2003,Western,Colorado,151,440000,34.3
+2003,Western,Hawaii,20,123000,16.3
+2003,Western,Idaho,50,137000,36.5
+2003,Western,Montana,45,107000,42.1
+2003,Western,Nevada,111,246000,45.1
+2003,Western,New Mexico,60,188000,31.9
+2003,Western,Oregon,142,373000,38.1
+2003,Western,Utah,56,158000,35.4
+2003,Western,Washington,154,665000,23.2
+2003,Western,Wyoming,27,53000,50.9
+2003,All,U.S. Total,6022,25148000,23.9
+2004,Northeastern,Connecticut,43,276000,15.6
+2004,Northeastern,Maine,29,151000,19.2
+2004,Northeastern,Massachusetts,71,490000,14.5
+2004,Northeastern,New Hampshire,28,134000,20.9
+2004,Northeastern,New Jersey,98,573000,17.1
+2004,Northeastern,New York,181,1182000,15.3
+2004,Northeastern,Pennsylvania,249,1145000,21.7
+2004,Northeastern,Rhode Island,16,87000,18.4*
+2004,Northeastern,Vermont,20,55000,36.4
+2004,Midwestern,Illinois,165,908000,18.2
+2004,Midwestern,Indiana,133,548000,24.3
+2004,Midwestern,Iowa,57,269000,21.2
+2004,Midwestern,Kansas,67,253000,26.5
+2004,Midwestern,Michigan,203,823000,24.7
+2004,Midwestern,Minnesota,108,432000,25
+2004,Midwestern,Missouri,145,557000,26
+2004,Midwestern,Nebraska,32,160000,20
+2004,Midwestern,North Dakota,14,59000,23.7*
+2004,Midwestern,Ohio,226,1034000,21.9
+2004,Midwestern,South Dakota,22,76000,28.9
+2004,Midwestern,Wisconsin,97,476000,20.4
+2004,Southern,Alabama,113,433000,26.1
+2004,Southern,Arkansas,90,273000,33
+2004,Southern,Delaware,15,81000,18.5*
+2004,Southern,District of Columbia,<10,38000,--
+2004,Southern,Florida,484,1825000,26.5
+2004,Southern,Georgia,187,781000,23.9
+2004,Southern,Kentucky,117,363000,32.2
+2004,Southern,Louisiana,109,356000,30.6
+2004,Southern,Maryland,97,505000,19.2
+2004,Southern,Mississippi,78,233000,33.5
+2004,Southern,North Carolina,193,792000,24.4
+2004,Southern,Oklahoma,110,358000,30.7
+2004,Southern,South Carolina,100,417000,24
+2004,Southern,Tennessee,155,532000,29.1
+2004,Southern,Texas,441,1750000,25.2
+2004,Southern,Virginia,160,815000,19.6
+2004,Southern,West Virginia,71,187000,38
+2004,Western,Alaska,20,76000,26.3
+2004,Western,Arizona,168,575000,29.2
+2004,Western,California,507,2326000,21.8
+2004,Western,Colorado,161,440000,36.6
+2004,Western,Hawaii,17,119000,14.3*
+2004,Western,Idaho,35,137000,25.5
+2004,Western,Montana,38,106000,35.8
+2004,Western,Nevada,112,248000,45.2
+2004,Western,New Mexico,67,190000,35.3
+2004,Western,Oregon,131,369000,35.5
+2004,Western,Utah,54,158000,34.2
+2004,Western,Washington,161,662000,24.3
+2004,Western,Wyoming,24,54000,44.4
+2004,All,U.S. Total,6021,24887000,24.2
+2005,Northeastern,Connecticut,50,272000,18.4
+2005,Northeastern,Maine,46,147000,31.3
+2005,Northeastern,Massachusetts,68,480000,14.2
+2005,Northeastern,New Hampshire,33,131000,25.2
+2005,Northeastern,New Jersey,65,565000,11.5
+2005,Northeastern,New York,167,1161000,14.4
+2005,Northeastern,Pennsylvania,289,1126000,25.7
+2005,Northeastern,Rhode Island,13,87000,14.9*
+2005,Northeastern,Vermont,14,56000,25.0*
+2005,Midwestern,Illinois,204,889000,22.9
+2005,Midwestern,Indiana,154,541000,28.5
+2005,Midwestern,Iowa,64,272000,23.5
+2005,Midwestern,Kansas,70,252000,27.8
+2005,Midwestern,Michigan,196,836000,23.4
+2005,Midwestern,Minnesota,94,424000,22.2
+2005,Midwestern,Missouri,162,563000,28.8
+2005,Midwestern,Nebraska,35,160000,21.9
+2005,Midwestern,North Dakota,19,62000,30.6*
+2005,Midwestern,Ohio,297,1039000,28.6
+2005,Midwestern,South Dakota,32,76000,42.1
+2005,Midwestern,Wisconsin,125,467000,26.8
+2005,Southern,Alabama,119,431000,27.6
+2005,Southern,Arkansas,76,273000,27.8
+2005,Southern,Delaware,18,81000,22.2*
+2005,Southern,District of Columbia,<10,38000,--
+2005,Southern,Florida,492,1837000,26.8
+2005,Southern,Georgia,185,760000,24.3
+2005,Southern,Kentucky,116,364000,31.9
+2005,Southern,Louisiana,67,369000,18.2
+2005,Southern,Maryland,95,498000,19.1
+2005,Southern,Mississippi,62,238000,26.1
+2005,Southern,North Carolina,203,788000,25.8
+2005,Southern,Oklahoma,104,361000,28.8
+2005,Southern,South Carolina,80,424000,18.9
+2005,Southern,Tennessee,165,540000,30.6
+2005,Southern,Texas,421,1727000,24.4
+2005,Southern,Virginia,192,803000,23.9
+2005,Southern,West Virginia,58,183000,31.7
+2005,Western,Alaska,22,75000,29.3
+2005,Western,Arizona,186,545000,34.1
+2005,Western,California,471,2316000,20.3
+2005,Western,Colorado,164,428000,38.3
+2005,Western,Hawaii,15,124000,12.1*
+2005,Western,Idaho,52,131000,39.7
+2005,Western,Montana,52,103000,50.5
+2005,Western,Nevada,110,236000,46.6
+2005,Western,New Mexico,65,186000,34.9
+2005,Western,Oregon,119,378000,31.5
+2005,Western,Utah,38,154000,24.7
+2005,Western,Washington,175,644000,27.2
+2005,Western,Wyoming,23,51000,45.1
+2005,All,U.S. Total,6149,24692000,24.9
+2006,Northeastern,Connecticut,44,272000,16.2
+2006,Northeastern,Maine,41,142000,28.9
+2006,Northeastern,Massachusetts,55,464000,11.9
+2006,Northeastern,New Hampshire,33,132000,25
+2006,Northeastern,New Jersey,67,546000,12.3
+2006,Northeastern,New York,180,1138000,15.8
+2006,Northeastern,Pennsylvania,263,1089000,24.2
+2006,Northeastern,Rhode Island,22,88000,25
+2006,Northeastern,Vermont,16,52000,30.8*
+2006,Midwestern,Illinois,158,856000,18.5
+2006,Midwestern,Indiana,149,524000,28.4
+2006,Midwestern,Iowa,63,265000,23.8
+2006,Midwestern,Kansas,76,246000,30.9
+2006,Midwestern,Michigan,239,815000,29.3
+2006,Midwestern,Minnesota,98,428000,22.9
+2006,Midwestern,Missouri,165,552000,29.9
+2006,Midwestern,Nebraska,39,158000,24.7
+2006,Midwestern,North Dakota,17,62000,27.4*
+2006,Midwestern,Ohio,241,1025000,23.5
+2006,Midwestern,South Dakota,24,78000,30.8
+2006,Midwestern,Wisconsin,127,460000,27.6
+2006,Southern,Alabama,120,425000,28.2
+2006,Southern,Arkansas,80,271000,29.5
+2006,Southern,Delaware,16,83000,19.3*
+2006,Southern,District of Columbia,<10,40000,--
+2006,Southern,Florida,503,1819000,27.7
+2006,Southern,Georgia,167,743000,22.5
+2006,Southern,Kentucky,121,353000,34.3
+2006,Southern,Louisiana,68,366000,18.6
+2006,Southern,Maryland,86,486000,17.7
+2006,Southern,Mississippi,67,234000,28.6
+2006,Southern,North Carolina,205,801000,25.6
+2006,Southern,Oklahoma,95,360000,26.4
+2006,Southern,South Carolina,96,423000,22.7
+2006,Southern,Tennessee,172,538000,32
+2006,Southern,Texas,400,1716000,23.3
+2006,Southern,Virginia,164,788000,20.8
+2006,Southern,West Virginia,57,174000,32.8
+2006,Western,Alaska,27,75000,36
+2006,Western,Arizona,201,542000,37.1
+2006,Western,California,543,2216000,24.5
+2006,Western,Colorado,126,425000,29.6
+2006,Western,Hawaii,15,127000,11.8*
+2006,Western,Idaho,42,131000,32.1
+2006,Western,Montana,50,104000,48.1
+2006,Western,Nevada,104,231000,45
+2006,Western,New Mexico,61,182000,33.5
+2006,Western,Oregon,122,372000,32.8
+2006,Western,Utah,48,152000,31.6
+2006,Western,Washington,148,632000,23.4
+2006,Western,Wyoming,20,51000,39.2
+2006,All,U.S. Total,6050,24252000,24.9
+2007,Northeastern,Connecticut,35,262000,13.4
+2007,Northeastern,Maine,40,145000,27.6
+2007,Northeastern,Massachusetts,71,454000,15.6
+2007,Northeastern,New Hampshire,41,125000,32.8
+2007,Northeastern,New Jersey,78,518000,15.1
+2007,Northeastern,New York,179,1088000,16.5
+2007,Northeastern,Pennsylvania,262,1059000,24.7
+2007,Northeastern,Rhode Island,21,82000,25.6
+2007,Northeastern,Vermont,17,49000,34.7*
+2007,Midwestern,Illinois,166,832000,20
+2007,Midwestern,Indiana,145,510000,28.4
+2007,Midwestern,Iowa,63,261000,24.1
+2007,Midwestern,Kansas,77,245000,31.4
+2007,Midwestern,Michigan,205,792000,25.9
+2007,Midwestern,Minnesota,107,415000,25.8
+2007,Midwestern,Missouri,139,544000,25.6
+2007,Midwestern,Nebraska,30,153000,19.6
+2007,Midwestern,North Dakota,23,58000,39.7
+2007,Midwestern,Ohio,265,1008000,26.3
+2007,Midwestern,South Dakota,19,80000,23.8*
+2007,Midwestern,Wisconsin,113,467000,24.2
+2007,Southern,Alabama,107,423000,25.3
+2007,Southern,Arkansas,81,270000,30
+2007,Southern,Delaware,11,77000,14.3*
+2007,Southern,District of Columbia,<10,37000,--
+2007,Southern,Florida,544,1789000,30.4
+2007,Southern,Georgia,200,740000,27
+2007,Southern,Kentucky,128,348000,36.8
+2007,Southern,Louisiana,83,354000,23.4
+2007,Southern,Maryland,91,472000,19.3
+2007,Southern,Mississippi,75,228000,32.9
+2007,Southern,North Carolina,196,804000,24.4
+2007,Southern,Oklahoma,103,350000,29.4
+2007,Southern,South Carolina,112,421000,26.6
+2007,Southern,Tennessee,156,544000,28.7
+2007,Southern,Texas,406,1708000,23.8
+2007,Southern,Virginia,178,780000,22.8
+2007,Southern,West Virginia,66,172000,38.4
+2007,Western,Alaska,28,72000,38.9
+2007,Western,Arizona,201,540000,37.2
+2007,Western,California,536,2135000,25.1
+2007,Western,Colorado,162,425000,38.1
+2007,Western,Hawaii,21,127000,16.5
+2007,Western,Idaho,42,129000,32.6
+2007,Western,Montana,48,103000,46.6
+2007,Western,Nevada,96,232000,41.4
+2007,Western,New Mexico,90,178000,50.6
+2007,Western,Oregon,136,364000,37.4
+2007,Western,Utah,58,161000,36
+2007,Western,Washington,179,631000,28.4
+2007,Western,Wyoming,25,49000,51
+2007,All,U.S. Total,6260,23810000,26.3
+2008,Northeastern,Connecticut,42,245000,17.1
+2008,Northeastern,Maine,37,143000,25.9
+2008,Northeastern,Massachusetts,71,438000,16.2
+2008,Northeastern,New Hampshire,34,119000,28.6
+2008,Northeastern,New Jersey,89,499000,17.8
+2008,Northeastern,New York,216,1063000,20.3
+2008,Northeastern,Pennsylvania,300,1034000,29
+2008,Northeastern,Rhode Island,17,81000,21.0*
+2008,Northeastern,Vermont,21,52000,40.4
+2008,Midwestern,Illinois,197,809000,24.4
+2008,Midwestern,Indiana,176,507000,34.7
+2008,Midwestern,Iowa,65,255000,25.5
+2008,Midwestern,Kansas,57,237000,24.1
+2008,Midwestern,Michigan,194,763000,25.4
+2008,Midwestern,Minnesota,102,406000,25.1
+2008,Midwestern,Missouri,144,543000,26.5
+2008,Midwestern,Nebraska,35,152000,23
+2008,Midwestern,North Dakota,10,59000,16.9*
+2008,Midwestern,Ohio,254,987000,25.7
+2008,Midwestern,South Dakota,17,80000,21.3*
+2008,Midwestern,Wisconsin,135,456000,29.6
+2008,Southern,Alabama,120,428000,28
+2008,Southern,Arkansas,86,266000,32.3
+2008,Southern,Delaware,16,83000,19.3*
+2008,Southern,District of Columbia,<10,33000,--
+2008,Southern,Florida,561,1770000,31.7
+2008,Southern,Georgia,188,739000,25.4
+2008,Southern,Kentucky,115,351000,32.8
+2008,Southern,Louisiana,98,347000,28.2
+2008,Southern,Maryland,94,460000,20.4
+2008,Southern,Mississippi,83,224000,37.1
+2008,Southern,North Carolina,208,797000,26.1
+2008,Southern,Oklahoma,123,348000,35.3
+2008,Southern,South Carolina,111,420000,26.4
+2008,Southern,Tennessee,164,542000,30.3
+2008,Southern,Texas,454,1712000,26.5
+2008,Southern,Virginia,174,778000,22.4
+2008,Southern,West Virginia,48,172000,27.9
+2008,Western,Alaska,21,74000,28.4
+2008,Western,Arizona,194,537000,36.1
+2008,Western,California,622,2107000,29.5
+2008,Western,Colorado,173,423000,40.9
+2008,Western,Hawaii,19,120000,15.8*
+2008,Western,Idaho,59,131000,45
+2008,Western,Montana,49,98000,50
+2008,Western,Nevada,132,235000,56.2
+2008,Western,New Mexico,62,176000,35.2
+2008,Western,Oregon,125,358000,34.9
+2008,Western,Utah,52,156000,33.3
+2008,Western,Washington,178,622000,28.6
+2008,Western,Wyoming,31,48000,64.6
+2008,All,U.S. Total,6579,23483000,28
+2009,Northeastern,Connecticut,42,237000,17.7
+2009,Northeastern,Maine,42,136000,30.9
+2009,Northeastern,Massachusetts,81,422000,19.2
+2009,Northeastern,New Hampshire,30,119000,25.2
+2009,Northeastern,New Jersey,73,484000,15.1
+2009,Northeastern,New York,201,1034000,19.4
+2009,Northeastern,Pennsylvania,280,1013000,27.6
+2009,Northeastern,Rhode Island,18,76000,23.7*
+2009,Northeastern,Vermont,13,52000,25.0*
+2009,Midwestern,Illinois,178,796000,22.4
+2009,Midwestern,Indiana,135,506000,26.7
+2009,Midwestern,Iowa,74,252000,29.4
+2009,Midwestern,Kansas,73,234000,31.2
+2009,Midwestern,Michigan,212,740000,28.6
+2009,Midwestern,Minnesota,97,400000,24.3
+2009,Midwestern,Missouri,168,529000,31.8
+2009,Midwestern,Nebraska,44,151000,29.1
+2009,Midwestern,North Dakota,11,60000,18.3*
+2009,Midwestern,Ohio,208,967000,21.5
+2009,Midwestern,South Dakota,28,78000,35.9
+2009,Midwestern,Wisconsin,130,442000,29.4
+2009,Southern,Alabama,154,421000,36.6
+2009,Southern,Arkansas,77,262000,29.4
+2009,Southern,Delaware,13,83000,15.7*
+2009,Southern,District of Columbia,<10,32000,--
+2009,Southern,Florida,559,1733000,32.3
+2009,Southern,Georgia,213,742000,28.7
+2009,Southern,Kentucky,101,346000,29.2
+2009,Southern,Louisiana,89,347000,25.6
+2009,Southern,Maryland,86,454000,18.9
+2009,Southern,Mississippi,76,226000,33.6
+2009,Southern,North Carolina,182,792000,23
+2009,Southern,Oklahoma,105,343000,30.6
+2009,Southern,South Carolina,123,423000,29.1
+2009,Southern,Tennessee,177,541000,32.7
+2009,Southern,Texas,464,1696000,27.4
+2009,Southern,Virginia,183,775000,23.6
+2009,Southern,West Virginia,53,166000,31.9
+2009,Western,Alaska,30,71000,42.3
+2009,Western,Arizona,206,541000,38.1
+2009,Western,California,597,2058000,29
+2009,Western,Colorado,179,421000,42.5
+2009,Western,Hawaii,22,116000,19
+2009,Western,Idaho,59,134000,44
+2009,Western,Montana,51,98000,52
+2009,Western,Nevada,104,232000,44.8
+2009,Western,New Mexico,80,174000,46
+2009,Western,Oregon,123,358000,34.4
+2009,Western,Utah,66,150000,44
+2009,Western,Washington,201,612000,32.8
+2009,Western,Wyoming,22,48000,45.8
+2009,All,U.S. Total,6537,23123000,28.3
+2010,Northeastern,Connecticut,47,235000,20
+2010,Northeastern,Maine,48,137000,35
+2010,Northeastern,Massachusetts,98,416000,23.6
+2010,Northeastern,New Hampshire,35,120000,29.2
+2010,Northeastern,New Jersey,79,469000,16.8
+2010,Northeastern,New York,196,1003000,19.5
+2010,Northeastern,Pennsylvania,268,1003000,26.7
+2010,Northeastern,Rhode Island,17,75000,22.7*
+2010,Northeastern,Vermont,18,49000,36.7*
+2010,Midwestern,Illinois,173,779000,22.2
+2010,Midwestern,Indiana,136,500000,27.2
+2010,Midwestern,Iowa,73,250000,29.2
+2010,Midwestern,Kansas,69,235000,29.4
+2010,Midwestern,Michigan,191,729000,26.2
+2010,Midwestern,Minnesota,96,396000,24.2
+2010,Midwestern,Missouri,172,526000,32.7
+2010,Midwestern,Nebraska,35,150000,23.3
+2010,Midwestern,North Dakota,23,58000,39.7
+2010,Midwestern,Ohio,273,954000,28.6
+2010,Midwestern,South Dakota,19,77000,24.7*
+2010,Midwestern,Wisconsin,143,440000,32.5
+2010,Southern,Alabama,126,423000,29.8
+2010,Southern,Arkansas,87,257000,33.9
+2010,Southern,Delaware,14,77000,18.2*
+2010,Southern,District of Columbia,<10,32000,--
+2010,Southern,Florida,567,1709000,33.2
+2010,Southern,Georgia,190,751000,25.3
+2010,Southern,Kentucky,111,336000,33
+2010,Southern,Louisiana,107,342000,31.3
+2010,Southern,Maryland,81,447000,18.1
+2010,Southern,Mississippi,77,222000,34.7
+2010,Southern,North Carolina,194,787000,24.7
+2010,Southern,Oklahoma,115,341000,33.7
+2010,Southern,South Carolina,119,420000,28.3
+2010,Southern,Tennessee,143,540000,26.5
+2010,Southern,Texas,502,1689000,29.7
+2010,Southern,Virginia,171,778000,22
+2010,Southern,West Virginia,60,165000,36.4
+2010,Western,Alaska,27,71000,38
+2010,Western,Arizona,203,536000,37.9
+2010,Western,California,570,2021000,28.2
+2010,Western,Colorado,141,422000,33.4
+2010,Western,Hawaii,21,122000,17.2
+2010,Western,Idaho,59,135000,43.7
+2010,Western,Montana,59,100000,59
+2010,Western,Nevada,120,238000,50.4
+2010,Western,New Mexico,71,178000,39.9
+2010,Western,Oregon,137,352000,38.9
+2010,Western,Utah,67,152000,44.1
+2010,Western,Washington,179,616000,29.1
+2010,Western,Wyoming,27,46000,58.7
+2010,All,U.S. Total,6561,22906000,28.6
+2011,Northeastern,Connecticut,56,233000,24
+2011,Northeastern,Maine,49,132000,37.1
+2011,Northeastern,Massachusetts,74,403000,18.4
+2011,Northeastern,New Hampshire,34,121000,28.1
+2011,Northeastern,New Jersey,78,468000,16.7
+2011,Northeastern,New York,231,961000,24
+2011,Northeastern,Pennsylvania,270,991000,27.2
+2011,Northeastern,Rhode Island,17,74000,23.0*
+2011,Northeastern,Vermont,30,52000,57.7
+2011,Midwestern,Illinois,158,765000,20.7
+2011,Midwestern,Indiana,132,491000,26.9
+2011,Midwestern,Iowa,78,243000,32.1
+2011,Midwestern,Kansas,59,228000,25.9
+2011,Midwestern,Michigan,193,703000,27.5
+2011,Midwestern,Minnesota,109,394000,27.7
+2011,Midwestern,Missouri,146,516000,28.3
+2011,Midwestern,Nebraska,39,148000,26.4
+2011,Midwestern,North Dakota,22,62000,35.5
+2011,Midwestern,Ohio,250,933000,26.8
+2011,Midwestern,South Dakota,23,78000,29.5
+2011,Midwestern,Wisconsin,110,433000,25.4
+2011,Southern,Alabama,127,421000,30.2
+2011,Southern,Arkansas,83,251000,33.1
+2011,Southern,Delaware,16,80000,20.0*
+2011,Southern,District of Columbia,<10,32000,--
+2011,Southern,Florida,547,1679000,32.6
+2011,Southern,Georgia,193,749000,25.8
+2011,Southern,Kentucky,117,329000,35.6
+2011,Southern,Louisiana,81,336000,24.1
+2011,Southern,Maryland,92,449000,20.5
+2011,Southern,Mississippi,63,221000,28.5
+2011,Southern,North Carolina,202,783000,25.8
+2011,Southern,Oklahoma,127,338000,37.6
+2011,Southern,South Carolina,123,418000,29.4
+2011,Southern,Tennessee,163,534000,30.5
+2011,Southern,Texas,493,1686000,29.2
+2011,Southern,Virginia,181,777000,23.3
+2011,Southern,West Virginia,60,164000,36.6
+2011,Western,Alaska,19,74000,25.7*
+2011,Western,Arizona,207,536000,38.6
+2011,Western,California,600,1988000,30.2
+2011,Western,Colorado,142,422000,33.6
+2011,Western,Hawaii,24,121000,19.8
+2011,Western,Idaho,58,130000,44.6
+2011,Western,Montana,59,102000,57.8
+2011,Western,Nevada,81,237000,34.2
+2011,Western,New Mexico,70,174000,40.2
+2011,Western,Oregon,139,351000,39.6
+2011,Western,Utah,55,153000,35.9
+2011,Western,Washington,162,607000,26.7
+2011,Western,Wyoming,25,50000,50
+2011,All,U.S. Total,6470,22621000,28.6
+2012,Northeastern,Connecticut,44,228000,19.3
+2012,Northeastern,Maine,38,129000,29.5
+2012,Northeastern,Massachusetts,70,400000,17.5
+2012,Northeastern,New Hampshire,35,115000,30.4
+2012,Northeastern,New Jersey,67,456000,14.7
+2012,Northeastern,New York,196,938000,20.9
+2012,Northeastern,Pennsylvania,276,964000,28.6
+2012,Northeastern,Rhode Island,13,74000,17.6*
+2012,Northeastern,Vermont,10,49000,20.4*
+2012,Midwestern,Illinois,185,741000,25
+2012,Midwestern,Indiana,157,485000,32.4
+2012,Midwestern,Iowa,54,239000,22.6
+2012,Midwestern,Kansas,73,225000,32.4
+2012,Midwestern,Michigan,166,692000,24
+2012,Midwestern,Minnesota,119,387000,30.7
+2012,Midwestern,Missouri,172,510000,33.7
+2012,Midwestern,Nebraska,43,146000,29.5
+2012,Midwestern,North Dakota,19,64000,29.7*
+2012,Midwestern,Ohio,260,906000,28.7
+2012,Midwestern,South Dakota,19,75000,25.3*
+2012,Midwestern,Wisconsin,103,426000,24.2
+2012,Southern,Alabama,127,410000,31
+2012,Southern,Arkansas,85,252000,33.7
+2012,Southern,Delaware,19,81000,23.5*
+2012,Southern,District of Columbia,<10,30000,--
+2012,Southern,Florida,539,1668000,32.3
+2012,Southern,Georgia,190,759000,25
+2012,Southern,Kentucky,116,333000,34.8
+2012,Southern,Louisiana,86,330000,26.1
+2012,Southern,Maryland,93,441000,21.1
+2012,Southern,Mississippi,72,222000,32.4
+2012,Southern,North Carolina,191,780000,24.5
+2012,Southern,Oklahoma,111,338000,32.8
+2012,Southern,South Carolina,122,414000,29.5
+2012,Southern,Tennessee,170,522000,32.6
+2012,Southern,Texas,492,1679000,29.3
+2012,Southern,Virginia,186,771000,24.1
+2012,Southern,West Virginia,63,160000,39.4
+2012,Western,Alaska,23,75000,30.7
+2012,Western,Arizona,227,531000,42.7
+2012,Western,California,544,1968000,27.6
+2012,Western,Colorado,163,421000,38.7
+2012,Western,Hawaii,25,116000,21.6
+2012,Western,Idaho,47,129000,36.4
+2012,Western,Montana,53,101000,52.5
+2012,Western,Nevada,97,232000,41.8
+2012,Western,New Mexico,65,173000,37.6
+2012,Western,Oregon,140,345000,40.6
+2012,Western,Utah,70,152000,46.1
+2012,Western,Washington,183,603000,30.3
+2012,Western,Wyoming,30,47000,63.8
+2012,All,U.S. Total,6453,22332000,28.9
+2013,Northeastern,Connecticut,34,219000,15.5
+2013,Northeastern,Maine,46,130000,35.4
+2013,Northeastern,Massachusetts,58,392000,14.8
+2013,Northeastern,New Hampshire,26,117000,22.2
+2013,Northeastern,New Jersey,100,440000,22.7
+2013,Northeastern,New York,202,923000,21.9
+2013,Northeastern,Pennsylvania,290,942000,30.8
+2013,Northeastern,Rhode Island,19,72000,26.4*
+2013,Northeastern,Vermont,13,48000,27.1*
+2013,Midwestern,Illinois,173,731000,23.7
+2013,Midwestern,Indiana,153,482000,31.7
+2013,Midwestern,Iowa,66,234000,28.2
+2013,Midwestern,Kansas,71,221000,32.1
+2013,Midwestern,Michigan,184,685000,26.9
+2013,Midwestern,Minnesota,97,375000,25.9
+2013,Midwestern,Missouri,201,500000,40.2
+2013,Midwestern,Nebraska,36,143000,25.2
+2013,Midwestern,North Dakota,16,64000,25.0*
+2013,Midwestern,Ohio,233,898000,25.9
+2013,Midwestern,South Dakota,19,72000,26.4*
+2013,Midwestern,Wisconsin,127,426000,29.8
+2013,Southern,Alabama,134,408000,32.8
+2013,Southern,Arkansas,97,249000,39
+2013,Southern,Delaware,18,78000,23.1*
+2013,Southern,District of Columbia,<10,30000,--
+2013,Southern,Florida,550,1670000,32.9
+2013,Southern,Georgia,177,758000,23.4
+2013,Southern,Kentucky,118,334000,35.3
+2013,Southern,Louisiana,87,323000,26.9
+2013,Southern,Maryland,83,440000,18.9
+2013,Southern,Mississippi,49,219000,22.4
+2013,Southern,North Carolina,211,788000,26.8
+2013,Southern,Oklahoma,114,326000,35
+2013,Southern,South Carolina,126,411000,30.7
+2013,Southern,Tennessee,175,532000,32.9
+2013,Southern,Texas,497,1671000,29.7
+2013,Southern,Virginia,190,768000,24.7
+2013,Southern,West Virginia,70,159000,44
+2013,Western,Alaska,20,76000,26.3
+2013,Western,Arizona,237,537000,44.1
+2013,Western,California,539,1960000,27.5
+2013,Western,Colorado,155,418000,37.1
+2013,Western,Hawaii,28,124000,22.6
+2013,Western,Idaho,56,130000,43.1
+2013,Western,Montana,30,100000,30
+2013,Western,Nevada,113,229000,49.3
+2013,Western,New Mexico,65,169000,38.5
+2013,Western,Oregon,138,338000,40.8
+2013,Western,Utah,67,145000,46.2
+2013,Western,Washington,175,600000,29.2
+2013,Western,Wyoming,31,50000,62
+2013,All,U.S. Total,6523,22154000,29.4
+2014,Northeastern,Connecticut,44,214000,20.6
+2014,Northeastern,Maine,50,128000,39.1
+2014,Northeastern,Massachusetts,64,380000,16.8
+2014,Northeastern,New Hampshire,36,115000,31.3
+2014,Northeastern,New Jersey,83,422000,19.7
+2014,Northeastern,New York,201,896000,22.4
+2014,Northeastern,Pennsylvania,286,925000,30.9
+2014,Northeastern,Rhode Island,14,74000,18.9*
+2014,Northeastern,Vermont,21,45000,46.7
+2014,Midwestern,Illinois,184,716000,25.7
+2014,Midwestern,Indiana,123,479000,25.7
+2014,Midwestern,Iowa,72,231000,31.2
+2014,Midwestern,Kansas,71,217000,32.7
+2014,Midwestern,Michigan,205,664000,30.9
+2014,Midwestern,Minnesota,96,365000,26.3
+2014,Midwestern,Missouri,186,483000,38.5
+2014,Midwestern,Nebraska,53,145000,36.6
+2014,Midwestern,North Dakota,17,61000,27.9*
+2014,Midwestern,Ohio,238,883000,27
+2014,Midwestern,South Dakota,23,73000,31.5
+2014,Midwestern,Wisconsin,126,420000,30
+2014,Southern,Alabama,117,410000,28.5
+2014,Southern,Arkansas,92,243000,37.9
+2014,Southern,Delaware,22,75000,29.3
+2014,Southern,District of Columbia,<10,33000,--
+2014,Southern,Florida,549,1672000,32.8
+2014,Southern,Georgia,173,751000,23
+2014,Southern,Kentucky,130,326000,39.9
+2014,Southern,Louisiana,104,320000,32.5
+2014,Southern,Maryland,81,430000,18.8
+2014,Southern,Mississippi,62,212000,29.2
+2014,Southern,North Carolina,209,776000,26.9
+2014,Southern,Oklahoma,130,317000,41
+2014,Southern,South Carolina,119,411000,29
+2014,Southern,Tennessee,151,525000,28.8
+2014,Southern,Texas,482,1665000,28.9
+2014,Southern,Virginia,181,770000,23.5
+2014,Southern,West Virginia,64,155000,41.3
+2014,Western,Alaska,31,77000,40.3
+2014,Western,Arizona,247,535000,46.2
+2014,Western,California,624,1913000,32.6
+2014,Western,Colorado,170,420000,40.5
+2014,Western,Hawaii,24,121000,19.8
+2014,Western,Idaho,49,132000,37.1
+2014,Western,Montana,50,99000,50.5
+2014,Western,Nevada,108,232000,46.6
+2014,Western,New Mexico,86,169000,50.9
+2014,Western,Oregon,132,340000,38.8
+2014,Western,Utah,73,146000,50
+2014,Western,Washington,185,599000,30.9
+2014,Western,Wyoming,23,49000,46.9
+2014,All,U.S. Total,6667,21859000,30.5
+2015,Northeastern,Connecticut,44,206000,21.4
+2015,Northeastern,Maine,54,125000,43.2
+2015,Northeastern,Massachusetts,71,367000,19.3
+2015,Northeastern,New Hampshire,32,113000,28.3
+2015,Northeastern,New Jersey,75,403000,18.6
+2015,Northeastern,New York,168,866000,19.4
+2015,Northeastern,Pennsylvania,264,899000,29.4
+2015,Northeastern,Rhode Island,16,70000,22.9*
+2015,Northeastern,Vermont,20,44000,45.5
+2015,Midwestern,Illinois,165,697000,23.7
+2015,Midwestern,Indiana,113,460000,24.6
+2015,Midwestern,Iowa,68,227000,30
+2015,Midwestern,Kansas,73,214000,34.1
+2015,Midwestern,Michigan,195,645000,30.2
+2015,Midwestern,Minnesota,81,360000,22.5
+2015,Midwestern,Missouri,187,479000,39
+2015,Midwestern,Nebraska,26,139000,18.7
+2015,Midwestern,North Dakota,21,60000,35
+2015,Midwestern,Ohio,242,861000,28.1
+2015,Midwestern,South Dakota,27,72000,37.5
+2015,Midwestern,Wisconsin,122,405000,30.1
+2015,Southern,Alabama,138,399000,34.6
+2015,Southern,Arkansas,101,239000,42.3
+2015,Southern,Delaware,12,76000,15.8*
+2015,Southern,District of Columbia,<10,32000,--
+2015,Southern,Florida,597,1662000,35.9
+2015,Southern,Georgia,200,744000,26.9
+2015,Southern,Kentucky,133,320000,41.6
+2015,Southern,Louisiana,100,308000,32.5
+2015,Southern,Maryland,84,418000,20.1
+2015,Southern,Mississippi,66,208000,31.7
+2015,Southern,North Carolina,227,759000,29.9
+2015,Southern,Oklahoma,134,316000,42.4
+2015,Southern,South Carolina,127,415000,30.6
+2015,Southern,Tennessee,158,513000,30.8
+2015,Southern,Texas,535,1648000,32.5
+2015,Southern,Virginia,186,765000,24.3
+2015,Southern,West Virginia,61,150000,40.7
+2015,Western,Alaska,27,73000,37
+2015,Western,Arizona,224,530000,42.3
+2015,Western,California,556,1882000,29.5
+2015,Western,Colorado,172,421000,40.9
+2015,Western,Hawaii,27,121000,22.3
+2015,Western,Idaho,61,127000,48
+2015,Western,Montana,47,94000,50
+2015,Western,Nevada,101,225000,44.9
+2015,Western,New Mexico,77,170000,45.3
+2015,Western,Oregon,135,331000,40.8
+2015,Western,Utah,64,141000,45.4
+2015,Western,Washington,182,602000,30.2
+2015,Western,Wyoming,26,47000,55.3
+2015,All,U.S. Total,6631,21448000,30.9
+2016,Northeastern,Connecticut,38,197000,19.3
+2016,Northeastern,Maine,33,121000,27.3
+2016,Northeastern,Massachusetts,75,358000,20.9
+2016,Northeastern,New Hampshire,38,108000,35.2
+2016,Northeastern,New Jersey,78,392000,19.9
+2016,Northeastern,New York,166,839000,19.8
+2016,Northeastern,Pennsylvania,291,885000,32.9
+2016,Northeastern,Rhode Island,21,64000,32.8
+2016,Northeastern,Vermont,28,44000,63.6
+2016,Midwestern,Illinois,170,676000,25.1
+2016,Midwestern,Indiana,75,450000,16.7
+2016,Midwestern,Iowa,69,222000,31.1
+2016,Midwestern,Kansas,60,207000,29
+2016,Midwestern,Michigan,177,633000,28
+2016,Midwestern,Minnesota,102,354000,28.8
+2016,Midwestern,Missouri,170,475000,35.8
+2016,Midwestern,Nebraska,29,138000,21
+2016,Midwestern,North Dakota,18,61000,29.5*
+2016,Midwestern,Ohio,257,842000,30.5
+2016,Midwestern,South Dakota,21,72000,29.2
+2016,Midwestern,Wisconsin,141,391000,36.1
+2016,Southern,Alabama,135,396000,34.1
+2016,Southern,Arkansas,97,235000,41.3
+2016,Southern,Delaware,25,75000,33.3
+2016,Southern,District of Columbia,<10,32000,--
+2016,Southern,Florida,561,1638000,34.2
+2016,Southern,Georgia,207,726000,28.5
+2016,Southern,Kentucky,113,315000,35.9
+2016,Southern,Louisiana,82,301000,27.2
+2016,Southern,Maryland,77,411000,18.7
+2016,Southern,Mississippi,56,201000,27.9
+2016,Southern,North Carolina,188,751000,25
+2016,Southern,Oklahoma,115,313000,36.7
+2016,Southern,South Carolina,130,407000,31.9
+2016,Southern,Tennessee,180,496000,36.3
+2016,Southern,Texas,549,1647000,33.3
+2016,Southern,Virginia,209,756000,27.6
+2016,Southern,West Virginia,53,150000,35.3
+2016,Western,Alaska,17,77000,22.1*
+2016,Western,Arizona,239,528000,45.3
+2016,Western,California,510,1831000,27.9
+2016,Western,Colorado,175,418000,41.9
+2016,Western,Hawaii,12,118000,10.2*
+2016,Western,Idaho,61,127000,48
+2016,Western,Montana,48,95000,50.5
+2016,Western,Nevada,113,224000,50.4
+2016,Western,New Mexico,73,162000,45.1
+2016,Western,Oregon,134,330000,40.6
+2016,Western,Utah,62,138000,44.9
+2016,Western,Washington,188,597000,31.5
+2016,Western,Wyoming,22,48000,45.8
+2016,All,U.S. Total,6491,21072000,30.8
+2017,Northeastern,Connecticut,40,190000,21.1
+2017,Northeastern,Maine,52,121000,43
+2017,Northeastern,Massachusetts,66,348000,19
+2017,Northeastern,New Hampshire,37,109000,33.9
+2017,Northeastern,New Jersey,81,389000,20.8
+2017,Northeastern,New York,158,822000,19.2
+2017,Northeastern,Pennsylvania,293,852000,34.4
+2017,Northeastern,Rhode Island,12,63000,19.0*
+2017,Northeastern,Vermont,10,44000,22.7*
+2017,Midwestern,Illinois,185,664000,27.9
+2017,Midwestern,Indiana,134,442000,30.3
+2017,Midwestern,Iowa,68,213000,31.9
+2017,Midwestern,Kansas,76,206000,36.9
+2017,Midwestern,Michigan,198,619000,32
+2017,Midwestern,Minnesota,101,344000,29.4
+2017,Midwestern,Missouri,168,458000,36.7
+2017,Midwestern,Nebraska,39,134000,29.1
+2017,Midwestern,North Dakota,22,60000,36.7
+2017,Midwestern,Ohio,262,826000,31.7
+2017,Midwestern,South Dakota,22,69000,31.9
+2017,Midwestern,Wisconsin,139,380000,36.6
+2017,Southern,Alabama,135,383000,35.2
+2017,Southern,Arkansas,109,228000,47.8
+2017,Southern,Delaware,17,75000,22.7*
+2017,Southern,District of Columbia,<10,33000,--
+2017,Southern,Florida,551,1624000,33.9
+2017,Southern,Georgia,213,726000,29.3
+2017,Southern,Kentucky,121,307000,39.4
+2017,Southern,Louisiana,106,297000,35.7
+2017,Southern,Maryland,86,406000,21.2
+2017,Southern,Mississippi,67,198000,33.8
+2017,Southern,North Carolina,232,743000,31.2
+2017,Southern,Oklahoma,98,303000,32.3
+2017,Southern,South Carolina,124,408000,30.4
+2017,Southern,Tennessee,175,490000,35.7
+2017,Southern,Texas,537,1626000,33
+2017,Southern,Virginia,173,747000,23.2
+2017,Southern,West Virginia,65,144000,45.1
+2017,Western,Alaska,28,73000,38.4
+2017,Western,Arizona,235,513000,45.8
+2017,Western,California,530,1789000,29.6
+2017,Western,Colorado,168,411000,40.9
+2017,Western,Hawaii,25,120000,20.8
+2017,Western,Idaho,53,125000,42.4
+2017,Western,Montana,58,95000,61.1
+2017,Western,Nevada,123,215000,57.2
+2017,Western,New Mexico,77,163000,47.2
+2017,Western,Oregon,156,324000,48.1
+2017,Western,Utah,66,142000,46.5
+2017,Western,Washington,195,584000,33.4
+2017,Western,Wyoming,28,45000,62.2
+2017,All,U.S. Total,6718,20690000,32.5
+2018,Northeastern,Connecticut,50,189000,26.5
+2018,Northeastern,Maine,48,118000,40.7
+2018,Northeastern,Massachusetts,71,341000,20.8
+2018,Northeastern,New Hampshire,41,109000,37.6
+2018,Northeastern,New Jersey,65,371000,17.5
+2018,Northeastern,New York,186,796000,23.4
+2018,Northeastern,Pennsylvania,273,840000,32.5
+2018,Northeastern,Rhode Island,15,65000,23.1*
+2018,Northeastern,Vermont,14,41000,34.1*
+2018,Midwestern,Illinois,161,643000,25
+2018,Midwestern,Indiana,149,434000,34.3
+2018,Midwestern,Iowa,63,214000,29.4
+2018,Midwestern,Kansas,83,206000,40.3
+2018,Midwestern,Michigan,216,609000,35.5
+2018,Midwestern,Minnesota,97,341000,28.4
+2018,Midwestern,Missouri,201,441000,45.6
+2018,Midwestern,Nebraska,42,132000,31.8
+2018,Midwestern,North Dakota,16,56000,28.6*
+2018,Midwestern,Ohio,233,797000,29.2
+2018,Midwestern,South Dakota,25,69000,36.2
+2018,Midwestern,Wisconsin,118,378000,31.2
+2018,Southern,Alabama,144,381000,37.8
+2018,Southern,Arkansas,80,220000,36.4
+2018,Southern,Delaware,18,76000,23.7*
+2018,Southern,District of Columbia,<10,29000,--
+2018,Southern,Florida,603,1602000,37.6
+2018,Southern,Georgia,220,719000,30.6
+2018,Southern,Kentucky,121,303000,39.9
+2018,Southern,Louisiana,100,299000,33.4
+2018,Southern,Maryland,93,403000,23.1
+2018,Southern,Mississippi,65,193000,33.7
+2018,Southern,North Carolina,213,728000,29.3
+2018,Southern,Oklahoma,127,304000,41.8
+2018,Southern,South Carolina,120,410000,29.3
+2018,Southern,Tennessee,189,480000,39.4
+2018,Southern,Texas,526,1617000,32.5
+2018,Southern,Virginia,181,751000,24.1
+2018,Southern,West Virginia,65,140000,46.4
+2018,Western,Alaska,20,71000,28.2
+2018,Western,Arizona,233,521000,44.7
+2018,Western,California,555,1761000,31.5
+2018,Western,Colorado,181,408000,44.4
+2018,Western,Hawaii,19,119000,16.0*
+2018,Western,Idaho,56,130000,43.1
+2018,Western,Montana,57,93000,61.3
+2018,Western,Nevada,97,228000,42.5
+2018,Western,New Mexico,75,159000,47.2
+2018,Western,Oregon,151,315000,47.9
+2018,Western,Utah,54,138000,39.1
+2018,Western,Washington,186,577000,32.2
+2018,Western,Wyoming,18,46000,39.1*
+2018,All,U.S. Total,6738,20411000,33
+2019,Northeastern,Connecticut,48,185000,25.9
+2019,Northeastern,Maine,36,116000,31
+2019,Northeastern,Massachusetts,71,332000,21.4
+2019,Northeastern,New Hampshire,38,106000,35.8
+2019,Northeastern,New Jersey,65,359000,18.1
+2019,Northeastern,New York,162,779000,20.8
+2019,Northeastern,Pennsylvania,289,815000,35.5
+2019,Northeastern,Rhode Island,<10,68000,--
+2019,Northeastern,Vermont,18,38000,47.4*
+2019,Midwestern,Illinois,180,624000,28.8
+2019,Midwestern,Indiana,129,424000,30.4
+2019,Midwestern,Iowa,74,203000,36.5
+2019,Midwestern,Kansas,72,208000,34.6
+2019,Midwestern,Michigan,189,599000,31.6
+2019,Midwestern,Minnesota,92,327000,28.1
+2019,Midwestern,Missouri,195,437000,44.6
+2019,Midwestern,Nebraska,50,130000,38.5
+2019,Midwestern,North Dakota,14,56000,25.0*
+2019,Midwestern,Ohio,268,779000,34.4
+2019,Midwestern,South Dakota,25,69000,36.2
+2019,Midwestern,Wisconsin,100,366000,27.3
+2019,Southern,Alabama,113,375000,30.1
+2019,Southern,Arkansas,90,220000,40.9
+2019,Southern,Delaware,11,75000,14.7*
+2019,Southern,District of Columbia,<10,30000,--
+2019,Southern,Florida,574,1572000,36.5
+2019,Southern,Georgia,214,714000,30
+2019,Southern,Kentucky,100,295000,33.9
+2019,Southern,Louisiana,90,292000,30.8
+2019,Southern,Maryland,68,393000,17.3
+2019,Southern,Mississippi,65,191000,34
+2019,Southern,North Carolina,185,724000,25.6
+2019,Southern,Oklahoma,114,306000,37.3
+2019,Southern,South Carolina,130,402000,32.3
+2019,Southern,Tennessee,191,466000,41
+2019,Southern,Texas,524,1593000,32.9
+2019,Southern,Virginia,192,744000,25.8
+2019,Southern,West Virginia,51,138000,37
+2019,Western,Alaska,25,73000,34.2
+2019,Western,Arizona,237,521000,45.5
+2019,Western,California,490,1718000,28.5
+2019,Western,Colorado,174,399000,43.6
+2019,Western,Hawaii,17,115000,14.8*
+2019,Western,Idaho,53,130000,40.8
+2019,Western,Montana,53,92000,57.6
+2019,Western,Nevada,115,230000,50
+2019,Western,New Mexico,71,154000,46.1
+2019,Western,Oregon,143,301000,47.5
+2019,Western,Utah,58,134000,43.3
+2019,Western,Washington,199,567000,35.1
+2019,Western,Wyoming,35,44000,79.5
+2019,All,U.S. Total,6510,20028000,32.5
+2020,Northeastern,Connecticut,42,176000,23.9
+2020,Northeastern,Maine,41,113000,36.3
+2020,Northeastern,Massachusetts,66,314000,21
+2020,Northeastern,New Hampshire,36,103000,35
+2020,Northeastern,New Jersey,63,348000,18.1
+2020,Northeastern,New York,148,763000,19.4
+2020,Northeastern,Pennsylvania,246,787000,31.3
+2020,Northeastern,Rhode Island,15,66000,22.7*
+2020,Northeastern,Vermont,13,38000,34.2*
+2020,Midwestern,Illinois,155,619000,25
+2020,Midwestern,Indiana,156,413000,37.8
+2020,Midwestern,Iowa,71,196000,36.2
+2020,Midwestern,Kansas,58,196000,29.6
+2020,Midwestern,Michigan,193,568000,34
+2020,Midwestern,Minnesota,93,315000,29.5
+2020,Midwestern,Missouri,171,424000,40.3
+2020,Midwestern,Nebraska,50,127000,39.4
+2020,Midwestern,North Dakota,24,55000,43.6
+2020,Midwestern,Ohio,241,748000,32.2
+2020,Midwestern,South Dakota,27,70000,38.6
+2020,Midwestern,Wisconsin,142,356000,39.9
+2020,Southern,Alabama,130,368000,35.3
+2020,Southern,Arkansas,92,217000,42.4
+2020,Southern,Delaware,22,71000,31
+2020,Southern,District of Columbia,<10,30000,--
+2020,Southern,Florida,505,1516000,33.3
+2020,Southern,Georgia,191,702000,27.2
+2020,Southern,Kentucky,120,286000,42
+2020,Southern,Louisiana,88,287000,30.7
+2020,Southern,Maryland,81,385000,21
+2020,Southern,Mississippi,58,192000,30.2
+2020,Southern,North Carolina,205,715000,28.7
+2020,Southern,Oklahoma,114,296000,38.5
+2020,Southern,South Carolina,118,400000,29.5
+2020,Southern,Tennessee,186,457000,40.7
+2020,Southern,Texas,530,1587000,33.4
+2020,Southern,Virginia,186,722000,25.8
+2020,Southern,West Virginia,67,134000,50
+2020,Western,Alaska,32,71000,45.1
+2020,Western,Arizona,206,512000,40.2
+2020,Western,California,463,1660000,27.9
+2020,Western,Colorado,160,390000,41
+2020,Western,Hawaii,24,113000,21.2
+2020,Western,Idaho,58,128000,45.3
+2020,Western,Montana,54,92000,58.7
+2020,Western,Nevada,107,221000,48.4
+2020,Western,New Mexico,63,153000,41.2
+2020,Western,Oregon,137,290000,47.2
+2020,Western,Utah,69,135000,51.1
+2020,Western,Washington,185,552000,33.5
+2020,Western,Wyoming,38,44000,86.4
+2020,All,U.S. Total,6347,19521000,32.5
+2021,Northeastern,Connecticut,35,171000,20.5
+2021,Northeastern,Maine,40,110000,36.4
+2021,Northeastern,Massachusetts,60,300000,20
+2021,Northeastern,New Hampshire,29,98000,29.6
+2021,Northeastern,New Jersey,53,336000,15.8
+2021,Northeastern,New York,141,741000,19
+2021,Northeastern,Pennsylvania,248,763000,32.5
+2021,Northeastern,Rhode Island,11,60000,18.3*
+2021,Northeastern,Vermont,18,37000,48.6*
+2021,Midwestern,Illinois,155,606000,25.6
+2021,Midwestern,Indiana,139,402000,34.6
+2021,Midwestern,Iowa,68,188000,36.2
+2021,Midwestern,Kansas,66,186000,35.5
+2021,Midwestern,Michigan,174,545000,31.9
+2021,Midwestern,Minnesota,94,309000,30.4
+2021,Midwestern,Missouri,187,418000,44.7
+2021,Midwestern,Nebraska,43,121000,35.5
+2021,Midwestern,North Dakota,14,54000,25.9*
+2021,Midwestern,Ohio,241,722000,33.4
+2021,Midwestern,South Dakota,32,70000,45.7
+2021,Midwestern,Wisconsin,110,349000,31.5
+2021,Southern,Alabama,125,364000,34.3
+2021,Southern,Arkansas,82,208000,39.4
+2021,Southern,Delaware,24,71000,33.8
+2021,Southern,District of Columbia,<10,29000,--
+2021,Southern,Florida,547,1469000,37.2
+2021,Southern,Georgia,228,686000,33.2
+2021,Southern,Kentucky,100,280000,35.7
+2021,Southern,Louisiana,79,278000,28.4
+2021,Southern,Maryland,89,375000,23.7
+2021,Southern,Mississippi,63,187000,33.7
+2021,Southern,North Carolina,204,700000,29.1
+2021,Southern,Oklahoma,131,287000,45.6
+2021,Southern,South Carolina,122,393000,31
+2021,Southern,Tennessee,179,447000,40
+2021,Southern,Texas,584,1562000,37.4
+2021,Southern,Virginia,194,702000,27.6
+2021,Southern,West Virginia,55,132000,41.7
+2021,Western,Alaska,26,68000,38.2
+2021,Western,Arizona,242,491000,49.3
+2021,Western,California,464,1610000,28.8
+2021,Western,Colorado,211,384000,54.9
+2021,Western,Hawaii,20,114000,17.5
+2021,Western,Idaho,54,124000,43.5
+2021,Western,Montana,44,89000,49.4
+2021,Western,Nevada,111,216000,51.4
+2021,Western,New Mexico,69,148000,46.6
+2021,Western,Oregon,139,285000,48.8
+2021,Western,Utah,63,130000,48.5
+2021,Western,Washington,186,538000,34.6
+2021,Western,Wyoming,32,46000,69.6
+2021,All,U.S. Total,6429,18999000,33.8
+2022,Northeastern,Connecticut,39,158000,24.7
+2022,Northeastern,Maine,44,109000,40.4
+2022,Northeastern,Massachusetts,56,286000,19.6
+2022,Northeastern,New Hampshire,32,97000,33
+2022,Northeastern,New Jersey,57,322000,17.7
+2022,Northeastern,New York,140,698000,20.1
+2022,Northeastern,Pennsylvania,232,725000,32
+2022,Northeastern,Rhode Island,14,54000,25.9*
+2022,Northeastern,Vermont,17,38000,44.7*
+2022,Midwestern,Illinois,164,627000,26.2
+2022,Midwestern,Indiana,173,384000,45.1
+2022,Midwestern,Iowa,71,186000,38.2
+2022,Midwestern,Kansas,81,187000,43.3
+2022,Midwestern,Michigan,170,525000,32.4
+2022,Midwestern,Minnesota,94,307000,30.6
+2022,Midwestern,Missouri,173,407000,42.5
+2022,Midwestern,Nebraska,40,119000,33.6
+2022,Midwestern,North Dakota,20,51000,39.2
+2022,Midwestern,Ohio,233,695000,33.5
+2022,Midwestern,South Dakota,18,67000,26.9*
+2022,Midwestern,Wisconsin,136,340000,40
+2022,Southern,Alabama,118,352000,33.5
+2022,Southern,Arkansas,63,207000,30.4
+2022,Southern,Delaware,20,65000,30.8
+2022,Southern,District of Columbia,<10,27000,--
+2022,Southern,Florida,545,1450000,37.6
+2022,Southern,Georgia,209,675000,31
+2022,Southern,Kentucky,101,273000,37
+2022,Southern,Louisiana,104,267000,39
+2022,Southern,Maryland,55,366000,15
+2022,Southern,Mississippi,56,187000,29.9
+2022,Southern,North Carolina,211,696000,30.3
+2022,Southern,Oklahoma,126,283000,44.5
+2022,Southern,South Carolina,134,395000,33.9
+2022,Southern,Tennessee,184,444000,41.4
+2022,Southern,Texas,581,1557000,37.3
+2022,Southern,Virginia,185,694000,26.7
+2022,Southern,West Virginia,60,125000,48
+2022,Western,Alaska,27,71000,38
+2022,Western,Arizona,255,484000,52.7
+2022,Western,California,453,1535000,29.5
+2022,Western,Colorado,178,376000,47.3
+2022,Western,Hawaii,20,109000,18.3
+2022,Western,Idaho,63,121000,52.1
+2022,Western,Montana,74,91000,81.3
+2022,Western,Nevada,114,210000,54.3
+2022,Western,New Mexico,68,156000,43.6
+2022,Western,Oregon,140,278000,50.4
+2022,Western,Utah,68,129000,52.7
+2022,Western,Washington,195,524000,37.2
+2022,Western,Wyoming,22,44000,50
+2022,All,U.S. Total,6442,18573000,34.7
+2023,Northeastern,Connecticut,41,152000,27
+2023,Northeastern,Maine,41,108000,38
+2023,Northeastern,Massachusetts,62,276000,22.5
+2023,Northeastern,New Hampshire,32,94000,34
+2023,Northeastern,New Jersey,42,310000,13.5
+2023,Northeastern,New York,167,670000,24.9
+2023,Northeastern,Pennsylvania,268,694000,38.6
+2023,Northeastern,Rhode Island,13,51000,25.5*
+2023,Northeastern,Vermont,<10,36000,--
+2023,Midwestern,Illinois,160,625000,25.6
+2023,Midwestern,Indiana,149,373000,39.9
+2023,Midwestern,Iowa,67,182000,36.8
+2023,Midwestern,Kansas,79,182000,43.4
+2023,Midwestern,Michigan,180,505000,35.6
+2023,Midwestern,Minnesota,80,298000,26.8
+2023,Midwestern,Missouri,147,392000,37.5
+2023,Midwestern,Nebraska,38,120000,31.7
+2023,Midwestern,North Dakota,20,50000,40
+2023,Midwestern,Ohio,254,676000,37.6
+2023,Midwestern,South Dakota,25,64000,39.1
+2023,Midwestern,Wisconsin,130,330000,39.4
+2023,Southern,Alabama,122,342000,35.7
+2023,Southern,Arkansas,105,204000,51.5
+2023,Southern,Delaware,19,63000,30.2*
+2023,Southern,District of Columbia,<10,27000,--
+2023,Southern,Florida,550,1424000,38.6
+2023,Southern,Georgia,200,666000,30
+2023,Southern,Kentucky,103,262000,39.3
+2023,Southern,Louisiana,83,259000,32
+2023,Southern,Maryland,64,363000,17.6
+2023,Southern,Mississippi,63,183000,34.4
+2023,Southern,North Carolina,228,693000,32.9
+2023,Southern,Oklahoma,161,283000,56.9
+2023,Southern,South Carolina,131,394000,33.2
+2023,Southern,Tennessee,210,436000,48.2
+2023,Southern,Texas,581,1544000,37.6
+2023,Southern,Virginia,172,688000,25
+2023,Southern,West Virginia,69,124000,55.6
+2023,Western,Alaska,25,71000,35.2
+2023,Western,Arizona,223,478000,46.7
+2023,Western,California,389,1481000,26.3
+2023,Western,Colorado,178,368000,48.4
+2023,Western,Hawaii,26,109000,23.9
+2023,Western,Idaho,63,121000,52.1
+2023,Western,Montana,48,89000,53.9
+2023,Western,Nevada,128,209000,61.2
+2023,Western,New Mexico,52,155000,33.5
+2023,Western,Oregon,114,266000,42.9
+2023,Western,Utah,78,131000,59.5
+2023,Western,Washington,186,511000,36.4
+2023,Western,Wyoming,21,46000,45.7
+2023,All,U.S. Total,6398,18178000,35.2

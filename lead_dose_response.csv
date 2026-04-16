@@ -1,0 +1,6 @@
+lead_category,n_counties,mean_suicide_rate,median_suicide_rate,std_suicide_rate,mean_lead_sites,se,ci_lower,ci_upper
+0 sites,1943,51.43,49.52,18.26,0.0,0.414,50.62,52.24
+1-2 sites,234,55.58,53.23,20.46,1.32,1.338,52.96,58.2
+3-10 sites,202,58.99,57.04,21.44,5.39,1.509,56.03,61.95
+11-50 sites,163,62.46,61.26,24.9,23.46,1.95,58.64,66.28
+51+ sites,141,70.83,67.08,26.12,187.39,2.2,66.52,75.14

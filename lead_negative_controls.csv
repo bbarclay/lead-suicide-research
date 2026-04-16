@@ -1,0 +1,6 @@
+Outcome,Coefficient,Std_Error,T_stat,P_value,N,Significant
+Homeownership Rate,-0.00178,0.00171,-1.042,0.2973797957437583,2682,No
+Bachelor's Degree %,0.00264,0.00246,1.072,0.2835325129085934,2682,No
+High School Diploma %,0.00131,0.00139,0.943,0.34582206023261575,2682,No
+Social Associations Rate,-0.00052,0.00082,-0.625,0.5320136822714532,2682,No
+Broadband Internet %,0.00277,0.00143,1.932,0.05338677202903006,2682,No

@@ -1,0 +1,291 @@
+year,utah_county,children_elevated
+2000,Beaver,2.0
+2001,Beaver,0.0
+2002,Beaver,0.0
+2003,Beaver,0.0
+2004,Beaver,0.0
+2005,Beaver,1.0
+2006,Beaver,0.0
+2007,Beaver,1.0
+2008,Beaver,0.0
+2009,Beaver,0.0
+2000,Box Elder,49.0
+2001,Box Elder,47.0
+2002,Box Elder,23.0
+2003,Box Elder,9.0
+2004,Box Elder,23.0
+2005,Box Elder,38.0
+2006,Box Elder,22.0
+2007,Box Elder,33.0
+2008,Box Elder,42.0
+2009,Box Elder,26.0
+2000,Cache,73.0
+2001,Cache,64.0
+2002,Cache,69.0
+2003,Cache,45.0
+2004,Cache,37.0
+2005,Cache,36.0
+2006,Cache,29.0
+2007,Cache,24.0
+2008,Cache,29.0
+2009,Cache,33.0
+2000,Carbon,12.0
+2001,Carbon,1.0
+2002,Carbon,2.0
+2003,Carbon,2.0
+2004,Carbon,14.0
+2005,Carbon,9.0
+2006,Carbon,13.0
+2007,Carbon,13.0
+2008,Carbon,15.0
+2009,Carbon,5.0
+2000,Daggett,0.0
+2001,Daggett,1.0
+2002,Daggett,0.0
+2003,Daggett,0.0
+2004,Daggett,0.0
+2005,Daggett,1.0
+2006,Daggett,0.0
+2007,Daggett,0.0
+2008,Daggett,0.0
+2009,Daggett,0.0
+2000,Davis,255.0
+2001,Davis,266.0
+2002,Davis,225.0
+2003,Davis,170.0
+2004,Davis,133.0
+2005,Davis,129.0
+2006,Davis,161.0
+2007,Davis,226.0
+2008,Davis,211.0
+2009,Davis,133.0
+2000,Duchesne,15.0
+2001,Duchesne,14.0
+2002,Duchesne,27.0
+2003,Duchesne,12.0
+2004,Duchesne,1.0
+2005,Duchesne,0.0
+2006,Duchesne,1.0
+2007,Duchesne,2.0
+2008,Duchesne,0.0
+2009,Duchesne,0.0
+2000,Emery,2.0
+2001,Emery,0.0
+2002,Emery,1.0
+2003,Emery,2.0
+2004,Emery,1.0
+2005,Emery,1.0
+2006,Emery,2.0
+2007,Emery,6.0
+2008,Emery,4.0
+2009,Emery,1.0
+2000,Garfield,2.0
+2001,Garfield,0.0
+2002,Garfield,0.0
+2003,Garfield,0.0
+2004,Garfield,1.0
+2005,Garfield,0.0
+2006,Garfield,0.0
+2007,Garfield,0.0
+2008,Garfield,0.0
+2009,Garfield,0.0
+2000,Grand,4.0
+2001,Grand,2.0
+2002,Grand,1.0
+2003,Grand,2.0
+2004,Grand,0.0
+2005,Grand,0.0
+2006,Grand,2.0
+2007,Grand,4.0
+2008,Grand,1.0
+2009,Grand,2.0
+2000,Iron,31.0
+2001,Iron,16.0
+2002,Iron,12.0
+2003,Iron,2.0
+2004,Iron,0.0
+2005,Iron,0.0
+2006,Iron,1.0
+2007,Iron,0.0
+2008,Iron,1.0
+2009,Iron,0.0
+2000,Juab,31.0
+2001,Juab,24.0
+2002,Juab,17.0
+2003,Juab,23.0
+2004,Juab,17.0
+2005,Juab,14.0
+2006,Juab,5.0
+2007,Juab,21.0
+2008,Juab,7.0
+2009,Juab,18.0
+2000,Kane,4.0
+2001,Kane,0.0
+2002,Kane,1.0
+2003,Kane,0.0
+2004,Kane,0.0
+2005,Kane,0.0
+2006,Kane,1.0
+2007,Kane,0.0
+2008,Kane,1.0
+2009,Kane,0.0
+2000,Millard,3.0
+2001,Millard,3.0
+2002,Millard,0.0
+2003,Millard,0.0
+2004,Millard,1.0
+2005,Millard,1.0
+2006,Millard,1.0
+2007,Millard,2.0
+2008,Millard,3.0
+2009,Millard,0.0
+2000,Morgan,4.0
+2001,Morgan,10.0
+2002,Morgan,2.0
+2003,Morgan,13.0
+2004,Morgan,0.0
+2005,Morgan,2.0
+2006,Morgan,4.0
+2007,Morgan,6.0
+2008,Morgan,4.0
+2009,Morgan,2.0
+2000,Piute,0.0
+2001,Piute,0.0
+2002,Piute,0.0
+2003,Piute,1.0
+2004,Piute,0.0
+2005,Piute,0.0
+2006,Piute,0.0
+2007,Piute,0.0
+2008,Piute,0.0
+2009,Piute,
+2000,Rich,1.0
+2001,Rich,0.0
+2002,Rich,0.0
+2003,Rich,0.0
+2004,Rich,0.0
+2005,Rich,0.0
+2006,Rich,0.0
+2007,Rich,0.0
+2008,Rich,0.0
+2009,Rich,0.0
+2000,Salt Lake,1591.0
+2001,Salt Lake,1831.0
+2002,Salt Lake,1669.0
+2003,Salt Lake,1256.0
+2004,Salt Lake,839.0
+2005,Salt Lake,581.0
+2006,Salt Lake,634.0
+2007,Salt Lake,827.0
+2008,Salt Lake,1364.0
+2009,Salt Lake,1147.0
+2000,San Juan,4.0
+2001,San Juan,1.0
+2002,San Juan,0.0
+2003,San Juan,1.0
+2004,San Juan,0.0
+2005,San Juan,2.0
+2006,San Juan,14.0
+2007,San Juan,21.0
+2008,San Juan,30.0
+2009,San Juan,22.0
+2000,Sanpete,22.0
+2001,Sanpete,32.0
+2002,Sanpete,19.0
+2003,Sanpete,22.0
+2004,Sanpete,8.0
+2005,Sanpete,7.0
+2006,Sanpete,8.0
+2007,Sanpete,2.0
+2008,Sanpete,3.0
+2009,Sanpete,1.0
+2000,Sevier,10.0
+2001,Sevier,27.0
+2002,Sevier,10.0
+2003,Sevier,8.0
+2004,Sevier,3.0
+2005,Sevier,4.0
+2006,Sevier,5.0
+2007,Sevier,0.0
+2008,Sevier,3.0
+2009,Sevier,2.0
+2000,Summit,9.0
+2001,Summit,14.0
+2002,Summit,16.0
+2003,Summit,35.0
+2004,Summit,25.0
+2005,Summit,19.0
+2006,Summit,11.0
+2007,Summit,8.0
+2008,Summit,10.0
+2009,Summit,8.0
+2000,Tooele,40.0
+2001,Tooele,30.0
+2002,Tooele,34.0
+2003,Tooele,21.0
+2004,Tooele,14.0
+2005,Tooele,17.0
+2006,Tooele,13.0
+2007,Tooele,13.0
+2008,Tooele,9.0
+2009,Tooele,6.0
+2000,Uintah,61.0
+2001,Uintah,79.0
+2002,Uintah,85.0
+2003,Uintah,16.0
+2004,Uintah,4.0
+2005,Uintah,1.0
+2006,Uintah,0.0
+2007,Uintah,0.0
+2008,Uintah,1.0
+2009,Uintah,2.0
+2000,Utah,343.0
+2001,Utah,223.0
+2002,Utah,176.0
+2003,Utah,155.0
+2004,Utah,158.0
+2005,Utah,145.0
+2006,Utah,119.0
+2007,Utah,124.0
+2008,Utah,149.0
+2009,Utah,121.0
+2000,Wasatch,6.0
+2001,Wasatch,4.0
+2002,Wasatch,3.0
+2003,Wasatch,3.0
+2004,Wasatch,6.0
+2005,Wasatch,2.0
+2006,Wasatch,3.0
+2007,Wasatch,2.0
+2008,Wasatch,1.0
+2009,Wasatch,0.0
+2000,Washington,18.0
+2001,Washington,12.0
+2002,Washington,8.0
+2003,Washington,4.0
+2004,Washington,6.0
+2005,Washington,0.0
+2006,Washington,2.0
+2007,Washington,0.0
+2008,Washington,2.0
+2009,Washington,0.0
+2000,Wayne,2.0
+2001,Wayne,0.0
+2002,Wayne,0.0
+2003,Wayne,2.0
+2004,Wayne,0.0
+2005,Wayne,0.0
+2006,Wayne,1.0
+2007,Wayne,1.0
+2008,Wayne,0.0
+2009,Wayne,0.0
+2000,Weber,357.0
+2001,Weber,380.0
+2002,Weber,408.0
+2003,Weber,344.0
+2004,Weber,194.0
+2005,Weber,216.0
+2006,Weber,281.0
+2007,Weber,363.0
+2008,Weber,280.0
+2009,Weber,100.0

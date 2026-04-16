@@ -1,0 +1,435 @@
+Species,AgeGroup,Rehab,Season,State,Flyway,DW Lead (µg/g),Below LOD,Above or Below 20 µg/g,Age for DemModels
+Bald Eagle,Adult,TRUE,Spring,Florida,Atlantic,1.66,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Idaho,Pacific,1.96,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Winter,Idaho,Pacific,0.23,FALSE,0,2
+Bald Eagle,Juvenile,TRUE,Summer,Virginia,Atlantic,6.00,FALSE,0,1
+Bald Eagle,Adult,TRUE,Spring,Virginia,Atlantic,8.58,FALSE,0,A3Y
+Bald Eagle,Juvenile,TRUE,Spring,Virginia,Atlantic,0.17,FALSE,0,1
+Bald Eagle,Juvenile,TRUE,Summer,Virginia,Atlantic,2.65,TRUE,0,1
+Bald Eagle,Juvenile,TRUE,Winter,Virginia,Atlantic,0.53,FALSE,0,1
+Bald Eagle,Subadult,TRUE,Spring,Virginia,Atlantic,0.10,TRUE,0,A3Y
+Bald Eagle,Subadult,TRUE,Spring,Virginia,Atlantic,5.61,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Spring,Virginia,Atlantic,1.08,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Spring,Virginia,Atlantic,4.61,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Spring,Virginia,Atlantic,0.16,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Iowa ,Mississippi,174.88,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,110.50,FALSE,1,A3Y
+Bald Eagle,Juvenile,FALSE,Summer,South Dakota,Central,0.10,TRUE,0,1
+Bald Eagle,Juvenile,FALSE,Summer,Idaho,Pacific,0.33,FALSE,0,1
+Bald Eagle,Adult,FALSE,Summer,Idaho,Pacific,0.29,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Fall,Pennsylvania,Central,1.71,FALSE,0,A3Y
+Bald Eagle,Subadult,TRUE,Fall,West Virginia,Atlantic,102.00,FALSE,1,A3Y
+Bald Eagle,Adult,TRUE,Fall,Florida,Atlantic,0.28,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Pennsylvania,Central,0.12,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Missouri,Mississippi,281.59,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Washington,Pacific,0.10,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Washington,Pacific,0.07,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Kansas,Mississippi,114.47,FALSE,1,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,Washington,Pacific,0.09,FALSE,0,1
+Bald Eagle,Adult,FALSE,Winter,North Dakota,Central,20.39,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Virginia,Atlantic,69.36,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Wisconsin,Mississippi,0.33,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Washington,Pacific,73.08,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,North Dakota,Central,83.82,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,North Dakota,Central,3.36,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Arizona,Pacific,199.40,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Arizona,Pacific,76.25,FALSE,1,A3Y
+Bald Eagle,Subadult,FALSE,Winter,Wisconsin,Mississippi,0.14,FALSE,0,2
+Bald Eagle,Juvenile,FALSE,Winter,Washington,Pacific,83.76,FALSE,1,1
+Bald Eagle,Juvenile,FALSE,Winter,North Dakota,Central,0.84,FALSE,0,1
+Bald Eagle,Juvenile,FALSE,Winter,Colorado,Central,0.13,FALSE,0,1
+Bald Eagle,Adult,FALSE,Winter,Washington,Pacific,0.33,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Wisconsin,Mississippi,219.10,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Arizona,Pacific,111.74,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Spring,Kansas,Mississippi,0.89,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,North Dakota,Central,2.18,FALSE,0,1
+Bald Eagle,Adult,FALSE,Spring,Minnesota,Mississippi,99.44,FALSE,1,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,North Dakota,Central,6.94,FALSE,0,1
+Bald Eagle,Adult,FALSE,Spring,North Dakota,Central,1.28,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Minnesota,Mississippi,4.25,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Minnesota,Mississippi,0.30,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Minnesota,Mississippi,2.66,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Spring,Wisconsin,Mississippi,119.83,FALSE,1,1
+Bald Eagle,Subadult,FALSE,Spring,North Dakota,Central,138.24,FALSE,1,Unknown
+Bald Eagle,Juvenile,FALSE,Spring,Montana,Pacific,1.62,FALSE,0,1
+Bald Eagle,Juvenile,FALSE,Winter,Montana,Central,2.97,FALSE,0,1
+Bald Eagle,Adult,FALSE,Spring,South Dakota,Central,226.57,FALSE,1,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,South Dakota,Central,72.45,FALSE,1,1
+Bald Eagle,Juvenile,FALSE,Fall,Nebraska,Central,1.84,FALSE,0,1
+Bald Eagle,Adult,FALSE,Winter,Nebraska,Central,221.64,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Fall,Nebraska,Central,0.92,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Nebraska,Central,9.77,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Nebraska,Central,106.96,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Fall,Wyoming,Central,11.23,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,South Dakota,Central,2.33,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Fall,South Dakota,Central,1.54,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,135.14,FALSE,1,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,Washington,Pacific,0.14,FALSE,0,1
+Bald Eagle,Adult,FALSE,Spring,Washington,Pacific,0.32,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Washington,Pacific,0.35,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,Wyoming,Central,3.94,FALSE,0,1
+Bald Eagle,Adult,FALSE,Winter,Wyoming,Central,3.14,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Summer,Washington,Pacific,0.05,FALSE,0,1
+Bald Eagle,Juvenile,FALSE,Summer,Washington,Pacific,0.04,FALSE,0,1
+Bald Eagle,Juvenile,FALSE,Summer,South Dakota,Central,0.10,TRUE,0,1
+Bald Eagle,Adult,FALSE,Winter,Wyoming,Central,0.82,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,South Dakota,Central,126.16,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,0.15,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,113.05,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Spring,South Dakota,Central,2.22,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Winter,Montana,Pacific,0.24,FALSE,0,2
+Bald Eagle,Subadult,FALSE,Winter,Montana,Central,66.73,FALSE,1,3
+Bald Eagle,Adult,FALSE,Fall,Nebraska,Central,242.38,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Spring,Nebraska,Central,61.36,FALSE,1,A3Y
+Bald Eagle,Subadult,FALSE,Summer,Nebraska,Central,0.28,FALSE,0,2
+Bald Eagle,Adult,FALSE,Fall,Nebraska,Central,1.80,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Nebraska,Central,0.84,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,0.79,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,South Dakota,Central,25.60,FALSE,1,A3Y
+Bald Eagle,Subadult,FALSE,Spring,North Dakota,Central,0.17,FALSE,0,3
+Bald Eagle,Adult,FALSE,Winter,Colorado,Central,0.17,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Colorado,Central,0.35,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Colorado,Central,0.19,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Summer,Virginia,Atlantic,2.06,TRUE,0,A3Y
+Bald Eagle,Adult,TRUE,Summer,Virginia,Atlantic,3.45,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Summer,Virginia,Atlantic,1.63,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Fall,Virginia,Atlantic,102.07,FALSE,1,A3Y
+Bald Eagle,Subadult,TRUE,Fall,Virginia,Atlantic,2.42,TRUE,0,A3Y
+Bald Eagle,Adult,TRUE,Fall,Virginia,Atlantic,1.53,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Summer,Wyoming,Central,2.75,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,Kansas,Mississippi,0.53,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,Colorado,Central,0.16,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,Virginia,Atlantic,2.52,TRUE,0,A3Y
+Bald Eagle,Adult,TRUE,Fall,Pennsylvania,Central,3.46,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Fall,Pennsylvania,Central,82.62,FALSE,1,2
+Bald Eagle,Adult,FALSE,Winter,South Carolina,Central,111.20,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Kentucky,Mississippi,0.63,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Idaho,Pacific,1.08,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Winter,Arkansas,Mississippi,193.74,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Fall,Pennsylvania,Central,3.37,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Pennsylvania,Central,86.30,FALSE,1,A3Y
+Bald Eagle,Adult,TRUE,Winter,Pennsylvania,Central,183.60,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Georgia,Atlantic,0.62,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,Pennsylvania,Central,202.00,FALSE,1,A3Y
+Bald Eagle,Adult,TRUE,Winter,Florida,Atlantic,0.27,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Winter,Florida,Atlantic,1.70,FALSE,0,2
+Bald Eagle,Subadult,FALSE,Winter,Florida,Atlantic,0.69,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Winter,Virginia,Atlantic,59.93,FALSE,1,A3Y
+Bald Eagle,Subadult,TRUE,Winter,Virginia,Atlantic,72.01,FALSE,1,2
+Bald Eagle,Juvenile,TRUE,Spring,Virginia,Atlantic,0.19,FALSE,0,1
+Bald Eagle,Adult,TRUE,Spring,Virginia,Atlantic,1.55,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,North Dakota,Central,0.41,FALSE,0,1
+Bald Eagle,Adult,FALSE,Winter,Montana,Central,59.21,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Kansas,Mississippi,0.60,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Arizona,Pacific,128.81,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Spring,North Dakota,Central,196.93,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Nebraska,Central,0.36,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Nebraska,Central,0.91,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Nebraska,Central,185.80,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Spring,Nebraska,Central,169.76,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Fall,Nebraska,Central,0.19,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Summer,Nebraska,Central,0.10,TRUE,0,1
+Bald Eagle,Adult,FALSE,Spring,Nebraska,Central,179.53,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Summer,Nebraska,Central,0.60,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Fall,Nebraska,Central,1.32,FALSE,0,1
+Bald Eagle,Adult,FALSE,Spring,Nebraska,Central,1.26,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Nebraska,Central,69.48,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Spring,Nebraska,Central,18.93,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Summer,Nebraska,Central,0.17,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,North Dakota,Central,273.62,FALSE,1,A3Y
+Bald Eagle,Juvenile,FALSE,Spring,North Dakota,Central,0.16,FALSE,0,1
+Bald Eagle,Adult,FALSE,Winter,Wyoming,Central,0.86,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Wyoming,Central,1.03,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,Wyoming,Central,0.22,FALSE,0,1
+Bald Eagle,Subadult,FALSE,Winter,Colorado,Central,0.48,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Winter,Colorado,Central,3.64,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Summer,Colorado,Central,0.10,TRUE,0,1
+Bald Eagle,Juvenile,FALSE,Spring,Wyoming,Central,286.61,FALSE,1,1
+Bald Eagle,Adult,FALSE,Summer,Kansas,Mississippi,0.26,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Nebraska,Central,0.16,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Nebraska,Central,42.03,FALSE,1,A3Y
+Bald Eagle,Juvenile,FALSE,Summer,Nebraska,Central,0.36,FALSE,0,1
+Bald Eagle,Adult,FALSE,Fall,Nebraska,Central,0.76,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Fall,Montana,Central,7.64,FALSE,0,1
+Bald Eagle,Adult,FALSE,Spring,Montana,Pacific,1.27,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,Montana,Pacific,57.46,FALSE,1,1
+Bald Eagle,Adult,FALSE,Winter,Montana,Pacific,50.80,FALSE,1,A3Y
+Bald Eagle,Juvenile,TRUE,Winter,Florida,Atlantic,0.10,TRUE,0,1
+Bald Eagle,Subadult,TRUE,Winter,Florida,Atlantic,134.24,FALSE,1,3
+Bald Eagle,Adult,TRUE,Winter,Kentucky,Mississippi,21.74,FALSE,1,A3Y
+Bald Eagle,Adult,TRUE,Spring,Florida,Atlantic,1.29,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Spring,Florida,Atlantic,0.10,TRUE,0,1
+Bald Eagle,Adult,FALSE,Spring,Pennsylvania,Central,0.38,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Florida,Atlantic,0.10,TRUE,0,A3Y
+Bald Eagle,Juvenile,TRUE,Spring,Florida,Atlantic,0.25,FALSE,0,1
+Bald Eagle,Juvenile,TRUE,Spring,Pennsylvania,Central,0.10,TRUE,0,1
+Bald Eagle,Subadult,FALSE,Summer,Florida,Atlantic,0.10,TRUE,0,3
+Bald Eagle,Adult,FALSE,Summer,Florida,Atlantic,0.51,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Summer,Pennsylvania,Central,1.46,FALSE,0,3
+Bald Eagle,Subadult,FALSE,Summer,Pennsylvania,Central,0.72,FALSE,0,3
+Bald Eagle,Subadult,FALSE,Winter,Idaho,Pacific,0.26,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Summer,Idaho,Pacific,0.10,TRUE,0,1
+Bald Eagle,Adult,TRUE,Fall,Virginia,Atlantic,1.40,FALSE,0,A3Y
+Bald Eagle,Subadult,TRUE,Fall,Virginia,Atlantic,119.51,FALSE,1,A3Y
+Bald Eagle,Adult,TRUE,Fall,Virginia,Atlantic,0.59,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Fall,Virginia,Atlantic,0.48,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Spring,Virginia,Atlantic,4.07,FALSE,0,A3Y
+Bald Eagle,Juvenile,TRUE,Spring,Virginia,Atlantic,13.34,FALSE,0,1
+Bald Eagle,Juvenile,TRUE,Spring,Virginia,Atlantic,0.08,TRUE,0,1
+Bald Eagle,Juvenile,TRUE,Summer,Virginia,Atlantic,0.12,FALSE,0,1
+Bald Eagle,Adult,TRUE,Winter,Virginia,Atlantic,178.38,FALSE,1,A3Y
+Bald Eagle,Adult,TRUE,Winter,Virginia,Atlantic,50.92,FALSE,1,A3Y
+Bald Eagle,Adult,TRUE,Winter,Virginia,Atlantic,30.50,FALSE,1,A3Y
+Bald Eagle,Adult,TRUE,Winter,Virginia,Atlantic,0.91,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,South Dakota,Central,156.86,FALSE,1,1
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,8.15,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,South Dakota,Central,86.73,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Fall,South Dakota,Central,0.23,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,Wyoming,Central,74.42,FALSE,1,A3Y
+Bald Eagle,Subadult,FALSE,Spring,Nebraska,Central,0.28,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Spring,Nebraska,Central,308.83,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Fall,Kansas,Mississippi,0.39,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,Nebraska,Central,0.23,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Summer,Montana,Pacific,1.24,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,Montana,Pacific,0.71,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Montana,Pacific,0.15,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Montana,Central,0.29,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Fall,Montana,Central,2.17,FALSE,0,Unknown
+Bald Eagle,Subadult,FALSE,Winter,Montana,Pacific,1.29,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Summer,Montana,Pacific,1.24,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Spring,Montana,Central,0.93,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Winter,Montana,Pacific,0.33,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Summer,Montana,Pacific,0.14,FALSE,0,Unknown
+Bald Eagle,Subadult,FALSE,Summer,Montana,Central,0.42,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Winter,Montana,Pacific,3.62,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Kansas,Mississippi,62.79,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,North Dakota,Central,105.37,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,North Dakota,Central,147.64,FALSE,1,A3Y
+Bald Eagle,Subadult,FALSE,Summer,North Dakota,Central,0.64,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Spring,North Dakota,Central,1.13,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Utah,Pacific,0.71,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Montana,Central,2.68,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Kansas,Mississippi,0.74,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Kansas,Mississippi,100.66,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Spring,Kansas,Mississippi,0.42,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Spring,Kansas,Mississippi,141.06,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Kansas,Mississippi,0.45,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Winter,Kansas,Mississippi,0.93,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Fall,Kansas,Mississippi,0.39,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,North Dakota,Central,71.09,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Montana,Pacific,63.20,FALSE,1,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,Colorado,Central,2.71,FALSE,0,1
+Bald Eagle,Adult,FALSE,Winter,Colorado,Central,0.70,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Colorado,Central,1.43,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Winter,Utah,Pacific,0.29,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Spring,Kansas,Mississippi,0.60,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Utah,Pacific,51.72,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Winter,Kansas,Mississippi,1.72,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,North Dakota,Central,0.36,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Summer,Wyoming,Central,1.82,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Spring,Kentucky,Mississippi,4.84,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,Kentucky,Mississippi,0.72,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Kentucky,Mississippi,0.07,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Winter,Kentucky,Mississippi,5.04,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Winter,Kentucky,Mississippi,0.02,FALSE,0,1
+Bald Eagle,Juvenile,TRUE,Summer,Kentucky,Mississippi,0.02,FALSE,0,1
+Bald Eagle,Adult,FALSE,Fall,Kentucky,Mississippi,0.12,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,North Dakota,Central,1.04,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Summer,South Dakota,Central,0.10,TRUE,0,Unknown
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,1.00,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,258.98,FALSE,1,A3Y
+Bald Eagle,Subadult,FALSE,Fall,South Dakota,Central,0.11,FALSE,0,Unknown
+Bald Eagle,Subadult,FALSE,Fall,South Dakota,Central,1.57,FALSE,0,Unknown
+Bald Eagle,Subadult,FALSE,Spring,North Dakota,Central,0.74,FALSE,0,Unknown
+Bald Eagle,Subadult,FALSE,Winter,South Dakota,Central,0.32,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,2.37,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Spring,South Dakota,Central,0.11,FALSE,0,Unknown
+Bald Eagle,Subadult,FALSE,Fall,South Dakota,Central,0.10,TRUE,0,Unknown
+Bald Eagle,Subadult,FALSE,Spring,South Dakota,Central,0.32,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Spring,Wyoming,Central,274.93,FALSE,1,A3Y
+Bald Eagle,Subadult,FALSE,Summer,Wyoming,Central,2.07,FALSE,0,Unknown
+Bald Eagle,Adult,FALSE,Spring,South Dakota,Central,91.80,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Spring,South Dakota,Central,83.10,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Spring,South Dakota,Central,0.20,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,South Dakota,Central,0.49,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,South Dakota,Central,144.55,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Fall,South Dakota,Central,199.52,FALSE,1,A3Y
+Bald Eagle,Juvenile,FALSE,Fall,Kentucky,Mississippi,0.96,FALSE,0,1
+Bald Eagle,Adult,TRUE,Spring,Kentucky,Mississippi,0.39,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Fall,Kentucky,Mississippi,0.06,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Idaho,Pacific,0.25,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Fall,Virginia,Atlantic,1.73,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Winter,Virginia,Atlantic,0.58,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Winter,Virginia,Atlantic,2.90,FALSE,0,A3Y
+Bald Eagle,Adult,TRUE,Spring,Virginia,Atlantic,0.33,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Winter,Utah,Pacific,1.10,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Winter,Utah,Pacific,2.61,FALSE,0,2
+Bald Eagle,Adult,FALSE,Winter,Utah,Pacific,87.78,FALSE,1,A3Y
+Bald Eagle,Adult,FALSE,Fall,Utah,Pacific,14.35,FALSE,0,A3Y
+Bald Eagle,Adult,FALSE,Winter,Utah,Pacific,2.43,FALSE,0,A3Y
+Bald Eagle,Juvenile,FALSE,Summer,Idaho,Pacific,0.10,TRUE,0,1
+Bald Eagle,Adult,FALSE,Spring,Idaho,Pacific,1.20,FALSE,0,A3Y
+Bald Eagle,Subadult,FALSE,Spring,Idaho,Pacific,1.22,FALSE,0,2
+Golden Eagle,Adult,TRUE,Fall,Alabama,Atlantic,2.45,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Summer,California,Pacific,0.64,FALSE,0,3
+Golden Eagle,Subadult,FALSE,Winter,California,Pacific,0.32,FALSE,0,3
+Golden Eagle,Subadult,FALSE,Winter,California,Pacific,0.10,FALSE,0,3
+Golden Eagle,Subadult,FALSE,Winter,California,Pacific,0.12,FALSE,0,2
+Golden Eagle,Adult,FALSE,Summer,California,Pacific,0.13,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,California,Pacific,0.22,FALSE,0,2
+Golden Eagle,Subadult,FALSE,Spring,California,Pacific,0.22,FALSE,0,3
+Golden Eagle,Adult,FALSE,Spring,Alaska,Pacific,0.81,FALSE,0,A3Y
+Golden Eagle,Adult,TRUE,Winter,Alabama,Atlantic,33.73,FALSE,1,A3Y
+Golden Eagle,Adult,FALSE,Spring,Alaska,Pacific,0.19,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Winter,California,Pacific,0.25,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,California,Pacific,0.08,FALSE,0,3
+Golden Eagle,Subadult,FALSE,Fall,California,Pacific,0.85,FALSE,0,2
+Golden Eagle,Adult,TRUE,Winter,California,Pacific,3.69,FALSE,0,A3Y
+Golden Eagle,Subadult,TRUE,Fall,California,Pacific,0.33,FALSE,0,3
+Golden Eagle,Subadult,TRUE,Winter,California,Pacific,0.47,FALSE,0,A3Y
+Golden Eagle,Subadult,TRUE,Spring,California,Pacific,0.37,FALSE,0,3
+Golden Eagle,Juvenile,TRUE,Fall,California,Pacific,0.36,FALSE,0,1
+Golden Eagle,Adult,FALSE,Fall,California,Pacific,2.34,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,California,Pacific,0.88,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Spring,California,Pacific,0.56,FALSE,0,A3Y
+Golden Eagle,Subadult,TRUE,Summer,California,Pacific,1.32,FALSE,0,A3Y
+Golden Eagle,Subadult,TRUE,Summer,California,Pacific,0.79,FALSE,0,A3Y
+Golden Eagle,Juvenile,TRUE,Summer,California,Pacific,0.43,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Summer,California,Pacific,0.47,FALSE,0,1
+Golden Eagle,Subadult,TRUE,Summer,California,Pacific,0.48,FALSE,0,2
+Golden Eagle,Subadult,TRUE,Fall,California,Pacific,0.95,FALSE,0,A3Y
+Golden Eagle,Juvenile,TRUE,Fall,California,Pacific,3.00,FALSE,0,1
+Golden Eagle,Adult,TRUE,Fall,California,Pacific,44.27,FALSE,1,A3Y
+Golden Eagle,Adult,FALSE,Winter,Wyoming,Central,4.13,FALSE,0,A3Y
+Golden Eagle,Subadult,TRUE,Fall,California,Pacific,0.34,FALSE,0,2
+Golden Eagle,Adult,TRUE,Winter,California,Pacific,0.75,FALSE,0,A3Y
+Golden Eagle,Adult,TRUE,Winter,California,Pacific,29.60,FALSE,1,A3Y
+Golden Eagle,Subadult,TRUE,Winter,California,Pacific,35.73,FALSE,1,2
+Golden Eagle,Subadult,TRUE,Winter,California,Pacific,29.87,FALSE,1,3
+Golden Eagle,Adult,TRUE,Fall,California,Pacific,1.39,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,Idaho,Pacific,0.17,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Winter,Idaho,Pacific,1.39,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Fall,California,Pacific,0.15,FALSE,0,2
+Golden Eagle,Subadult,TRUE,Winter,California,Pacific,0.44,FALSE,0,3
+Golden Eagle,Subadult,TRUE,Spring,California,Pacific,0.23,FALSE,0,3
+Golden Eagle,Adult,TRUE,Spring,California,Pacific,2.16,FALSE,0,A3Y
+Golden Eagle,Adult,TRUE,Spring,California,Pacific,0.13,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Spring,California,Pacific,0.81,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,California,Pacific,0.64,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Summer,California,Pacific,0.90,FALSE,0,A3Y
+Golden Eagle,Juvenile,TRUE,Summer,California,Pacific,0.13,FALSE,0,1
+Golden Eagle,Subadult,TRUE,Summer,California,Pacific,0.37,FALSE,0,A3Y
+Golden Eagle,Juvenile,TRUE,Summer,California,Pacific,0.18,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Summer,California,Pacific,1.26,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Summer,Idaho,Pacific,1.24,FALSE,0,1
+Golden Eagle,Subadult,FALSE,Summer,Utah,Pacific,0.21,FALSE,0,2
+Golden Eagle,Subadult,FALSE,Summer,Nebraska,Central,0.38,FALSE,0,Unknown
+Golden Eagle,Subadult,FALSE,Winter,Utah,Pacific,2614.00,FALSE,1,1
+Golden Eagle,Adult,FALSE,Winter,West Virginia,Atlantic,3.05,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,North Dakota,Central,3.27,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,North Dakota,Central,1.19,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,North Dakota,Central,5.17,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,North Dakota,Central,0.85,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,Montana,Pacific,2.94,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Winter,Montana,Central,0.99,FALSE,0,2
+Golden Eagle,Adult,FALSE,Winter,Montana,Central,1.86,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,Montana,Central,12.22,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Fall,South Dakota,Central,5.13,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Winter,South Dakota,Central,2.42,FALSE,0,1
+Golden Eagle,Adult,FALSE,Winter,South Dakota,Central,0.28,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Winter,Nebraska,Central,2.16,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Winter,Nebraska,Central,1.35,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Winter,Wyoming,Central,0.22,FALSE,0,1
+Golden Eagle,Adult,FALSE,Winter,Wyoming,Central,0.11,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Spring,South Dakota,Central,0.26,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Winter,South Dakota,Central,2.23,FALSE,0,1
+Golden Eagle,Subadult,FALSE,Winter,South Dakota,Central,0.20,FALSE,0,2
+Golden Eagle,Adult,FALSE,Winter,South Dakota,Central,0.10,TRUE,0,A3Y
+Golden Eagle,Subadult,FALSE,Fall,South Dakota,Central,2.42,FALSE,0,2
+Golden Eagle,Juvenile,FALSE,Spring,South Dakota,Central,2.04,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Spring,South Dakota,Central,27.02,FALSE,1,1
+Golden Eagle,Juvenile,FALSE,Winter,South Dakota,Central,0.42,FALSE,0,1
+Golden Eagle,Adult,FALSE,Spring,Oregon,Central,1.77,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Spring,Wyoming,Central,1.47,FALSE,0,1
+Golden Eagle,Adult,FALSE,Winter,South Dakota,Central,0.10,TRUE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Winter,Wyoming,Central,0.24,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Winter,Wyoming,Central,0.57,FALSE,0,1
+Golden Eagle,Adult,FALSE,Spring,Montana,Central,2.08,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Spring,South Dakota,Central,62.44,FALSE,1,A3Y
+Golden Eagle,Juvenile,FALSE,Summer,Wyoming,Central,1.21,FALSE,0,1
+Golden Eagle,Adult,FALSE,Fall,Wyoming,Central,0.21,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Fall,Wyoming,Central,2.44,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Fall,Colorado,Central,0.10,TRUE,0,1
+Golden Eagle,Juvenile,FALSE,Summer,Colorado,Central,0.10,TRUE,0,1
+Golden Eagle,Juvenile,FALSE,Winter,Colorado,Central,0.10,TRUE,0,1
+Golden Eagle,Adult,FALSE,Winter,Colorado,Central,1.65,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,Wyoming,Central,1.15,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Summer,Wyoming,Central,0.10,TRUE,0,1
+Golden Eagle,Juvenile,FALSE,Fall,Arizona,Pacific,2.42,FALSE,0,1
+Golden Eagle,Adult,FALSE,Winter,Pennsylvania,Central,46.33,FALSE,1,A3Y
+Golden Eagle,Adult,FALSE,Winter,Montana,Central,1.60,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,North Dakota,Central,0.21,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Summer,Nebraska,Central,0.30,FALSE,0,1
+Golden Eagle,Adult,FALSE,Winter,North Dakota,Central,0.20,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Spring,Wyoming,Central,0.10,TRUE,0,A3Y
+Golden Eagle,Adult,FALSE,Spring,Wyoming,Central,0.17,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Spring,Wyoming,Central,0.98,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Winter,Wyoming,Central,0.66,FALSE,0,1
+Golden Eagle,Adult,FALSE,Fall,Colorado,Central,0.19,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Spring,Montana,Central,21.46,FALSE,1,A3Y
+Golden Eagle,Adult,FALSE,Summer,Wyoming,Central,1.02,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Summer,Wyoming,Central,1.44,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Spring,Wyoming,Central,1.08,FALSE,0,1
+Golden Eagle,Subadult,FALSE,Fall,Nebraska,Central,8.13,FALSE,0,2
+Golden Eagle,Adult,FALSE,Spring,Nebraska,Central,86.78,FALSE,1,A3Y
+Golden Eagle,Subadult,FALSE,Summer,Nebraska,Central,0.75,FALSE,0,2
+Golden Eagle,Adult,FALSE,Winter,South Dakota,Central,1.36,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,South Dakota,Central,0.41,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,South Dakota,Central,0.10,TRUE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Winter,South Dakota,Central,0.29,FALSE,0,1
+Golden Eagle,Adult,FALSE,Spring,South Dakota,Central,1.45,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Spring,South Dakota,Central,0.10,TRUE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,Montana,Central,0.26,FALSE,0,3
+Golden Eagle,Adult,FALSE,Winter,Montana,Central,11.35,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Summer,Nebraska,Central,0.10,TRUE,0,2
+Golden Eagle,Adult,FALSE,Winter,Nebraska,Central,0.11,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,Nebraska,Central,10.69,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,Nebraska,Central,11.98,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Fall,Montana,Central,1.42,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Fall,Montana,Pacific,0.44,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,Montana,Pacific,1.46,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,Utah,Pacific,0.26,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Fall,Wyoming,Central,0.10,TRUE,0,3
+Golden Eagle,Juvenile,FALSE,Fall,North Dakota,Central,2.13,FALSE,0,1
+Golden Eagle,Adult,FALSE,Spring,North Dakota,Central,0.23,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,Kansas,Central,0.24,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Fall,Utah,Pacific,0.39,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Fall,Utah,Pacific,0.67,FALSE,0,3
+Golden Eagle,Subadult,FALSE,Summer,Utah,Pacific,0.10,TRUE,0,A3Y
+Golden Eagle,Subadult,FALSE,Summer,Utah,Pacific,0.24,FALSE,0,2
+Golden Eagle,Adult,FALSE,Winter,Utah,Pacific,3.46,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Fall,Utah,Pacific,0.48,FALSE,0,Unknown
+Golden Eagle,Adult,FALSE,Fall,Utah,Pacific,6.82,FALSE,0,A3Y
+Golden Eagle,Adult,FALSE,Winter,Utah,Pacific,1.27,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Winter,Utah,Pacific,0.41,FALSE,0,1
+Golden Eagle,Juvenile,FALSE,Summer,Utah,Pacific,0.46,FALSE,0,1
+Golden Eagle,Subadult,FALSE,Summer,Utah,Pacific,0.10,TRUE,0,2
+Golden Eagle,Adult,FALSE,Winter,Kansas,Central,90.53,FALSE,1,A3Y
+Golden Eagle,Adult,FALSE,Winter,Utah,Pacific,0.24,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,Utah,Pacific,0.85,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,Utah,Pacific,0.34,FALSE,0,Unknown
+Golden Eagle,Adult,FALSE,Winter,North Dakota,Central,0.26,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,Wyoming,Central,0.10,TRUE,0,2
+Golden Eagle,Juvenile,FALSE,Fall,Wyoming,Central,0.12,FALSE,0,1
+Golden Eagle,Subadult,FALSE,Winter,Wyoming,Central,0.24,FALSE,0,3
+Golden Eagle,Juvenile,FALSE,Summer,Wyoming,Central,0.10,TRUE,0,1
+Golden Eagle,Juvenile,FALSE,Summer,Wyoming,Central,0.10,TRUE,0,1
+Golden Eagle,Adult,FALSE,Spring,Utah,Pacific,0.42,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,Utah,Pacific,0.16,FALSE,0,3
+Golden Eagle,Adult,FALSE,Spring,Utah,Pacific,3.25,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,Utah,Pacific,0.18,FALSE,0,2
+Golden Eagle,Adult,FALSE,Winter,Wyoming,Central,0.58,FALSE,0,A3Y
+Golden Eagle,Subadult,FALSE,Spring,Utah,Pacific,0.52,FALSE,0,2
+Golden Eagle,Subadult,FALSE,Summer,Utah,Pacific,0.72,FALSE,0,2
+Golden Eagle,Adult,FALSE,Summer,Utah,Pacific,0.96,FALSE,0,A3Y
+Golden Eagle,Juvenile,FALSE,Summer,Montana,Central,0.14,FALSE,0,1

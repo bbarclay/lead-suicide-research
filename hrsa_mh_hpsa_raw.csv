@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="description" />
+    <meta name="keywords" />
+    <title>Error Page</title>
+
+    
+
+    
+    
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="manifest" href="/Content/Styles/manifest.json">
+    <link rel="stylesheet" href="https://data.hrsa.gov/ux/public/uswds/css/styles.css">
+    <link href="https://data.hrsa.gov/ux/common/fontawesome/css/all.css" rel="stylesheet" />
+    <script src="https://data.hrsa.gov/ux/public/uswds/js/uswds-init.min.js"></script>
+    <script>window.dataLayer = window.dataLayer || [];</script>
+
+    <!-- NON-USWDS ASSETS -->
+    <link rel="stylesheet" href="/Content/Styles/fontStyle.css">
+    <link rel="stylesheet" href="/Content/Styles/styles.css" />
+    <link rel="stylesheet" href="/Content/Styles/hdwStyles.css" />
+    <link rel="stylesheet" href="/Content/Styles/Map.css" />
+    <link rel="stylesheet" href="/Content/Styles/hdwCommon.css">
+    <link rel="stylesheet" href="/Content/Styles/print.css" media="print" />
+    <script src="/Scripts/spin.min.js"></script>
+    <script src="https://data.hrsa.gov/Scripts/jquery-3.6.0.min.js"></script>
+    <script src="/Scripts/js.cookie-3.0.5.min.js"></script>
+    <!-- END NON-USWDS ASSETS -->
+    <!-- Placeholder for page-specific additional styles -->
+    
+    <!-- Placeholder for page-specific important scripts that must be loaded before main page content -->
+    
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push(
+                { 'gtm.start': new Date().getTime(), event: 'gtm.js' }
+            ); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-MVDSQT');
+    </script>
+    <!-- End Google Tag Manager -->
+</head>
+
+<body class="position-relative">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe sandbox="" src="https://www.googletagmanager.com/ns.html?id=GTM-MVDSQT"
+            height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <!-- USWDS HEADER -->
+  
+<a class="usa-skipnav no-print" href="#main-content">Skip to main content</a>
+<section class="usa-banner"
+         aria-label="Official website of the United States government">
+    <div class="usa-accordion">
+        <header class="usa-banner__header padding-x-2 tablet:padding-x-4 desktop:padding-x-5">
+            <div class="usa-banner__inner">
+                <div class="grid-col-auto">
+                    <img aria-hidden="true" class="usa-banner__header-flag" src="https://data.hrsa.gov/ux/public/uswds/img/us_flag_small.png" alt="US flag" />
+                </div>
+                <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+                    <p class="usa-banner__header-text">
+                        An official website of the United States government
+                    </p>
+                    <p class="usa-banner__header-action">Here's how you know</p>
+                </div>
+                <button type="button" class="usa-accordion__button usa-banner__button no-print" aria-expanded="false" aria-controls="gov-banner-default">
+                    <span class="usa-banner__button-text">Here's how you know</span>
+                </button>
+            </div>
+        </header>
+        <div class="usa-banner__content usa-accordion__content padding-x-2 tablet:padding-x-4 desktop:padding-x-5" id="gov-banner-default" hidden>
+            <div class="grid-row">
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://data.hrsa.gov/ux/public/uswds/img/icon-dot-gov.svg"
+                         alt=".Gov icon"
+                         aria-hidden="true" />
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>The .gov means it's official.</strong><br />
+                            A <strong>.gov</strong> website belongs to an official government
+                            organization in the United States.
+                        </p>
+                    </div>
+                </div>
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://data.hrsa.gov/ux/public/uswds/img/icon-https.svg"
+                         alt="Lock icon"
+                         aria-hidden="true" />
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Secure .gov websites use HTTPS</strong><br />A
+                            <strong>lock</strong> (
+                            <span>
+                                <i class="fa-solid fa-lock-keyhole"></i>
+                            </span>) or <strong>https://</strong> means you’ve safely connected to
+                            the .gov website. Share sensitive information only on official,
+                            secure websites.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="usa-overlay"></div>
+<div id="notification"></div>
+
+<header class="usa-header usa-header--extended">
+  <div class="usa-navbar">
+    <div class="usa-logo">
+      <a href="https://data.hrsa.gov/" title="HRSA Data Warehouse Home">
+        <img class="maxh-6 padding-y-1 tablet:maxh-none tablet:padding-y-0" alt="HRSA Data Warehouse"
+             src="https://data.hrsa.gov/ux/common/img/hdw-logo-blue.png" />
+      </a>
+    </div>
+    <button type="button" class="usa-menu-btn height-auto">Menu</button>
+  </div>
+
+  <nav aria-label="Primary navigation" class="usa-nav no-print">
+    <div class="usa-nav__inner">
+      <div class="usa-nav__secondary display-none tablet:display-block">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item flex-align-self-end">
+            <a href="mailto:data@hrsa.gov" class="usa-nav-link"><span>Contact Us for Support</span></a>
+          </li>
+          <li class="usa-nav__secondary-item flex-align-self-end display-none tablet:display-block rich-tooltip rich-tooltip--inverse rich-tooltip--left">
+            <a href="https://mydata.hrsa.gov/" class="rich-tooltip__trigger usa-nav-link usa-link text-primary hover:text-primary-dark">
+              <span>Internal HDW Sign On <i class="fa-regular fa-info-circle"></i></span>
+            </a>
+            <span class="rich-tooltip__container margin-right-neg-1">
+              <span class="rich-tooltip__body text-normal font-body-2xs text-no-wrap">
+                The MyData site is an internal repository of HRSA data.<br/>
+                It is only accessible to HRSA staff and authentication is required.
+              </span>
+            </span>
+          </li>
+        </ul>
+
+        <section aria-label="Search component">
+<form action="/Search" class="usa-search usa-search--small" method="get" role="search">                <label class="usa-sr-only" for="query1">Search</label>
+                <input class="usa-input radius-left-md" type="search" name="query" id="query1" placeholder="Search" />
+                <button class="usa-button" type="submit">
+                    <img src="https://data.hrsa.gov/ux/public/uswds/img/usa-icons-bg/search--white.svg"
+                         class="usa-search__submit-icon"
+                         alt="Search" />
+                </button>
+</form>        </section>
+      </div>
+
+      <button type="button" class="usa-nav__close">
+        <img src="https://data.hrsa.gov/ux/public/uswds/img/usa-icons/close.svg" alt="Close" />
+      </button>
+
+      <ul class="usa-nav__primary usa-accordion flex-justify"><li class="usa-nav__primary-item position-relative"><button type="button" class="usa-accordion__button usa-nav__link " aria-expanded="False" aria-controls="nav-menu-1"><span>Find Health Care</span></button><div id="nav-menu-1" class="usa-nav__submenu  " hidden><div class="grid-row"><div class="grid-col-12 tablet:grid-col-12"><ul class="usa-list usa-list--unstyled"><li class="usa-nav__submenu-item "><a href="https://findahealthcenter.hrsa.gov/"><span>Find a Health Center</span></a></li><li class="usa-nav__submenu-item "><a href="https://findhivcare.hrsa.gov/"><span>Find a Ryan White HIV/AIDS Medical Provider</span></a></li><li class="usa-nav__submenu-item "><a href="https://opotxfind.hrsa.gov/"><span>Find an Organ Transplant Center</span></a></li><li class="usa-nav__submenu-item "><a href="https://data.hrsa.gov/hdslocator/index.html"><span>Find a Migrant and Seasonal Head Start Center</span></a></li></ul></div></div></div></li><li class="usa-nav__primary-item position-relative"><button type="button" class="usa-accordion__button usa-nav__link " aria-expanded="False" aria-controls="nav-menu-2"><span>Data</span></button><div id="nav-menu-2" class="usa-nav__submenu tablet:width-mobile-lg tablet:left-neg-15 tablet-lg:left-0" hidden><div class="grid-row"><div class="grid-col-12 tablet:grid-col-6"><ul class="usa-list usa-list--unstyled"><li class="usa-nav__submenu-item "><a href="https://data.hrsa.gov/data/data-explorer"><span>Data Explorer</span></a></li><li class="usa-nav__submenu-item "><a href="https://data.hrsa.gov/data/geo"><span>Data by Geography</span></a></li><li class="usa-nav__submenu-item "><a href="/data/dashboards"><span>Dashboards</span></a></li><li class="usa-nav__submenu-item "><a href="/data/download"><span>Data Downloads</span></a></li><li class="usa-nav__submenu-item "><a href="/data/data-sources"><span>Data Sources and Metadata</span></a></li></ul></div><div class="grid-col-12 tablet:grid-col-6"><ul class="usa-list usa-list--unstyled"><li class="usa-nav__submenu-item "><a href="/data/fact-sheets"><span>HRSA Fact Sheets</span></a></li><li class="usa-nav__submenu-item "><a href="https://data.hrsa.gov/data/fact-sheet-maps"><span>HRSA Fact Sheet Maps</span></a></li><li class="usa-nav__submenu-item "><a href="/data/reports"><span>Data Reports</span></a></li></ul></div></div></div></li><li class="usa-nav__primary-item position-relative"><button type="button" class="usa-accordion__button usa-nav__link " aria-expanded="False" aria-controls="nav-menu-3"><span>Topics</span></button><div id="nav-menu-3" class="usa-nav__submenu tablet:width-mobile-lg tablet:right-neg-15 tablet-lg:right-0" hidden><div class="grid-row"><div class="grid-col-12 tablet:grid-col-6"><ul class="usa-list usa-list--unstyled"><li class="usa-nav__submenu-item "><a href="/topics/grants/grants-dashboard"><span>Grants</span></a></li><li class="usa-nav__submenu-item "><a href="/topics/health-workforce"><span>Health Workforce</span></a></li><li class="usa-nav__submenu-item "><a href="/topics/health-centers"><span>Health Centers</span></a></li><li class="usa-nav__submenu-item margin-left-4 "><a href="https://data.hrsa.gov/topics/health-centers/uds"><span class="text-normal">Health Center Program Uniform Data System (UDS) Data</span></a></li><li class="usa-nav__submenu-item "><a href="/topics/health-systems"><span>Health Systems</span></a></li></ul></div><div class="grid-col-12 tablet:grid-col-6"><ul class="usa-list usa-list--unstyled"><li class="usa-nav__submenu-item "><a href="/topics/service-delivery-sites/dashboard"><span>Health Care and Service Delivery Sites</span></a></li><li class="usa-nav__submenu-item "><a href="/topics/hiv-aids"><span>Ryan White HIV/AIDS Program</span></a></li><li class="usa-nav__submenu-item "><a href="/topics/maternal-child-health"><span>Maternal and Child Health</span></a></li><li class="usa-nav__submenu-item "><a href="/topics/rural-health"><span>Rural Health</span></a></li></ul></div></div></div></li><li class="usa-nav__primary-item position-relative"><button type="button" class="usa-accordion__button usa-nav__link " aria-expanded="False" aria-controls="nav-menu-4"><span>Tools</span></button><div id="nav-menu-4" class="usa-nav__submenu tablet:width-mobile-lg tablet:right-neg-15 tablet-lg:right-0" hidden><div class="grid-row"><div class="grid-col-12 tablet:grid-col-6"><div class="font-ui-3xs text-accent-warm-dark text-uppercase text-no-wrap padding-y-2 tablet:padding-bottom-1 padding-left-2">Featured Tools</div><ul class="usa-list usa-list--unstyled"><li class="usa-nav__submenu-item "><a href="https://data.hrsa.gov/tools/build-your-own-map"><span>Build Your Own Map</span></a></li><li class="usa-nav__submenu-item "><a href="https://geocarenavigator.hrsa.gov/"><span>Health Center Program GeoCare Navigator</span></a></li><li class="usa-nav__submenu-item "><a href="https://data.hrsa.gov/tools/high-need-mapping-tool"><span>High Need Mapping Tool</span></a></li><li class="usa-nav__submenu-item "><a href="/topics/health-workforce/shortage-areas/hpsa-find"><span>HPSA Find</span></a></li><li class="usa-nav__submenu-item "><a href="/tools/quick-maps"><span>Quick Maps</span></a></li><li class="usa-nav__submenu-item "><a href="/topics/health-workforce/shortage-areas/by-address"><span>Shortage Areas by Address</span></a></li><li class="usa-nav__submenu-item "><a href="/topics/health-centers/sanam"><span>Unmet Need Score Map Tool</span></a></li></ul></div><div class="grid-col-12 tablet:grid-col-6"><div class="font-ui-3xs text-accent-warm-dark text-uppercase text-no-wrap padding-y-2 tablet:padding-bottom-1 padding-left-2">Medicare Eligibility Analyzers</div><ul class="usa-list usa-list--unstyled"><li class="usa-nav__submenu-item "><a href="/tools/medicare/physician-bonus"><span>Physician Bonus Payment</span></a></li><li class="usa-nav__submenu-item "><a href="/tools/medicare/telehealth"><span>Telehealth Payment</span></a></li><li><div class="border-bottom-1px border-base-light margin-x-2"></div></li><li><div class="font-ui-3xs text-accent-warm-dark text-uppercase text-no-wrap padding-y-2 tablet:padding-bottom-1 padding-left-2">Advanced Developer Tools</div></li><li class="usa-nav__submenu-item "><a href="/tools/widgets"><span>Widgets</span></a></li><li class="usa-nav__submenu-item "><a href="/tools/gis-developer-tools"><span>GIS Developer Tools</span></a></li><li class="usa-nav__submenu-item "><a href="/tools/web-services"><span>Web Services/APIs</span></a></li><li class="usa-nav__submenu-item "><a href="/tools/web-services/registration"><span>Web Services Registration</span></a></li></ul></div></div></div></li><li class="usa-nav__primary-item position-relative"><button type="button" class="usa-accordion__button usa-nav__link " aria-expanded="False" aria-controls="nav-menu-5"><span>About and Support</span></button><div id="nav-menu-5" class="usa-nav__submenu tablet:width-mobile-lg tablet:right-neg-3 tablet-lg:right-0" hidden><div class="grid-row"><div class="grid-col-12 tablet:grid-col-6"><div class="font-ui-3xs text-accent-warm-dark text-uppercase text-no-wrap padding-y-2 tablet:padding-bottom-1 padding-left-2">Support and Resources</div><ul class="usa-list usa-list--unstyled"><li class="usa-nav__submenu-item "><a href="/about/get-started"><span>Get Started</span></a></li><li class="usa-nav__submenu-item "><a href="/about/faq"><span>Frequently Asked Questions</span></a></li><li class="usa-nav__submenu-item "><a href="/about/tutorials"><span>Tutorials</span></a></li><li class="usa-nav__submenu-item "><a href="/about/glossary"><span>Glossary</span></a></li><li class="usa-nav__submenu-item "><a href="/about/a-to-z"><span>A to Z Index</span></a></li><li class="usa-nav__submenu-item "><a href="/about/site-map"><span>Site Map</span></a></li></ul></div><div class="grid-col-12 tablet:grid-col-6"><div class="font-ui-3xs text-accent-warm-dark text-uppercase text-no-wrap padding-y-2 tablet:padding-bottom-1 padding-left-2">About HDW</div><ul class="usa-list usa-list--unstyled"><li class="usa-nav__submenu-item "><a href="/about/related-resources"><span>Related Resources</span></a></li><li class="usa-nav__submenu-item "><a href="/about/aboutus"><span>About Us</span></a></li><li class="usa-nav__submenu-item "><a href="/about/news-and-updates"><span>News and Updates</span></a></li><li class="usa-nav__submenu-item "><a href="/about/HRSARegionalOffices"><span>HRSA Regional Office Map</span></a></li></ul></div></div></div></li></ul>
+
+      <div class="usa-nav__secondary tablet:display-none">
+        <ul class="usa-nav__secondary-links">
+          <li class="usa-nav__secondary-item flex-align-self-end">
+            <a href="mailto:data@hrsa.gov" class="usa-nav-link"><span>Contact Us for Support</span></a>
+          </li>
+        </ul>
+
+        <section aria-label="Search component">
+<form action="/Search" class="usa-search usa-search--small" method="get" role="search">                <label class="usa-sr-only" for="query2">Search</label>
+                <input class="usa-input radius-left-md" type="search" name="query" id="query2" placeholder="Search" />
+                <button class="usa-button" type="submit">
+                    <img src="https://data.hrsa.gov/ux/public/uswds/img/usa-icons-bg/search--white.svg"
+                         class="usa-search__submit-icon"
+                         alt="Search" />
+                </button>
+</form>        </section>
+      </div>
+    </div>
+  </nav>
+</header>
+
+  <!-- END USWDS HEADER-->
+
+  <div id="main-content" class="width-full" role="main">
+<div class="grid-container padding-x-2 tablet:padding-x-4 desktop:padding-x-0">
+  <div class="grid-row">
+    <div class="grid-col-12 desktop:grid-col-10 desktop:grid-offset-1">
+      <nav class="usa-breadcrumb" aria-label="Breadcrumbs">
+        <ol class="usa-breadcrumb__list">
+          <li class="usa-breadcrumb__list-item">
+            <a class="usa-breadcrumb__link" href="/">Home</a>
+          </li>
+              <li class="usa-breadcrumb__list-item">
+                  <a class="usa-breadcrumb__link" href="/errors/">Errors</a>
+              </li>
+
+          <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+            
+            <span>Error Page</span>
+          </li>
+        </ol>
+      </nav>
+    </div>
+      <div class="grid-col-12 desktop:grid-col-10 desktop:grid-offset-1">
+        <div class="border-bottom-1px border-base-light"></div>
+      </div>
+  </div>
+</div>
+    
+
+<article class="page-entry">
+    <div class="container">
+        <div class="page-entry-header">
+            <div class="row">
+                <div class="col-xs-12 col-sm-3 col-md-2 text-center">
+                    <div class="page-entry-icon page-entry-icon-red icon icon-warning"></div>
+                </div>
+
+                <div class="col-xs-12 col-sm-9 col-md-10">
+                    <h1 class="text-title page-entry-title">Error</h1>
+                    <p class="lead">The data.HRSA.gov website has been redesigned, the page you are looking for may have been moved or retired. You will be automatically redirected to the new <a href="https://data.hrsa.gov/" title="data.HRSA.gov">data.HRSA.gov</a> homepage.</p>
+                </div>
+            </div>
+        </div>
+        <div class="page-entry-content">
+
+        </div>
+    </div>
+</article>
+
+
+
+<script type="text/javascript" src="../Scripts/Redirect.js"></script>
+
+  </div>
+
+  <!-- USWDS FOOTER -->
+  
+<footer class="usa-footer usa-footer--big">
+  <div class="usa-footer__return-to-top-container no-print">
+    <div class="usa-footer__return-to-top">
+      <a href="#" aria-label="Return to top">
+        <i class="fa-solid fa-xl fa-chevron-up line-height-serif-1"></i>
+        <span>Top</span>
+      </a>
+    </div>
+  </div>
+  <div class="usa-footer__primary-section bg-primary-darker text-white">
+    <div class="grid-container">
+      <div class="grid-row">
+        <div class="grid-col-12 desktop:grid-col-6">
+          <nav class="usa-footer__nav" aria-label="Footer navigation">
+            <div class="grid-row">
+              <div class="usa-footer__logo margin-bottom-2 tablet:margin-bottom-6 grid-col-12 tablet-lg:grid-col-auto print-no-margin">
+                <svg aria-hidden="true" focusable="false" role="img" aria-label="HRSA Data Warehouse" 
+                     viewBox="0 0 124 48" height="48" data-src="https://data.hrsa.gov/ux/common/img/hdw-logo.svg#logo" 
+                     data-unique-id-prefix="hdw-footer" data-cache="disabled" data-append="true">
+                  <use href="#hdw-footer-logo"></use>
+                </svg>
+              </div>
+              <div class="grid-col-12 desktop:grid-col-6 desktop:padding-x-6">
+                <div class="usa-footer__primary-content padding-x-0 padding-bottom-2 tablet:padding-bottom-3">
+                  <ul class="usa-list usa-list--unstyled">
+                    <li class="usa-footer__secondary-link">
+                      <a class="hover:text-underline" href="/about/aboutus">About Us</a>
+                    </li>
+                    <li class="usa-footer__secondary-link">
+                      <a class="hover:text-underline" href="/about/a-to-z">A to Z Index</a>
+                    </li>
+                    <li class="usa-footer__secondary-link">
+                      <a class="hover:text-underline" href="/about/faq">FAQs</a>
+                    </li>
+                    <li class="usa-footer__secondary-link">
+                      <a class="hover:text-underline" href="/about/site-map">Site Map</a>
+                    </li>
+                    <li class="usa-footer__secondary-link display-none desktop:display-block">
+                      <a href="https://mydata.hrsa.gov/" class="hover:text-underline">HDW Internal Sign On</a>
+                      <span class="rich-tooltip rich-tooltip--inverse">
+                        <span class="rich-tooltip__trigger display-inline-block" tabindex="0">
+                          <i class="fa-regular fa-info-circle"></i>
+                        </span>
+
+                        <span class="rich-tooltip rich-tooltip__container maxw-card widescreen:maxw-card-lg">
+                          <span class="rich-tooltip__body text-normal">
+                            The MyData site is an internal repository of HRSA data.
+                            It is only accessible to HRSA staff and authentication is required.
+                          </span>
+                        </span>
+                      </span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+        <div class="grid-col-12 desktop:grid-col-6 tablet:position-absolute desktop:position-relative tablet:text-right">
+          <div class="padding-bottom-205 tablet:padding-top-205 padding-x-2 tablet:padding-x-4 desktop:padding-x-5">
+            <a href="mailto:data@hrsa.gov" class="usa-button usa-button--outline usa-button--inverse font-ui-2xs width-auto margin-right-0">Contact Us for Support</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="usa-footer__secondary-section">
+    <div class="grid-container">
+      <div class="grid-row padding-x-2 tablet:padding-x-4 desktop:padding-x-5">
+        <div class="widescreen:grid-col-auto grid-col-12 display-flex tablet:flex-justify-center">
+          <div class="usa-footer__nav grid-row flex-align-self-center">
+            <div class="usa-footer__secondary-content">
+              <ul class="usa-list usa-list--unstyled display-block tablet:display-flex flex-wrap flex-justify-center">
+                <li class="usa-footer__secondary-link tablet:margin-left-neg-1">
+                  <a href="https://www.hhs.gov/plugins.html" class="hover:text-primary-darker" target="_blank">Viewers & Players</a>
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <a href="https://www.hhs.gov/privacy.html" class="hover:text-primary-darker" target="_blank">Privacy Policy</a>
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <a href="https://www.hhs.gov/disclaimer.html" class="hover:text-primary-darker" target="_blank">Disclaimers</a>
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="hover:text-primary-darker" target="_blank">Vulnerability Disclosure Policy</a>
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <a href="https://www.hrsa.gov/about/508-resources.html" class="hover:text-primary-darker" target="_blank">Accessibility</a>
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <a href="https://www.hrsa.gov/foia/index.html" target="_blank">Freedom of Information Act</a>
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <a href="https://www.usa.gov/" class="hover:text-primary-darker" target="_blank">USA.gov</a>
+                </li>
+                <li class="usa-footer__secondary-link">
+                  <a href="https://www.whitehouse.gov/" class="hover:text-primary-darker" target="_blank">WhiteHouse.gov</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="widescreen:grid-col-auto grid-col-12">
+          <div class="usa-footer__contact-links margin-top-3 desktop:margin-top-105 widescreen:margin-y-0 widescreen:margin-right-neg-2">
+            <div class="usa-footer__social-links grid-row grid-gap-1 flex-justify-start tablet:flex-justify-center widescreen:flex-justify-end">
+              <div class="grid-col-auto flex-align-self-end">
+                <a href="https://www.hrsa.gov/" target="_blank" title="HRSA Health Resources & Services Administration" class="text-base-darker">
+                  <svg aria-hidden="true" focusable="false" role="img" aria-label="HRSA Data Warehouse"
+                       viewBox="0 0 100 34" height="34" data-src="https://data.hrsa.gov/ux/common/img/hrsa-logo.svg#logo"
+                       data-unique-id-prefix="hrsa-footer" data-cache="disabled" data-append="true">
+                    <use href="#hrsa-footer-logo"></use>
+                  </svg>
+                </a>
+              </div>
+              <div class="grid-col-auto">
+                <a class="usa-social-link" href="https://www.facebook.com/HRSAgov/" target="_blank"
+                   title="Visit the HRSA Facebook account">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"
+                       data-src="https://data.hrsa.gov/ux/public/uswds/img/sprite.svg#facebook"
+                       data-append="true" data-unique-ids="disabled" data-cache="disabled">
+                    <use href="#facebook" />
+                  </svg>
+                </a>
+                <a class="usa-social-link" href="https://youtube.com/user/hrsatube" target="_blank"
+                   title="Visit the HRSA YouTube account">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"
+                       data-src="https://data.hrsa.gov/ux/public/uswds/img/sprite.svg#youtube"
+                       data-append="true" data-unique-ids="disabled" data-cache="disabled">
+                    <use href="#youtube" />
+                  </svg>
+                </a>
+                <a class="usa-social-link" href="https://twitter.com/hrsagov" target="_blank"
+                   title="Visit the HRSA X (Twitter) account">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"
+                       data-src="https://data.hrsa.gov/ux/public/uswds/img/sprite.svg#x"
+                       data-append="true" data-unique-ids="disabled" data-cache="disabled">
+                    <use href="#x" />
+                  </svg>
+                </a>
+                <a class="usa-social-link" href="https://instagram.com/hrsagov/" target="_blank"
+                   title="Visit the HRSA Instagram account">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"
+                       data-src="https://data.hrsa.gov/ux/public/uswds/img/sprite.svg#instagram"
+                       data-append="true" data-unique-ids="disabled" data-cache="disabled">
+                    <use href="#instagram" />
+                  </svg>
+                </a>
+                <a class="usa-social-link" href="https://www.linkedin.com/company/us-government-department-of-health-&-human-services-hrsa" target="_blank"
+                   title="Visit the HRSA LinkedIn account">
+                  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"
+                       data-src="https://data.hrsa.gov/ux/public/uswds/img/sprite.svg#linkedin"
+                       data-append="true" data-unique-ids="disabled" data-cache="disabled">
+                    <use href="#linkedin" />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <!-- END USWDS FOOTER -->
+
+  <!-- Placeholder for page-specific scripts that can be loaded after main page content -->
+  
+
+  <!-- NON-USWDS SCRIPTS -->
+    <script src="/Scripts/main.js"></script>
+  <script src="/Scripts/RedirectConfirm.js"></script>
+  <script src="/Scripts/hdwScript.js"></script>
+  <script src="/Scripts/_Layout.js"></script>
+  <script>
+    $(document).ready(function () {
+      layoutReady('/Content/Images/exit_small.png');
+	  });
+  </script>
+  <!-- END NON-USWDS SCRIPTS -->
+
+  <script src="https://data.hrsa.gov/ux/common/js/svg-loader.js"></script>
+  <script src="https://data.hrsa.gov/ux/public/uswds/js/uswds.min.js"></script>
+</body>
+</html>

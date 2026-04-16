@@ -1,0 +1,449 @@
+﻿Species,AgeGroup,Rehab,State,Flyway,DW Lead (µg/g),Below LOD,Above or Below 10 µg/g
+Bald Eagle,Adult,FALSE,Arizona,Pacific,18.70,FALSE,1
+Bald Eagle,Adult,FALSE,Arizona,Pacific,38.72,FALSE,1
+Bald Eagle,Adult,FALSE,Arizona,Pacific,16.46,FALSE,1
+Bald Eagle,Adult,FALSE,Arizona,Pacific,24.51,FALSE,1
+Bald Eagle,Adult,TRUE,Arkansas,Mississippi,19.18,FALSE,1
+Bald Eagle,Subadult,FALSE,California,Pacific,0.20,FALSE,0
+Bald Eagle,Subadult,FALSE,California,Pacific,1.98,FALSE,0
+Bald Eagle,Juvenile,FALSE,Colorado,Central,0.97,FALSE,0
+Bald Eagle,Subadult,FALSE,Florida,Atlantic,5.54,FALSE,0
+Bald Eagle,Juvenile,TRUE,Florida,Atlantic,1.16,FALSE,0
+Bald Eagle,Adult,TRUE,Florida,Atlantic,20.79,FALSE,1
+Bald Eagle,Subadult,FALSE,Florida,Atlantic,0.30,FALSE,0
+Bald Eagle,Subadult,TRUE,Florida,Atlantic,2.02,FALSE,0
+Bald Eagle,Juvenile,TRUE,Florida,Atlantic,0.69,FALSE,0
+Bald Eagle,Subadult,FALSE,Florida,Atlantic,3.74,FALSE,0
+Bald Eagle,Juvenile,FALSE,Florida,Atlantic,1.12,FALSE,0
+Bald Eagle,Adult,FALSE,Florida,Atlantic,3.48,FALSE,0
+Bald Eagle,Adult,FALSE,Florida,Atlantic,10.50,FALSE,1
+Bald Eagle,Adult,TRUE,Florida,Atlantic,2.53,FALSE,0
+Bald Eagle,Adult,TRUE,Florida,Atlantic,6.13,FALSE,0
+Bald Eagle,Juvenile,FALSE,Florida,Atlantic,0.88,FALSE,0
+Bald Eagle,Juvenile,TRUE,Florida,Atlantic,4.49,FALSE,0
+Bald Eagle,Adult,TRUE,Florida,Atlantic,11.61,FALSE,1
+Bald Eagle,Subadult,TRUE,Florida,Atlantic,15.44,FALSE,1
+Bald Eagle,Adult,TRUE,Florida,Atlantic,8.75,FALSE,0
+Bald Eagle,Adult,TRUE,Florida,Atlantic,103.94,FALSE,1
+Bald Eagle,Adult,FALSE,Georgia,Atlantic,1.17,FALSE,0
+Bald Eagle,Juvenile,FALSE,Idaho,Pacific,1.68,FALSE,0
+Bald Eagle,Adult,FALSE,Idaho,Pacific,85.42,FALSE,1
+Bald Eagle,Juvenile,FALSE,Idaho,Pacific,0.50,TRUE,0
+Bald Eagle,Adult,FALSE,Idaho,Pacific,35.79,FALSE,1
+Bald Eagle,Adult,FALSE,Idaho,Pacific,13.67,FALSE,1
+Bald Eagle,Subadult,FALSE,Idaho,Pacific,3.67,FALSE,0
+Bald Eagle,Adult,FALSE,Idaho,Pacific,5.12,FALSE,0
+Bald Eagle,Adult,FALSE,Idaho,Pacific,7.97,FALSE,0
+Bald Eagle,Subadult,FALSE,Idaho,Pacific,4.11,FALSE,0
+Bald Eagle,Subadult,FALSE,Idaho,Pacific,88.86,FALSE,1
+Bald Eagle,Adult,FALSE,Iowa ,Mississippi,6.95,FALSE,0
+Bald Eagle,Adult,FALSE,Kansas,Mississippi,3.12,FALSE,0
+Bald Eagle,Adult,FALSE,Kansas,Mississippi,3.91,FALSE,0
+Bald Eagle,Adult,FALSE,Kansas,Mississippi,1.40,FALSE,0
+Bald Eagle,Adult,FALSE,Kansas,Mississippi,26.01,FALSE,1
+Bald Eagle,Adult,FALSE,Kansas,Mississippi,3.72,FALSE,0
+Bald Eagle,Adult,FALSE,Kentucky,Atlantic,11.97,FALSE,1
+Bald Eagle,Adult,TRUE,Kentucky,Atlantic,4.65,FALSE,0
+Bald Eagle,Adult,TRUE,Kentucky,Atlantic,2.31,FALSE,0
+Bald Eagle,Juvenile,FALSE,Kentucky,Atlantic,0.26,FALSE,0
+Bald Eagle,Adult,TRUE,Kentucky,Atlantic,2.90,FALSE,0
+Bald Eagle,Juvenile,FALSE,Kentucky,Atlantic,10.27,FALSE,1
+Bald Eagle,Adult,TRUE,Kentucky,Atlantic,9.42,FALSE,0
+Bald Eagle,Adult,FALSE,Kentucky,Atlantic,2.33,FALSE,0
+Bald Eagle,Adult,FALSE,Kentucky,Atlantic,0.92,FALSE,0
+Bald Eagle,Adult,TRUE,Kentucky,Atlantic,5.30,FALSE,0
+Bald Eagle,Adult,FALSE,Kentucky,Atlantic,2.01,FALSE,0
+Bald Eagle,Adult,FALSE,Kentucky,Atlantic,3.96,FALSE,0
+Bald Eagle,Adult,TRUE,Kentucky,Atlantic,2.30,FALSE,0
+Bald Eagle,Juvenile,TRUE,Kentucky,Atlantic,0.15,FALSE,0
+Bald Eagle,Adult,FALSE,Kentucky,Atlantic,0.74,FALSE,0
+Bald Eagle,Adult,TRUE,Kentucky,Atlantic,0.50,TRUE,0
+Bald Eagle,Adult,FALSE,Maryland,Atlantic,3.38,FALSE,0
+Bald Eagle,Subadult,FALSE,Massachusetts,Atlantic,3.57,FALSE,0
+Bald Eagle,Adult,FALSE,Minnesota,Mississippi,23.32,FALSE,1
+Bald Eagle,Adult,FALSE,Minnesota,Mississippi,2.50,FALSE,0
+Bald Eagle,Adult,FALSE,Minnesota,Mississippi,11.43,FALSE,1
+Bald Eagle,Adult,FALSE,Minnesota,Mississippi,16.49,FALSE,1
+Bald Eagle,Juvenile,FALSE,Montana,Central,2.53,FALSE,0
+Bald Eagle,Subadult,FALSE,Montana,Central,44.90,FALSE,1
+Bald Eagle,Adult,FALSE,Montana,Pacific,2.11,FALSE,0
+Bald Eagle,Adult,FALSE,Montana,Pacific,5.20,FALSE,0
+Bald Eagle,Adult,FALSE,Montana,Pacific,9.46,FALSE,0
+Bald Eagle,Adult,FALSE,Montana,Pacific,11.55,FALSE,1
+Bald Eagle,Juvenile,FALSE,Montana,Pacific,14.57,FALSE,1
+Bald Eagle,Adult,FALSE,Montana,Pacific,15.27,FALSE,1
+Bald Eagle,Adult,FALSE,Montana,Pacific,17.35,FALSE,1
+Bald Eagle,Adult,FALSE,Montana,Pacific,17.52,FALSE,1
+Bald Eagle,Adult,FALSE,Montana,Pacific,19.47,FALSE,1
+Bald Eagle,Juvenile,FALSE,Montana,Pacific,0.23,FALSE,0
+Bald Eagle,Adult,FALSE,Montana,Pacific,31.88,FALSE,1
+Bald Eagle,Subadult,FALSE,Montana,Pacific,2.27,FALSE,0
+Bald Eagle,Subadult,FALSE,Montana,Pacific,2.85,FALSE,0
+Bald Eagle,Subadult,FALSE,Montana,Pacific,0.36,FALSE,0
+Bald Eagle,Subadult,FALSE,Montana,Central,1.13,FALSE,0
+Bald Eagle,Adult,FALSE,Montana,Central,9.40,FALSE,0
+Bald Eagle,Adult,FALSE,Montana,Central,18.53,FALSE,1
+Bald Eagle,Adult,FALSE,Montana,Central,13.07,FALSE,1
+Bald Eagle,Juvenile,FALSE,Montana,Central,13.53,FALSE,1
+Bald Eagle,Subadult,FALSE,Montana,Pacific,2.61,FALSE,0
+Bald Eagle,Subadult,FALSE,Montana,Pacific,5.95,FALSE,0
+Bald Eagle,Subadult,FALSE,Nebraska,Central,3.12,FALSE,0
+Bald Eagle,Adult,FALSE,Nebraska,Central,39.22,FALSE,1
+Bald Eagle,Adult,FALSE,Nebraska,Central,14.53,FALSE,1
+Bald Eagle,Adult,FALSE,Nebraska,Central,43.46,FALSE,1
+Bald Eagle,Adult,FALSE,Nebraska,Central,62.16,FALSE,1
+Bald Eagle,Adult,FALSE,Nebraska,Central,31.43,FALSE,1
+Bald Eagle,Juvenile,FALSE,Nebraska,Central,5.06,FALSE,0
+Bald Eagle,Adult,FALSE,Nebraska,Central,4.94,FALSE,0
+Bald Eagle,Adult,FALSE,Nebraska,Central,52.36,FALSE,1
+Bald Eagle,Adult,FALSE,Nebraska,Central,8.07,FALSE,0
+Bald Eagle,Adult,FALSE,North Dakota,Central,16.37,FALSE,1
+Bald Eagle,Adult,FALSE,North Dakota,Central,4.28,FALSE,0
+Bald Eagle,Adult,FALSE,North Dakota,Central,30.71,FALSE,1
+Bald Eagle,Subadult,FALSE,North Dakota,Central,21.91,FALSE,1
+Bald Eagle,Juvenile,FALSE,North Dakota,Central,1.57,FALSE,0
+Bald Eagle,Subadult,FALSE,North Dakota,Central,4.85,FALSE,0
+Bald Eagle,Adult,FALSE,North Dakota,Central,33.71,FALSE,1
+Bald Eagle,Juvenile,FALSE,North Dakota,Central,15.61,FALSE,1
+Bald Eagle,Juvenile,FALSE,North Dakota,Central,5.44,FALSE,0
+Bald Eagle,Juvenile,TRUE,Pennsylvania,Atlantic,0.32,FALSE,0
+Bald Eagle,Subadult,FALSE,Pennsylvania,Atlantic,5.90,FALSE,0
+Bald Eagle,Subadult,FALSE,Pennsylvania,Atlantic,8.47,FALSE,0
+Bald Eagle,Juvenile,TRUE,Pennsylvania,Atlantic,14.27,FALSE,1
+Bald Eagle,Adult,FALSE,Pennsylvania,Atlantic,2.75,FALSE,0
+Bald Eagle,Subadult,FALSE,Pennsylvania,Atlantic,37.55,FALSE,1
+Bald Eagle,Adult,FALSE,Pennsylvania,Atlantic,22.64,FALSE,1
+Bald Eagle,Subadult,TRUE,Pennsylvania,Atlantic,16.05,FALSE,1
+Bald Eagle,Adult,TRUE,Pennsylvania,Atlantic,6.42,FALSE,0
+Bald Eagle,Adult,FALSE,Pennsylvania,Atlantic,6.72,FALSE,0
+Bald Eagle,Adult,FALSE,Pennsylvania,Atlantic,35.34,FALSE,1
+Bald Eagle,Adult,TRUE,Pennsylvania,Atlantic,18.47,FALSE,1
+Bald Eagle,Adult,TRUE,Pennsylvania,Atlantic,14.98,FALSE,1
+Bald Eagle,Juvenile,TRUE,Pennsylvania,Atlantic,0.57,FALSE,0
+Bald Eagle,Subadult,FALSE,Pennsylvania,Atlantic,8.47,FALSE,0
+Bald Eagle,Juvenile,FALSE,Pennsylvania,Atlantic,19.36,FALSE,1
+Bald Eagle,Juvenile,FALSE,Pennsylvania,Atlantic,0.50,TRUE,0
+Bald Eagle,Adult,FALSE,Pennsylvania,Atlantic,1.29,FALSE,0
+Bald Eagle,Adult,FALSE,South Carolina,Atlantic,8.95,FALSE,0
+Bald Eagle,Juvenile,FALSE,South Dakota,Central,252.12,FALSE,1
+Bald Eagle,Adult,FALSE,South Dakota,Central,25.01,FALSE,1
+Bald Eagle,Adult,FALSE,South Dakota,Central,99.64,FALSE,1
+Bald Eagle,Juvenile,FALSE,South Dakota,Central,5.78,FALSE,0
+Bald Eagle,Adult,FALSE,South Dakota,Central,22.66,FALSE,1
+Bald Eagle,Adult,FALSE,South Dakota,Central,56.30,FALSE,1
+Bald Eagle,Adult,FALSE,South Dakota,Central,72.40,FALSE,1
+Bald Eagle,Adult,FALSE,South Dakota,Central,32.84,FALSE,1
+Bald Eagle,Juvenile,FALSE,South Dakota,Central,0.40,FALSE,0
+Bald Eagle,Adult,FALSE,South Dakota,Central,13.27,FALSE,1
+Bald Eagle,Juvenile,FALSE,South Dakota,Central,13.97,FALSE,1
+Bald Eagle,Juvenile,FALSE,South Dakota,Central,22.34,FALSE,1
+Bald Eagle,Adult,FALSE,South Dakota,Central,36.09,FALSE,1
+Bald Eagle,Adult,FALSE,South Dakota,Central,51.84,FALSE,1
+Bald Eagle,Subadult,FALSE,South Dakota,Central,87.81,FALSE,1
+Bald Eagle,Subadult,FALSE,South Dakota,Central,4.06,FALSE,0
+Bald Eagle,Adult,FALSE,South Dakota,Central,26.32,FALSE,1
+Bald Eagle,Adult,FALSE,South Dakota,Central,55.62,FALSE,1
+Bald Eagle,Subadult,TRUE,Utah,Pacific,15.09,FALSE,1
+Bald Eagle,Subadult,FALSE,Utah,Pacific,0.50,TRUE,0
+Bald Eagle,Adult,FALSE,Utah,Pacific,21.15,FALSE,1
+Bald Eagle,Adult,FALSE,Utah,Pacific,15.71,FALSE,1
+Bald Eagle,Adult,FALSE,Utah,Pacific,21.92,FALSE,1
+Bald Eagle,Adult,FALSE,Utah,Pacific,20.33,FALSE,1
+Bald Eagle,Adult,TRUE,Utah,Pacific,8.07,FALSE,0
+Bald Eagle,Adult,FALSE,Utah,Pacific,15.10,FALSE,1
+Bald Eagle,Adult,FALSE,Utah,Pacific,19.64,FALSE,1
+Bald Eagle,Adult,FALSE,Utah,Pacific,5.00,FALSE,0
+Bald Eagle,Adult,FALSE,Virginia,Atlantic,9.14,FALSE,0
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,5.72,FALSE,0
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,27.51,FALSE,1
+Bald Eagle,Adult,FALSE,Virginia,Atlantic,21.59,FALSE,1
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,1.94,FALSE,0
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,10.63,FALSE,1
+Bald Eagle,Juvenile,TRUE,Virginia,Atlantic,5.75,FALSE,0
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,16.50,FALSE,1
+Bald Eagle,Subadult,TRUE,Virginia,Atlantic,6.76,FALSE,0
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,10.68,FALSE,1
+Bald Eagle,Juvenile,TRUE,Virginia,Atlantic,2.11,FALSE,0
+Bald Eagle,Subadult,TRUE,Virginia,Atlantic,3.28,FALSE,0
+Bald Eagle,Subadult,TRUE,Virginia,Atlantic,6.20,FALSE,0
+Bald Eagle,Juvenile,TRUE,Virginia,Atlantic,26.29,FALSE,1
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,24.40,FALSE,1
+Bald Eagle,Juvenile,TRUE,Virginia,Atlantic,0.67,FALSE,0
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,2.95,FALSE,0
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,8.18,FALSE,0
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,3.18,FALSE,0
+Bald Eagle,Juvenile,TRUE,Virginia,Atlantic,1.15,FALSE,0
+Bald Eagle,Adult,FALSE,Virginia,Atlantic,9.59,FALSE,0
+Bald Eagle,Subadult,TRUE,Virginia,Atlantic,2.95,FALSE,0
+Bald Eagle,Subadult,TRUE,Virginia,Atlantic,24.32,FALSE,1
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,20.98,FALSE,1
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,27.42,FALSE,1
+Bald Eagle,Adult,TRUE,Virginia,Atlantic,2.69,FALSE,0
+Bald Eagle,Subadult,TRUE,Virginia,Atlantic,14.65,FALSE,1
+Bald Eagle,Juvenile,TRUE,Virginia,Atlantic,26.79,FALSE,1
+Bald Eagle,Juvenile,FALSE,Virginia,Atlantic,167.80,FALSE,1
+Bald Eagle,Adult,FALSE,Virginia,Atlantic,6.86,FALSE,0
+Bald Eagle,Adult,FALSE,Virginia,Atlantic,18.90,FALSE,1
+Bald Eagle,Adult,FALSE,Virginia,Atlantic,21.97,FALSE,1
+Bald Eagle,Adult,FALSE,Washington,Pacific,2.01,FALSE,0
+Bald Eagle,Adult,FALSE,Washington,Pacific,2.21,FALSE,0
+Bald Eagle,Adult,FALSE,Washington,Pacific,5.75,FALSE,0
+Bald Eagle,Adult,FALSE,Washington,Pacific,8.90,FALSE,0
+Bald Eagle,Adult,FALSE,Washington,Pacific,2.62,FALSE,0
+Bald Eagle,Juvenile,FALSE,Washington,Pacific,14.06,FALSE,1
+Bald Eagle,Adult,FALSE,Washington,Pacific,23.17,FALSE,1
+Bald Eagle,Juvenile,FALSE,Washington,Pacific,1.52,FALSE,0
+Bald Eagle,Juvenile,FALSE,Washington,Pacific,0.59,FALSE,0
+Bald Eagle,Juvenile,FALSE,Washington,Pacific,1.93,FALSE,0
+Bald Eagle,Juvenile,FALSE,Washington,Pacific,2.37,FALSE,0
+Bald Eagle,Adult,FALSE,Washington,Pacific,3.00,FALSE,0
+Bald Eagle,Adult,FALSE,Washington,Pacific,7.16,FALSE,0
+Bald Eagle,Juvenile,FALSE,Washington,Pacific,0.72,FALSE,0
+Bald Eagle,Juvenile,FALSE,Washington,Pacific,1.05,FALSE,0
+Bald Eagle,Adult,FALSE,Washington,Pacific,2.84,FALSE,0
+Bald Eagle,Subadult,TRUE,West Virginia,Atlantic,17.69,FALSE,1
+Bald Eagle,Subadult,FALSE,Wisconsin,Mississippi,22.57,FALSE,1
+Bald Eagle,Adult,FALSE,Wisconsin,Mississippi,5.70,FALSE,0
+Bald Eagle,Juvenile,FALSE,Wisconsin,Mississippi,24.53,FALSE,1
+Bald Eagle,Adult,FALSE,Wisconsin,Mississippi,29.47,FALSE,1
+Bald Eagle,Adult,FALSE,Wisconsin,Mississippi,15.30,FALSE,1
+Bald Eagle,Adult,FALSE,Wyoming,Central,5.89,FALSE,0
+Bald Eagle,Juvenile,FALSE,Wyoming,Central,10.06,FALSE,1
+Bald Eagle,Adult,FALSE,Wyoming,Central,14.99,FALSE,1
+Bald Eagle,Juvenile,FALSE,Wyoming,Central,15.16,FALSE,1
+Bald Eagle,Juvenile,FALSE,Wyoming,Central,0.13,FALSE,0
+Bald Eagle,Adult,FALSE,Wyoming,Central,36.97,FALSE,1
+Bald Eagle,Juvenile,FALSE,Wyoming,Central,8.96,FALSE,0
+Bald Eagle,Adult,FALSE,Wyoming,Central,16.95,FALSE,1
+Bald Eagle,Adult,FALSE,Wyoming,Central,27.03,FALSE,1
+Bald Eagle,Adult,FALSE,Wyoming,Central,18.19,FALSE,1
+Bald Eagle,Adult,FALSE,Wyoming,Central,38.03,FALSE,1
+Bald Eagle,Adult,FALSE,Wyoming,Central,49.42,FALSE,1
+Bald Eagle,Subadult,FALSE,Wyoming,Central,14.22,FALSE,1
+Bald Eagle,Adult,FALSE,Wyoming,Central,9.55,FALSE,0
+Bald Eagle,Adult,FALSE,Wyoming,Central,24.13,FALSE,1
+Bald Eagle,Juvenile,FALSE,Wyoming,Central,4.53,FALSE,0
+Bald Eagle,Adult,FALSE,Wyoming,Central,18.63,FALSE,1
+Bald Eagle,Juvenile,FALSE,Wyoming,Central,0.50,TRUE,0
+Golden Eagle,Adult,TRUE,Alabama,Atlantic,9.95,FALSE,0
+Golden Eagle,Adult,TRUE,Alabama,Atlantic,81.66,FALSE,1
+Golden Eagle,Adult,FALSE,Alaska,Pacific,11.52,FALSE,1
+Golden Eagle,Subadult,FALSE,Alaska,Pacific,31.31,FALSE,1
+Golden Eagle,Adult,FALSE,Alaska,Pacific,3.43,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,0.13,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,0.27,FALSE,0
+Golden Eagle,Adult,FALSE,California,Pacific,0.36,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,0.37,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,0.45,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,0.52,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,0.54,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,0.71,FALSE,0
+Golden Eagle,Adult,FALSE,California,Pacific,0.80,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,0.99,FALSE,0
+Golden Eagle,Adult,FALSE,California,Pacific,1.09,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,1.18,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,1.28,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,1.32,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,1.64,FALSE,0
+Golden Eagle,Juvenile,FALSE,California,Pacific,1.68,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,2.01,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,2.01,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,2.87,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,2.90,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,3.23,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,3.43,FALSE,0
+Golden Eagle,Adult,FALSE,California,Pacific,3.78,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,4.23,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,4.81,FALSE,0
+Golden Eagle,Juvenile,FALSE,California,Pacific,5.13,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,5.49,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,5.57,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,5.65,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,6.49,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,8.61,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,12.08,FALSE,1
+Golden Eagle,Adult,FALSE,California,Pacific,15.93,FALSE,1
+Golden Eagle,Juvenile,FALSE,California,Pacific,16.09,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,17.87,FALSE,1
+Golden Eagle,Juvenile,FALSE,California,Pacific,0.12,TRUE,0
+Golden Eagle,Juvenile,FALSE,California,Pacific,0.23,FALSE,0
+Golden Eagle,Juvenile,TRUE,California,Pacific,0.25,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,0.31,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,0.49,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,1.23,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,1.32,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,1.46,FALSE,0
+Golden Eagle,Juvenile,FALSE,California,Pacific,1.61,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,2.25,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,2.40,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,2.94,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,3.02,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,3.34,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,3.36,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,3.66,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,6.93,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,8.47,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,9.79,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,13.88,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,14.58,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,14.68,FALSE,1
+Golden Eagle,Adult,FALSE,California,Pacific,23.02,FALSE,1
+Golden Eagle,Subadult,TRUE,California,Pacific,31.94,FALSE,1
+Golden Eagle,Subadult,TRUE,California,Pacific,32.70,FALSE,1
+Golden Eagle,Subadult,TRUE,California,Pacific,32.90,FALSE,1
+Golden Eagle,Adult,FALSE,California,Pacific,37.79,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,46.66,FALSE,1
+Golden Eagle,Adult,FALSE,California,Pacific,57.23,FALSE,1
+Golden Eagle,Adult,FALSE,California,Pacific,62.06,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,62.85,FALSE,1
+Golden Eagle,Adult,FALSE,California,Pacific,82.28,FALSE,1
+Golden Eagle,Adult,FALSE,California,Pacific,98.69,FALSE,1
+Golden Eagle,Subadult,TRUE,California,Pacific,4.25,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,12.72,FALSE,1
+Golden Eagle,Subadult,TRUE,California,Pacific,9.07,FALSE,0
+Golden Eagle,Adult,FALSE,California,Pacific,30.75,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,0.54,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,1.56,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,1.85,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,2.13,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,2.76,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,2.87,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,10.87,FALSE,1
+Golden Eagle,Adult,FALSE,California,Pacific,15.37,FALSE,1
+Golden Eagle,Adult,TRUE,California,Pacific,17.66,FALSE,1
+Golden Eagle,Adult,FALSE,California,Pacific,51.95,FALSE,1
+Golden Eagle,Juvenile,TRUE,California,Pacific,3.38,FALSE,0
+Golden Eagle,Adult,TRUE,California,Pacific,5.10,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,4.14,FALSE,0
+Golden Eagle,Juvenile,TRUE,California,Pacific,1.10,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,26.31,FALSE,1
+Golden Eagle,Juvenile,TRUE,California,Pacific,8.03,FALSE,0
+Golden Eagle,Adult,TRUE,California,Pacific,309.14,FALSE,1
+Golden Eagle,Juvenile,TRUE,California,Pacific,0.91,FALSE,0
+Golden Eagle,Juvenile,FALSE,California,Pacific,1.51,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,4.78,FALSE,0
+Golden Eagle,Juvenile,TRUE,California,Pacific,1.04,FALSE,0
+Golden Eagle,Adult,FALSE,California,Pacific,80.44,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,0.53,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,0.86,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,1.69,FALSE,0
+Golden Eagle,Juvenile,TRUE,California,Pacific,3.24,FALSE,0
+Golden Eagle,Juvenile,FALSE,California,Pacific,1.25,FALSE,0
+Golden Eagle,Adult,TRUE,California,Pacific,6.38,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,2.57,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,1.39,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,14.82,FALSE,1
+Golden Eagle,Adult,TRUE,California,Pacific,20.38,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,11.02,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,16.17,FALSE,1
+Golden Eagle,Juvenile,TRUE,California,Pacific,0.29,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,8.82,FALSE,0
+Golden Eagle,Adult,TRUE,California,Pacific,16.39,FALSE,1
+Golden Eagle,Subadult,TRUE,California,Pacific,29.09,FALSE,1
+Golden Eagle,Subadult,TRUE,California,Pacific,21.24,FALSE,1
+Golden Eagle,Subadult,TRUE,California,Pacific,0.59,FALSE,0
+Golden Eagle,Subadult,TRUE,California,Pacific,32.84,FALSE,1
+Golden Eagle,Subadult,TRUE,California,Pacific,74.45,FALSE,1
+Golden Eagle,Subadult,FALSE,California,Pacific,6.29,FALSE,0
+Golden Eagle,Juvenile,FALSE,California,Pacific,0.26,FALSE,0
+Golden Eagle,Juvenile,FALSE,California,Pacific,2.51,FALSE,0
+Golden Eagle,Subadult,FALSE,California,Pacific,13.95,FALSE,1
+Golden Eagle,Juvenile,TRUE,Florida,Atlantic,0.18,FALSE,0
+Golden Eagle,Adult,FALSE,Idaho,Pacific,8.41,FALSE,0
+Golden Eagle,Adult,FALSE,Idaho,Pacific,31.48,FALSE,1
+Golden Eagle,Subadult,FALSE,Idaho,Pacific,39.81,FALSE,1
+Golden Eagle,Subadult,FALSE,Idaho,Pacific,65.21,FALSE,1
+Golden Eagle,Adult,FALSE,Idaho,Pacific,58.75,FALSE,1
+Golden Eagle,Subadult,FALSE,Idaho,Pacific,47.30,FALSE,1
+Golden Eagle,Adult,FALSE,Idaho,Pacific,23.68,FALSE,1
+Golden Eagle,Adult,FALSE,Idaho,Pacific,11.07,FALSE,1
+Golden Eagle,Adult,FALSE,Idaho,Pacific,31.25,FALSE,1
+Golden Eagle,Juvenile,FALSE,Idaho,Pacific,84.60,FALSE,1
+Golden Eagle,Subadult,FALSE,Illinois,Atlantic,4.27,FALSE,0
+Golden Eagle,Adult,FALSE,Kansas,Atlantic,14.88,FALSE,1
+Golden Eagle,Adult,FALSE,Kansas,Atlantic,39.74,FALSE,1
+Golden Eagle,Adult,FALSE,Montana,Central,14.85,FALSE,1
+Golden Eagle,Adult,FALSE,Montana,Central,51.62,FALSE,1
+Golden Eagle,Subadult,FALSE,Montana,Central,4.73,FALSE,0
+Golden Eagle,Adult,FALSE,Montana,Pacific,10.14,FALSE,1
+Golden Eagle,Adult,FALSE,Montana,Pacific,5.73,FALSE,0
+Golden Eagle,Adult,FALSE,Montana,Central,19.49,FALSE,1
+Golden Eagle,Adult,FALSE,Montana,Pacific,17.36,FALSE,1
+Golden Eagle,Adult,FALSE,Montana,Central,21.07,FALSE,1
+Golden Eagle,Adult,FALSE,Montana,Central,108.78,FALSE,1
+Golden Eagle,Adult,FALSE,Montana,Central,10.30,FALSE,1
+Golden Eagle,Adult,FALSE,Montana,Central,83.92,FALSE,1
+Golden Eagle,Adult,FALSE,Montana,Central,16.30,FALSE,1
+Golden Eagle,Juvenile,FALSE,Nebraska,Central,0.53,FALSE,0
+Golden Eagle,Juvenile,FALSE,Nebraska,Central,28.06,FALSE,1
+Golden Eagle,Adult,FALSE,Nebraska,Central,2.83,FALSE,0
+Golden Eagle,Adult,FALSE,Nebraska,Central,51.44,FALSE,1
+Golden Eagle,Adult,FALSE,Nebraska,Central,20.62,FALSE,1
+Golden Eagle,Subadult,FALSE,Nevada,Pacific,0.25,FALSE,0
+Golden Eagle,Adult,FALSE,Nevada,Pacific,113.07,FALSE,1
+Golden Eagle,Adult,FALSE,New Mexico,Central,0.53,FALSE,0
+Golden Eagle,Adult,FALSE,North Dakota,Central,2.38,FALSE,0
+Golden Eagle,Adult,FALSE,North Dakota,Central,62.54,FALSE,1
+Golden Eagle,Adult,FALSE,North Dakota,Central,9.22,FALSE,0
+Golden Eagle,Adult,FALSE,North Dakota,Central,13.83,FALSE,1
+Golden Eagle,Adult,FALSE,North Dakota,Central,7.34,FALSE,0
+Golden Eagle,Adult,FALSE,North Dakota,Central,7.21,FALSE,0
+Golden Eagle,Adult,FALSE,North Dakota,Central,15.65,FALSE,1
+Golden Eagle,Adult,FALSE,Oregon,Pacific,87.05,FALSE,1
+Golden Eagle,Adult,FALSE,Oregon,Pacific,39.73,FALSE,1
+Golden Eagle,Adult,FALSE,South Dakota,Central,3.27,FALSE,0
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,21.30,FALSE,1
+Golden Eagle,Adult,FALSE,South Dakota,Atlantic,0.62,FALSE,0
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,3.07,FALSE,0
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,14.54,FALSE,1
+Golden Eagle,Adult,FALSE,South Dakota,Central,16.11,FALSE,1
+Golden Eagle,Adult,FALSE,South Dakota,Central,15.87,FALSE,1
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,19.40,FALSE,1
+Golden Eagle,Adult,FALSE,South Dakota,Central,9.05,FALSE,0
+Golden Eagle,Adult,FALSE,South Dakota,Central,8.12,FALSE,0
+Golden Eagle,Adult,FALSE,South Dakota,Central,29.74,FALSE,1
+Golden Eagle,Adult,FALSE,South Dakota,Central,18.66,FALSE,1
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,10.46,FALSE,1
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,6.82,FALSE,0
+Golden Eagle,Juvenile,TRUE,South Dakota,Central,0.42,FALSE,0
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,10.45,FALSE,1
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,40.57,FALSE,1
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,51.16,FALSE,1
+Golden Eagle,Subadult,FALSE,South Dakota,Central,4.81,FALSE,0
+Golden Eagle,Adult,FALSE,South Dakota,Central,9.95,FALSE,0
+Golden Eagle,Juvenile,FALSE,South Dakota,Central,9.98,FALSE,0
+Golden Eagle,Subadult,FALSE,South Dakota,Central,13.63,FALSE,1
+Golden Eagle,Adult,FALSE,Utah,Pacific,18.89,FALSE,1
+Golden Eagle,Adult,FALSE,Utah,Pacific,2.05,FALSE,0
+Golden Eagle,Subadult,FALSE,Utah,Pacific,7.95,FALSE,0
+Golden Eagle,Adult,FALSE,Utah,Pacific,29.07,FALSE,1
+Golden Eagle,Adult,FALSE,Utah,Pacific,48.76,FALSE,1
+Golden Eagle,Adult,FALSE,Utah,Pacific,16.67,FALSE,1
+Golden Eagle,Adult,FALSE,Utah,Pacific,9.10,FALSE,0
+Golden Eagle,Subadult,FALSE,Utah,Pacific,7.14,FALSE,0
+Golden Eagle,Adult,FALSE,Utah,Pacific,5.67,FALSE,0
+Golden Eagle,Adult,FALSE,Utah,Pacific,16.36,FALSE,1
+Golden Eagle,Adult,FALSE,Utah,Pacific,14.54,FALSE,1
+Golden Eagle,Adult,FALSE,West Virginia,Atlantic,23.20,FALSE,1
+Golden Eagle,Subadult,TRUE,West Virginia,Atlantic,24.28,FALSE,1
+Golden Eagle,Subadult,FALSE,West Virginia,Atlantic,19.73,FALSE,1
+Golden Eagle,Juvenile,FALSE,Wyoming,Central,8.81,FALSE,0
+Golden Eagle,Juvenile,FALSE,Wyoming,Central,15.16,FALSE,1
+Golden Eagle,Adult,FALSE,Wyoming,Central,15.81,FALSE,1
+Golden Eagle,Adult,FALSE,Wyoming,Central,3.42,FALSE,0
+Golden Eagle,Adult,FALSE,Wyoming,Central,7.28,FALSE,0
+Golden Eagle,Adult,FALSE,Wyoming,Central,7.92,FALSE,0
+Golden Eagle,Adult,FALSE,Wyoming,Central,16.01,FALSE,1
+Golden Eagle,Adult,FALSE,Wyoming,Central,21.78,FALSE,1
+Golden Eagle,Juvenile,FALSE,Wyoming,Central,31.23,FALSE,1
+Golden Eagle,Adult,FALSE,Wyoming,Central,0.76,FALSE,0
+Golden Eagle,Juvenile,FALSE,Wyoming,Central,3.13,FALSE,0
+Golden Eagle,Adult,FALSE,Wyoming,Central,5.19,FALSE,0
+Golden Eagle,Adult,FALSE,Wyoming,Central,13.99,FALSE,1
+Golden Eagle,Subadult,FALSE,Wyoming,Central,22.22,FALSE,1
+Golden Eagle,Adult,FALSE,Wyoming,Central,3.75,FALSE,0
+Golden Eagle,Adult,FALSE,Wyoming,Central,15.40,FALSE,1
+Golden Eagle,Juvenile,FALSE,Wyoming,Central,3.29,FALSE,0
+Golden Eagle,Juvenile,FALSE,Wyoming,Central,10.99,FALSE,1
+Golden Eagle,Adult,FALSE,Wyoming,Central,569.77,FALSE,1
+Golden Eagle,Subadult,FALSE,Wyoming,Central,22.20,FALSE,1
