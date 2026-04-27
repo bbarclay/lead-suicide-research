@@ -1,0 +1,62 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - docs/**
+      - .github/workflows/pages.yml
+      - paper2_lead_suicide.pdf
+      - paper3_veteran_lead_suicide.pdf
+      - figure_eagle_vet_suicide.png
+      - international_lead_vs_suicide.png
+      - README.md
+      - DATA_SOURCES.md
+      - THIRD_PARTY_DATA_NOTICE.md
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Assemble site artifact
+        run: |
+          rm -rf _site
+          mkdir -p _site/assets/publications _site/assets/figures
+          cp docs/index.html docs/styles.css _site/
+          cp README.md DATA_SOURCES.md THIRD_PARTY_DATA_NOTICE.md _site/
+          cp paper2_lead_suicide.pdf paper3_veteran_lead_suicide.pdf _site/assets/publications/
+          cp figure_eagle_vet_suicide.png international_lead_vs_suicide.png _site/assets/figures/
+          touch _site/.nojekyll
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

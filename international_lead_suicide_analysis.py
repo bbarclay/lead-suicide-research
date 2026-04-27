@@ -19,6 +19,7 @@ import urllib.request
 import csv
 import io
 import sys
+from pathlib import Path
 
 import pandas as pd
 import numpy as np
@@ -28,7 +29,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 
-OUTPUT_DIR = "/Users/bobbarclay/Documents/soldiers"
+OUTPUT_DIR = Path(__file__).resolve().parent
 
 # ──────────────────────────────────────────────────────────────
 # 1. Download data from OWID API

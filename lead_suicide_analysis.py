@@ -10,6 +10,7 @@ spatial analysis, bootstrapping, and attributable fraction estimation.
 import pandas as pd
 import numpy as np
 import warnings
+from pathlib import Path
 warnings.filterwarnings('ignore')
 
 from scipy import stats
@@ -17,7 +18,7 @@ import statsmodels.api as sm
 import statsmodels.formula.api as smf
 from statsmodels.stats.multitest import multipletests
 
-OUT_DIR = '/Users/bobbarclay/Documents/soldiers/'
+OUT_DIR = f"{Path(__file__).resolve().parent}/"
 
 # ============================================================
 # LOAD DATA

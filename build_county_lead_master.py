@@ -6,8 +6,9 @@ Merges all successfully downloaded data sources.
 
 import pandas as pd
 import os
+from pathlib import Path
 
-OUT = "/Users/bobbarclay/Documents/soldiers"
+OUT = Path(__file__).resolve().parent
 
 def safe_str_fips(series, width=5):
     """Safely convert FIPS to zero-padded string."""

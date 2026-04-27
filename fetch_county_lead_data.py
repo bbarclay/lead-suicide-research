@@ -14,7 +14,7 @@ import zipfile
 import tempfile
 from pathlib import Path
 
-OUT = Path("/Users/bobbarclay/Documents/soldiers")
+OUT = Path(__file__).resolve().parent
 import os as _os
 CENSUS_KEY = _os.environ.get("CENSUS_API_KEY")
 if not CENSUS_KEY:

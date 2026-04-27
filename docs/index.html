@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lead Exposure and Male Suicide</title>
+    <meta
+      name="description"
+      content="Research archive and reproducible analysis code for county, veteran, and international studies testing whether lead exposure tracks suicide risk."
+    >
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%239f5125'/%3E%3Cpath d='M21 16h21v8H29v11h11v8H29v5h-8z' fill='%23fff7ef'/%3E%3C/svg%3E"
+    >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+    <main class="page-shell">
+      <section class="hero panel">
+        <p class="eyebrow">Research archive + GitHub Pages site</p>
+        <div class="hero-grid">
+          <div>
+            <h1>Lead Exposure and Male Suicide in U.S. Counties and Veterans</h1>
+            <p class="lede">
+              A public research repository combining county, veteran, wildlife,
+              and international analyses to test whether environmental and
+              occupational lead exposure tracks suicide risk, especially in
+              veteran-heavy places.
+            </p>
+            <div class="chip-row">
+              <span class="chip">Ecological analyses</span>
+              <span class="chip">Hypothesis-generating</span>
+              <span class="chip">Individual validation still needed</span>
+            </div>
+            <div class="action-row">
+              <a class="button button-solid" href="assets/publications/paper2_lead_suicide.pdf">Read Paper 2</a>
+              <a class="button button-outline" href="assets/publications/paper3_veteran_lead_suicide.pdf">Read Paper 3</a>
+            </div>
+          </div>
+          <aside class="status-card">
+            <p class="status-label">Archive status</p>
+            <ul class="status-list">
+              <li>Reproducible Python + LaTeX workflow</li>
+              <li>Source provenance documented</li>
+              <li>GitHub Pages deployment wired through Actions</li>
+              <li>Public-facing limitations stated explicitly</li>
+            </ul>
+          </aside>
+        </div>
+      </section>
+
+      <section class="metrics">
+        <article class="metric panel">
+          <p class="metric-kicker">County analysis</p>
+          <h2>2,683 counties</h2>
+          <p>Historical lead/zinc/copper mining shows a monotonic association with male suicide.</p>
+        </article>
+        <article class="metric panel">
+          <p class="metric-kicker">Veteran moderation</p>
+          <h2>Interaction retained</h2>
+          <p>The mining signal intensifies in high-veteran places and is null in low-veteran counties.</p>
+        </article>
+        <article class="metric panel">
+          <p class="metric-kicker">Wildlife bioindicator</p>
+          <h2>31 states</h2>
+          <p>Eagle bone lead reproduces the same specificity pattern seen in the county models.</p>
+        </article>
+        <article class="metric panel">
+          <p class="metric-kicker">Cross-country panel</p>
+          <h2>33 countries</h2>
+          <p>Within-country lead mortality changes track suicide changes over time in high-income settings.</p>
+        </article>
+      </section>
+
+      <section class="panel section-grid">
+        <div class="section-copy">
+          <p class="eyebrow">What is in the repository</p>
+          <h2>Two manuscripts, reproducible scripts, and a full provenance trail</h2>
+          <p>
+            The repository ships the manuscript sources and PDFs, analysis
+            scripts, derived county/state datasets, and a documented map from
+            each committed file back to its upstream source or generated
+            intermediate.
+          </p>
+          <div class="link-grid">
+            <a class="link-card" href="README.md">
+              <span>README</span>
+              <strong>Replication guide and project overview</strong>
+            </a>
+            <a class="link-card" href="DATA_SOURCES.md">
+              <span>Data sources</span>
+              <strong>Direct provenance, licenses, and download paths</strong>
+            </a>
+            <a class="link-card" href="THIRD_PARTY_DATA_NOTICE.md">
+              <span>Data notice</span>
+              <strong>What is and is not covered by the MIT license</strong>
+            </a>
+          </div>
+        </div>
+        <div class="publication-stack">
+          <article class="publication-card">
+            <p class="publication-label">Paper 2</p>
+            <h3>Structural disadvantage, lead exposure, and male suicide</h3>
+            <p>County-level ecological study comparing alcohol-access null models with lead-exposure predictors.</p>
+            <a href="assets/publications/paper2_lead_suicide.pdf">Open manuscript</a>
+          </article>
+          <article class="publication-card">
+            <p class="publication-label">Paper 3</p>
+            <h3>Veteran-focused mining × veteran interaction analysis</h3>
+            <p>State and county models linking lead proxies, veteran concentration, and the widening veteran suicide gap.</p>
+            <a href="assets/publications/paper3_veteran_lead_suicide.pdf">Open manuscript</a>
+          </article>
+        </div>
+      </section>
+
+      <section class="panel figure-panel">
+        <div class="figure-copy">
+          <p class="eyebrow">Representative figure</p>
+          <h2>Eagle femur lead vs. 2023 veteran suicide rate</h2>
+          <p>
+            The site includes publication assets directly from the repository so
+            Pages readers can reach the manuscripts and a representative figure
+            without browsing the raw file tree.
+          </p>
+        </div>
+        <figure class="figure-card">
+          <img
+            src="assets/figures/figure_eagle_vet_suicide.png"
+            alt="Scatterplot comparing eagle femur lead burden with state veteran suicide rates"
+          >
+          <figcaption>
+            Figure asset mirrored from the repository for GitHub Pages publication.
+          </figcaption>
+        </figure>
+      </section>
+
+      <section class="panel section-grid">
+        <div class="section-copy">
+          <p class="eyebrow">Replication</p>
+          <h2>Fresh-clone runnable from the repository root</h2>
+          <p>
+            The analysis scripts now resolve paths relative to the checkout
+            instead of a machine-specific absolute directory. The dependency
+            manifest also includes the missing scientific and Excel-reader
+            packages needed by the documented fetch paths.
+          </p>
+        </div>
+        <pre class="code-block"><code>python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+python build_county_lead_master.py
+python eagle_lead_suicide_analysis.py</code></pre>
+      </section>
+
+      <section class="panel caveat-panel">
+        <p class="eyebrow">Limits stated plainly</p>
+        <h2>This archive motivates a decisive test; it does not replace it</h2>
+        <div class="caveat-grid">
+          <article>
+            <h3>No individual-level bone lead case-control data</h3>
+            <p>The repository does not contain the individual-level validation study that would directly test the hypothesis in veteran suicide decedents.</p>
+          </article>
+          <article>
+            <h3>NHANES male-only result is null</h3>
+            <p>The README keeps the male-only NHANES null result visible instead of presenting only the favorable pooled estimate.</p>
+          </article>
+          <article>
+            <h3>Community-level findings can still be confounded</h3>
+            <p>The site and README both frame these analyses as ecological and hypothesis-generating, not definitive causal proof.</p>
+          </article>
+        </div>
+      </section>
+
+      <footer class="site-footer">
+        <p>
+          Built for GitHub Pages from the repository itself. Once this project
+          is pushed to GitHub and Pages is set to <strong>GitHub Actions</strong>,
+          the workflow will publish automatically.
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>

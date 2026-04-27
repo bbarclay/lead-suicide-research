@@ -15,13 +15,14 @@ import os
 import sys
 import urllib.request
 import urllib.error
+from pathlib import Path
 
 import os as _os
 API_KEY = _os.environ.get("CENSUS_API_KEY")
 if not API_KEY:
     raise RuntimeError("Set CENSUS_API_KEY in your environment (see .env.example). Get a key free from https://api.census.gov/data/key_signup.html")
 BASE_URL = "https://api.census.gov/data/2022/acs/acs5"
-OUT_DIR = "/Users/bobbarclay/Documents/soldiers"
+OUT_DIR = Path(__file__).resolve().parent
 
 
 def fetch_census(variables, description=""):

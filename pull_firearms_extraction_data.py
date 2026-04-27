@@ -18,8 +18,9 @@ import sys
 import time
 import urllib.request
 import urllib.error
+from pathlib import Path
 
-BASE_DIR = "/Users/bobbarclay/Documents/soldiers"
+BASE_DIR = Path(__file__).resolve().parent
 import os as _os
 API_KEY = _os.environ.get("CENSUS_API_KEY")
 if not API_KEY:

@@ -15,7 +15,7 @@ from scipy.stats import pearsonr, spearmanr, ttest_ind, mannwhitneyu
 from scipy.stats import t as t_dist
 
 warnings.filterwarnings('ignore')
-OUTPUT_DIR = Path('/Users/bobbarclay/Documents/soldiers')
+OUTPUT_DIR = Path(__file__).resolve().parent
 np.random.seed(42)
 
 

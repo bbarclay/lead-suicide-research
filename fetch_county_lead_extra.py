@@ -13,8 +13,9 @@ import pandas as pd
 import io
 import os
 import json
+from pathlib import Path
 
-OUT = "/Users/bobbarclay/Documents/soldiers"
+OUT = Path(__file__).resolve().parent
 import os as _os
 CENSUS_KEY = _os.environ.get("CENSUS_API_KEY")
 if not CENSUS_KEY:

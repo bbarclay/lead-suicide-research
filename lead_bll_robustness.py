@@ -8,6 +8,7 @@ import numpy as np
 import pandas as pd
 from scipy import stats
 import warnings
+from pathlib import Path
 warnings.filterwarnings('ignore')
 
 np.random.seed(42)
@@ -15,7 +16,7 @@ np.random.seed(42)
 # ─────────────────────────────────────────────────────────────────────
 # LOAD DATA
 # ─────────────────────────────────────────────────────────────────────
-df = pd.read_csv('/Users/bobbarclay/Documents/soldiers/real_county_dataset.csv',
+df = pd.read_csv(Path(__file__).resolve().parent / 'real_county_dataset.csv',
                  dtype={'FIPS': str})
 
 # Key variables

@@ -10,8 +10,9 @@ import io
 import time
 import os
 import json
+from pathlib import Path
 
-OUTPUT_DIR = "/Users/bobbarclay/Documents/soldiers"
+OUTPUT_DIR = Path(__file__).resolve().parent
 import os as _os
 CENSUS_API_KEY = _os.environ.get("CENSUS_API_KEY")
 if not CENSUS_API_KEY:

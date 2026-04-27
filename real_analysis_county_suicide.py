@@ -13,7 +13,7 @@ from scipy.stats import pearsonr, ttest_ind
 from sklearn.preprocessing import StandardScaler
 
 warnings.filterwarnings('ignore')
-OUTPUT_DIR = Path('/Users/bobbarclay/Documents/soldiers')
+OUTPUT_DIR = Path(__file__).resolve().parent
 
 # Load master
 df = pd.read_csv(OUTPUT_DIR / 'real_county_dataset.csv', dtype={'FIPS': str, 'state_fips': str})

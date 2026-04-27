@@ -20,7 +20,7 @@ from scipy.stats import pearsonr, t as t_dist, chi2, norm
 from scipy.spatial import KDTree
 
 warnings.filterwarnings('ignore')
-OUTPUT_DIR = Path('/Users/bobbarclay/Documents/soldiers')
+OUTPUT_DIR = Path(__file__).resolve().parent
 np.random.seed(42)
 
 

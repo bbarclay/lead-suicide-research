@@ -22,7 +22,7 @@ from scipy.stats import pearsonr, ttest_ind, mannwhitneyu
 import requests
 
 warnings.filterwarnings('ignore')
-OUTPUT_DIR = Path('/Users/bobbarclay/Documents/soldiers')
+OUTPUT_DIR = Path(__file__).resolve().parent
 CENSUS_API_KEY = os.environ.get("CENSUS_API_KEY")
 
 

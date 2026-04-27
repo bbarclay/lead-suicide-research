@@ -16,7 +16,7 @@ from scipy.stats import pearsonr, spearmanr, ttest_ind, mannwhitneyu
 import re
 
 warnings.filterwarnings('ignore')
-OUTPUT_DIR = Path('/Users/bobbarclay/Documents/soldiers')
+OUTPUT_DIR = Path(__file__).resolve().parent
 
 
 def ols_regression(y, X_df):

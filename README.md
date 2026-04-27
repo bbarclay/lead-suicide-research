@@ -4,7 +4,7 @@ Reproducible data and analysis code for two manuscripts testing whether environm
 
 **Status:** hypothesis-generating, ecological preprints in preparation. Individual-level validation (bone-lead measurements in veteran suicide decedents) has not yet been performed; see [Limitations](#what-this-work-does-not-prove) below.
 
-**License:** code and text released under MIT (see `LICENSE`); data licenses vary by source and are documented in `DATA_SOURCES.md`.
+**License:** original code, manuscript text, and original figures are released under MIT (see `LICENSE`); bundled third-party data retain their upstream terms and are documented in `DATA_SOURCES.md` and `THIRD_PARTY_DATA_NOTICE.md`.
 
 ## What's in this repository
 
@@ -13,8 +13,9 @@ Reproducible data and analysis code for two manuscripts testing whether environm
 | `paper2_lead_suicide.tex` / `.pdf` | **Paper 2 — ecological study of 2,683 U.S. counties.** Compares alcohol access (null) and environmental lead exposure (significant) as predictors of male suicide, with NHANES, IHME, and military convergent evidence. |
 | `paper3_veteran_lead_suicide.tex` / `.pdf` | **Paper 3 — veteran-focused.** Tests the state- and county-level mining × veteran interaction, validates against VA state-level suicide data, and introduces wildlife bone lead (eagle femur Pb, Slabe 2022) as a bioindicator. |
 | `figure_eagle_vet_suicide.pdf` | Publication-grade figure: eagle femur lead vs. 2023 VA veteran suicide rate by state. |
-| `analysis/` scripts at repo root | One script per analysis layer (see [Reproducing the results](#reproducing-the-results)). |
+| Root-level `*.py` scripts | One script per analysis layer (see [Reproducing the results](#reproducing-the-results)). |
 | `DATA_SOURCES.md` | Provenance for every dataset, with direct download URLs and license terms. |
+| `docs/` | GitHub Pages source for the public project website. |
 | `CITATION.cff` | Academic citation metadata. |
 
 ## Headline findings
@@ -42,8 +43,7 @@ Taken together, the evidence **justifies the decisive individual-level test**; i
 ## Reproducing the results
 
 ```bash
-git clone <this-repo>
-cd <this-repo>
+# From the repository root:
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
@@ -58,7 +58,8 @@ export $(cat .env | xargs)   # or use direnv / dotenv
 # EPA LCR, CDC PLACES) must be downloaded separately before running the
 # pull/fetch/build scripts.
 
-# Rebuild the master county-level dataset (needs all source CSVs in place)
+# Rebuild the master county-level dataset (needs the committed inputs plus any
+# optional raw downloads described in DATA_SOURCES.md)
 python build_county_lead_master.py
 
 # Replicate the state-level eagle × veteran suicide analysis
@@ -83,12 +84,22 @@ pdflatex paper2_lead_suicide.tex && pdflatex paper2_lead_suicide.tex
 pdflatex paper3_veteran_lead_suicide.tex && pdflatex paper3_veteran_lead_suicide.tex
 ```
 
+`build_county_lead_master.py` will also merge the optional generated intermediate `usgs_soil_lead_by_county.csv` if you have produced it locally from the raw USGS point file; otherwise it logs that county soil-lead geocoding is still pending and continues without that merge.
+
+## GitHub Pages
+
+A scoped project website now lives in `docs/`, with deployment automation in `.github/workflows/pages.yml`.
+
+- Push this repository to GitHub.
+- In the repository's Pages settings, set the source to **GitHub Actions**.
+- Pushes to `main` will then publish the site automatically.
+
 ## Citation
 
-If you use code or data from this repository, please cite the preprints and this archive. See `CITATION.cff`.
+If you use code or data from this repository, please cite the software archive and the relevant manuscripts. See `CITATION.cff`.
 
 ## Questions, corrections, collaboration
 
-Issues and pull requests welcome. Email `bbarclay6@gmail.com` for collaboration inquiries; see `internal/` for organizational context (not tracked in git).
+Issues and pull requests welcome. Email `bbarclay6@gmail.com` for collaboration inquiries. Internal planning materials are intentionally excluded from the public repository.
 
 The decisive individual-level test requires NCHS Research Data Center access to NHANES III linked mortality files and/or bone-lead XRF on stored veteran biospecimens. If you are an academic investigator with access to either and are interested in collaborating, please get in touch.

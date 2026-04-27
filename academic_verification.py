@@ -20,7 +20,7 @@ from scipy.stats import pearsonr, spearmanr, ttest_ind, mannwhitneyu, shapiro, n
 from scipy.stats import t as t_dist
 
 warnings.filterwarnings('ignore')
-OUTPUT_DIR = Path('/Users/bobbarclay/Documents/soldiers')
+OUTPUT_DIR = Path(__file__).resolve().parent
 
 
 def ols_regression(y, X_df):

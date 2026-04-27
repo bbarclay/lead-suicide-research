@@ -14,8 +14,9 @@ import zipfile
 import pandas as pd
 import requests
 import time
+from pathlib import Path
 
-OUTDIR = "/Users/bobbarclay/Documents/soldiers"
+OUTDIR = Path(__file__).resolve().parent
 OUTFILE = os.path.join(OUTDIR, "epa_tri_lead_by_state_year.csv")
 
 # TRI data years for the panel (2001-2022)

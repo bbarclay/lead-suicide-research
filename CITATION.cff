@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated preprints (below) and this archive."
+message: "If you use this repository, please cite the software archive below and the associated manuscripts when relevant."
 type: software
 title: "Lead exposure and male suicide in U.S. counties and veterans: data and analysis code"
 authors:
@@ -7,7 +7,6 @@ authors:
     given-names: "Bob"
     email: "bbarclay6@gmail.com"
     affiliation: "Independent researcher"
-repository-code: "https://github.com/TBD/lead-veteran-suicide"
 license: MIT
 keywords:
   - suicide
@@ -18,11 +17,10 @@ keywords:
   - firing range lead
   - PACT Act
 preferred-citation:
-  type: article
+  type: unpublished
   title: "Structural Disadvantage, Lead Exposure, and Male Suicide: Why Alcohol Access Fails as a Predictor and What Replaces It"
   authors:
     - family-names: "Barclay"
       given-names: "Bob"
   year: 2026
-  journal: "medRxiv (preprint)"
-  doi: "10.1101/TBD"
+  note: "Manuscript / preprint in preparation."

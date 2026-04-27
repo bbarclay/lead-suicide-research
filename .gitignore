@@ -17,6 +17,7 @@ __pycache__/
 venv/
 .pytest_cache/
 .ipynb_checkpoints/
+_site/
 
 # Secrets
 .env
@@ -45,7 +46,7 @@ socrata_health_Childhood_Blood_Lead_Testing_and_El.csv
 usgs_soil_lead_concentrations.csv
 usgs_soil_lead_points.csv
 VA_2025_Annual_Report_Part2_Findings.pdf
-"Supplement B/"
+Supplement B/
 tri_pb_facility.csv
 tri_release_sample.csv
 tri_pb_releases.csv

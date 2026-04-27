@@ -9,12 +9,13 @@ import numpy as np
 from scipy import stats
 from scipy.spatial.distance import cdist
 import warnings
+from pathlib import Path
 warnings.filterwarnings('ignore')
 
 # ============================================================
 # LOAD DATA
 # ============================================================
-df = pd.read_csv('/Users/bobbarclay/Documents/soldiers/real_county_dataset.csv')
+df = pd.read_csv(Path(__file__).resolve().parent / 'real_county_dataset.csv')
 
 print("=" * 90)
 print("PAPER 1 NUMBER VERIFICATION REPORT")

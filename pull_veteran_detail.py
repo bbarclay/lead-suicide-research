@@ -15,12 +15,14 @@ import json
 import csv
 import sys
 import time
+from pathlib import Path
 
 import os as _os
 API_KEY = _os.environ.get("CENSUS_API_KEY")
 if not API_KEY:
     raise RuntimeError("Set CENSUS_API_KEY in your environment (see .env.example). Get a key free from https://api.census.gov/data/key_signup.html")
 BASE_URL = "https://api.census.gov/data/2022/acs/acs5"
+BASE_DIR = Path(__file__).resolve().parent
 
 
 def fetch_census(variables, geo="county:*", in_geo="", retries=3):
@@ -149,7 +151,7 @@ def pull_b21002():
         })
 
     # Save CSV
-    outpath = "/Users/bobbarclay/Documents/soldiers/veteran_period_of_service_by_county.csv"
+    outpath = BASE_DIR / "veteran_period_of_service_by_county.csv"
     fieldnames = [
         "FIPS", "county_name", "total_veterans",
         "gulf_war_2_vets", "gulf_war_1_vets", "vietnam_vets",
@@ -300,7 +302,7 @@ def pull_b21005():
         })
 
     # Save CSV
-    outpath = "/Users/bobbarclay/Documents/soldiers/veteran_employment_by_county.csv"
+    outpath = BASE_DIR / "veteran_employment_by_county.csv"
     fieldnames = list(output[0].keys())
     with open(outpath, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
