@@ -14,6 +14,8 @@ on:
       - README.md
       - DATA_SOURCES.md
       - THIRD_PARTY_DATA_NOTICE.md
+      - references_paper2.bib
+      - references_paper3.bib
   workflow_dispatch:
 
 permissions:

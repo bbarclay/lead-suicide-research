@@ -1,5 +1,9 @@
 # Lead Exposure and Male Suicide in U.S. Counties and Veterans
 
+[![GitHub](https://img.shields.io/badge/GitHub-bbarclay%2Flead--suicide--research-blue?logo=github)](https://github.com/bbarclay/lead-suicide-research)
+[![Website](https://img.shields.io/badge/Website-GitHub%20Pages-orange?logo=githubpages)](https://bbarclay.github.io/lead-suicide-research)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Reproducible data and analysis code for two manuscripts testing whether environmental and occupational lead exposure is associated with male suicide, with a particular focus on the widening veteran suicide gap.
 
 **Status:** hypothesis-generating, ecological preprints in preparation. Individual-level validation (bone-lead measurements in veteran suicide decedents) has not yet been performed; see [Limitations](#what-this-work-does-not-prove) below.
@@ -12,11 +16,15 @@ Reproducible data and analysis code for two manuscripts testing whether environm
 |---|---|
 | `paper2_lead_suicide.tex` / `.pdf` | **Paper 2 — ecological study of 2,683 U.S. counties.** Compares alcohol access (null) and environmental lead exposure (significant) as predictors of male suicide, with NHANES, IHME, and military convergent evidence. |
 | `paper3_veteran_lead_suicide.tex` / `.pdf` | **Paper 3 — veteran-focused.** Tests the state- and county-level mining × veteran interaction, validates against VA state-level suicide data, and introduces wildlife bone lead (eagle femur Pb, Slabe 2022) as a bioindicator. |
+| `references_paper2.bib` / `references_paper3.bib` | BibTeX bibliographies for professional LaTeX compilation. |
 | `figure_eagle_vet_suicide.pdf` | Publication-grade figure: eagle femur lead vs. 2023 VA veteran suicide rate by state. |
 | Root-level `*.py` scripts | One script per analysis layer (see [Reproducing the results](#reproducing-the-results)). |
 | `DATA_SOURCES.md` | Provenance for every dataset, with direct download URLs and license terms. |
+| `THIRD_PARTY_DATA_NOTICE.md` | Licensing clarification for bundled third-party data. |
 | `docs/` | GitHub Pages source for the public project website. |
 | `CITATION.cff` | Academic citation metadata. |
+| `CONTRIBUTING.md` | Guidelines for contributing corrections, improvements, or collaborations. |
+| `CHANGELOG.md` | Version history and future work roadmap. |
 
 ## Headline findings
 

@@ -8,6 +8,8 @@ authors:
     email: "bbarclay6@gmail.com"
     affiliation: "Independent researcher"
 license: MIT
+repository-code: "https://github.com/bbarclay/lead-suicide-research"
+url: "https://bbarclay.github.io/lead-suicide-research"
 keywords:
   - suicide
   - lead exposure
@@ -24,3 +26,4 @@ preferred-citation:
       given-names: "Bob"
   year: 2026
   note: "Manuscript / preprint in preparation."
+  url: "https://github.com/bbarclay/lead-suicide-research"
