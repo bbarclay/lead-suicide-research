@@ -27,7 +27,7 @@ If you have additional county-level datasets that could strengthen the analysis:
 
 ### Research Collaboration
 
-For substantive research collaboration inquiries (access to restricted datasets, bone-lead validation studies, grant partnerships), email `bbarclay6@gmail.com` directly rather than using GitHub issues.
+For substantive research collaboration inquiries (access to restricted datasets, bone-lead validation studies, grant partnerships), email `barclaybrandon@hotmail.com` directly rather than using GitHub issues.
 
 ## Code Standards
 
@@ -69,4 +69,4 @@ The following would be especially valuable:
 
 ## Questions?
 
-Open a discussion (if enabled) or email `bbarclay6@gmail.com`.
+Open a discussion (if enabled) or email `barclaybrandon@hotmail.com`.

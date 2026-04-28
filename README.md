@@ -108,6 +108,6 @@ If you use code or data from this repository, please cite the software archive a
 
 ## Questions, corrections, collaboration
 
-Issues and pull requests welcome. Email `bbarclay6@gmail.com` for collaboration inquiries. Internal planning materials are intentionally excluded from the public repository.
+Issues and pull requests welcome. Email `barclaybrandon@hotmail.com` for collaboration inquiries. Internal planning materials are intentionally excluded from the public repository.
 
 The decisive individual-level test requires NCHS Research Data Center access to NHANES III linked mortality files and/or bone-lead XRF on stored veteran biospecimens. If you are an academic investigator with access to either and are interested in collaborating, please get in touch.
