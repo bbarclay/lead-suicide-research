@@ -4,7 +4,7 @@ type: software
 title: "Lead exposure and male suicide in U.S. counties and veterans: data and analysis code"
 authors:
   - family-names: "Barclay"
-    given-names: "Bob"
+    given-names: "Brandon"
     email: "barclaybrandon@hotmail.com"
     affiliation: "Independent researcher"
 license: MIT
@@ -23,7 +23,7 @@ preferred-citation:
   title: "Structural Disadvantage, Lead Exposure, and Male Suicide: Why Alcohol Access Fails as a Predictor and What Replaces It"
   authors:
     - family-names: "Barclay"
-      given-names: "Bob"
+      given-names: "Brandon"
   year: 2026
   note: "Manuscript / preprint in preparation."
   url: "https://github.com/bbarclay/lead-suicide-research"
